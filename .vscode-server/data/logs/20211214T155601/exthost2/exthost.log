@@ -1,0 +1,22 @@
+[2021-12-14 15:56:12.516] [exthost] [info] Extension host with pid 3158 started
+[2021-12-14 15:56:12.526] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Lock acquired.
+[2021-12-14 15:56:12.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-14 15:56:12.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-14 15:56:12.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-14 15:56:13.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-14 15:56:13.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-14 15:56:13.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-14 15:56:13.286] [exthost] [info] Eager extensions activated
+[2021-12-14 16:01:00.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 16:01:00.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 16:01:00.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 16:01:00.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-14 16:01:16.227] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+[2021-12-14 16:07:32.490] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: '*'
+[2021-12-14 16:07:48.152] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:07:48.722] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:07:51.586] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:07:56.728] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:08:01.799] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:08:06.946] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310
+[2021-12-14 16:08:12.021] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1310

@@ -1,0 +1,40 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 40961
+
+[15:56:01] Extension host agent started.
+[15:56:01] [127.0.0.1][a6ee5b07][ManagementConnection] New connection established.
+[15:56:01] [127.0.0.1][3b6c9f81][ExtensionHostConnection] New connection established.
+[15:56:01] [127.0.0.1][3b6c9f81][ExtensionHostConnection] <2967> Launched Extension Host Process.
+[15:56:05] [127.0.0.1][a6ee5b07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:05] [127.0.0.1][3b6c9f81][ExtensionHostConnection] <2967> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:56:05] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:56:10] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:56:10] Cancelling previous shutdown timeout
+[15:56:11] [127.0.0.1][294f96b2][ManagementConnection] New connection established.
+[15:56:11] [127.0.0.1][97e36fdd][ExtensionHostConnection] New connection established.
+[15:56:11] [127.0.0.1][97e36fdd][ExtensionHostConnection] <3158> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:01:10] New EH opened, aborting shutdown
+[16:01:12] Installing extension: ms-azuretools.vscode-docker
+[16:01:12] Downloaded extension: ms-azuretools.vscode-docker /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[16:01:12] Extracted extension to /home/ubuntu/.vscode-server/extensions/.9e7963e1-bbd2-42b2-aea8-a8b59e5decb8: ms-azuretools.vscode-docker
+[16:01:12] Renamed to /home/ubuntu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[16:01:12] Extracting completed. ms-azuretools.vscode-docker
+[16:01:12] Extension installed successfully: ms-azuretools.vscode-docker
+[16:07:31] Installing extension: github.vscode-pull-request-github
+[16:07:31] Downloaded extension: github.vscode-pull-request-github /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.34.1
+[16:07:32] Extracted extension to /home/ubuntu/.vscode-server/extensions/.5c9fe9c7-edea-4cac-ad37-c2b8cd3a486a: github.vscode-pull-request-github
+[16:07:32] Renamed to /home/ubuntu/.vscode-server/extensions/github.vscode-pull-request-github-0.34.1
+[16:07:32] Extracting completed. github.vscode-pull-request-github
+[16:07:32] Extension installed successfully: github.vscode-pull-request-github
