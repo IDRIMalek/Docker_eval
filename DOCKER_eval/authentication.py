@@ -2,9 +2,9 @@ import os
 import requests
 
 # définition de l'adresse de l'API
-address = 'localhost'
+address = '34.244.150.51'
 # port de l'API
-port = 9000
+port = 8000
 
 # requête
 r = requests.get(
@@ -14,7 +14,6 @@ r = requests.get(
         'password': 'wonderland'
     }
 )
-
 
 output = '''
 ============================
@@ -31,7 +30,6 @@ actual restult = {status_code}
 ==>  {test_status}
 
 '''
-
 
 # statut de la requête
 status_code = r.status_code

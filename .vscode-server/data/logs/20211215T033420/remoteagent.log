@@ -1,0 +1,23 @@
+[2021-12-15 03:34:21.043] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-15 03:34:21.043] [remoteagent] [info] Extension host agent started.
+[2021-12-15 03:34:21.297] [remoteagent] [info] [127.0.0.1][52ba384f][ManagementConnection] New connection established.
+[2021-12-15 03:34:21.312] [remoteagent] [info] [127.0.0.1][c6cc31fa][ExtensionHostConnection] New connection established.
+[2021-12-15 03:34:21.317] [remoteagent] [info] [127.0.0.1][c6cc31fa][ExtensionHostConnection] <22078> Launched Extension Host Process.
+[2021-12-15 03:34:23.979] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+[2021-12-15 03:34:24.405] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-fr-1.63.3
+[2021-12-15 03:34:24.827] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.371c8e42-ba25-4165-b5f8-dfcaa1abc052: ms-ceintl.vscode-language-pack-fr
+[2021-12-15 03:34:24.833] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.63.3
+[2021-12-15 03:34:24.834] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-fr
+[2021-12-15 03:34:24.834] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+[2021-12-15 03:34:24.918] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+[2021-12-15 06:24:20.564] [remoteagent] [info] [127.0.0.1][c6cc31fa][ExtensionHostConnection] The client has reconnected.
+[2021-12-15 06:24:22.889] [remoteagent] [info] [127.0.0.1][52ba384f][ManagementConnection] The client has reconnected.

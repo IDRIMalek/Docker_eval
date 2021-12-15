@@ -33,3 +33,13 @@
 [2021-12-14 16:07:32.077] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/github.vscode-pull-request-github-0.34.1
 [2021-12-14 16:07:32.079] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
 [2021-12-14 16:07:32.079] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2021-12-14 16:45:16.784] [remoteagent] [info] Installing extension: rangav.vscode-thunder-client
+[2021-12-14 16:45:17.185] [remoteagent] [info] Downloaded extension: rangav.vscode-thunder-client /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/rangav.vscode-thunder-client-1.9.1
+[2021-12-14 16:45:17.246] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.5a50b416-b2c1-47ef-bf19-ebe9e056e692: rangav.vscode-thunder-client
+[2021-12-14 16:45:17.254] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/rangav.vscode-thunder-client-1.9.1
+[2021-12-14 16:45:17.255] [remoteagent] [info] Extracting completed. rangav.vscode-thunder-client
+[2021-12-14 16:45:17.255] [remoteagent] [info] Extension installed successfully: rangav.vscode-thunder-client
+[2021-12-14 17:21:30.209] [remoteagent] [info] [127.0.0.1][294f96b2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-14 20:05:55.553] [remoteagent] [info] [127.0.0.1][97e36fdd][ExtensionHostConnection] <3158> Extension Host Process exited with code: 0, signal: null.
+[2021-12-14 20:05:55.554] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-14 20:10:55.556] [remoteagent] [info] Last EH closed, shutting down
