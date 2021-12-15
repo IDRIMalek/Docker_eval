@@ -24,3 +24,17 @@ exit
 ls
 ll
 sudo apt install zip
+docker container run -p 8000:8000 datascientest/fastapi:1.0.0
+ls
+docker image pull datascientest/fastapi:1.0.0
+mkdir DOCKER_eval
+cd DOCKER_eval/
+python authentication.py 
+python3  authentication.py 
+git config --global user.name "IDRIMalek"
+git config --global user.email idri.malek@gmail.com
+python3  authorizationv1.py 
+docker image build . -t authentication:latest
+ls
+docker image build . -t authentication:latest
+docker image ls
