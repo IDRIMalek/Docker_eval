@@ -21,3 +21,55 @@
 [2021-12-15 03:34:24.918] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
 [2021-12-15 06:24:20.564] [remoteagent] [info] [127.0.0.1][c6cc31fa][ExtensionHostConnection] The client has reconnected.
 [2021-12-15 06:24:22.889] [remoteagent] [info] [127.0.0.1][52ba384f][ManagementConnection] The client has reconnected.
+[2021-12-15 09:08:56.010] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-15 09:08:56.535] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-12-15 09:08:56.535] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:56.536] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:56.827] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-12-15 09:08:56.853] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.305c6513-ece4-457a-8a3c-2f9c78f97137: ms-toolsai.jupyter-keymap
+[2021-12-15 09:08:56.858] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-12-15 09:08:56.859] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-12-15 09:08:56.945] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-15 09:08:57.182] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.38d22fc6-6d6d-4ac8-bc09-e9f7836a8a29: ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:57.203] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-15 09:08:57.204] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:57.936] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-15 09:08:58.701] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.45a82c32-8ead-4977-9d89-1c0536f19e61: ms-toolsai.jupyter
+[2021-12-15 09:08:58.715] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-15 09:08:58.717] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-15 09:08:58.718] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-12-15 09:08:58.718] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:58.718] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-15 09:08:59.133] [remoteagent] [info] [127.0.0.1][52ba384f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-15 09:08:59.207] [remoteagent] [info] [127.0.0.1][c6cc31fa][ExtensionHostConnection] <22078> Extension Host Process exited with code: 0, signal: null.
+[2021-12-15 09:08:59.208] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-15 09:09:04.154] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-15 09:09:04.154] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-15 09:09:04.492] [remoteagent] [info] [127.0.0.1][772a4edb][ManagementConnection] New connection established.
+[2021-12-15 09:09:04.560] [remoteagent] [info] [127.0.0.1][019045b2][ExtensionHostConnection] New connection established.
+[2021-12-15 09:09:04.568] [remoteagent] [info] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Launched Extension Host Process.
+[2021-12-15 09:10:58.547] [remoteagent] [info] Installing extension: ms-python.python
+[2021-12-15 09:10:58.889] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-15 09:10:59.694] [remoteagent] [info] Downloaded extension: ms-python.python /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-15 09:11:02.537] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.9ca77251-440a-4a71-878e-730abb2cfe88: ms-python.python
+[2021-12-15 09:11:02.560] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655
+[2021-12-15 09:11:02.563] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-12-15 09:11:03.889] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.2
+[2021-12-15 09:11:07.082] [remoteagent] [info] Extensions is already requested to install ms-python.python
+[2021-12-15 09:11:07.889] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d2ef4d71-388e-4685-a487-992eeacb41b5: ms-python.vscode-pylance
+[2021-12-15 09:11:07.922] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2
+[2021-12-15 09:11:07.923] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-15 09:11:07.924] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-12-15 09:11:07.924] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-12-15 09:12:25.646] [remoteagent] [info] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Starting WebSocket: RAW/api/kernels/b775fa3f-e0f8-494d-91a4-ec76ac36c8d7
+
+[2021-12-15 09:14:04.155] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-15 10:05:17.404] [remoteagent] [info] [127.0.0.1][772a4edb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-15 10:24:39.804] [remoteagent] [info] [127.0.0.1][772a4edb][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-15 10:24:39.804] [remoteagent] [info] [127.0.0.1][40fdd573][ManagementConnection] New connection established.
+[2021-12-15 10:24:39.911] [remoteagent] [info] [127.0.0.1][ff875ea0][ExtensionHostConnection] New connection established.
+[2021-12-15 10:24:39.928] [remoteagent] [info] [127.0.0.1][ff875ea0][ExtensionHostConnection] <139398> Launched Extension Host Process.
+[2021-12-15 10:24:47.049] [remoteagent] [info] [127.0.0.1][ff875ea0][ExtensionHostConnection] <139398> Starting WebSocket: RAW/api/kernels/29351565-bef1-4906-b8a1-08a2e1e0958a
+
+[2021-12-15 10:29:39.946] [remoteagent] [info] [127.0.0.1][772a4edb][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-12-15 10:29:40.127] [remoteagent] [info] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Extension Host Process exited with code: 0, signal: null.

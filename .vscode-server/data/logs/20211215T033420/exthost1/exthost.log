@@ -1474,3 +1474,8 @@
 [2021-12-15 08:44:02.394] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1421
 [2021-12-15 08:44:07.498] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1421
 [2021-12-15 08:44:12.596] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1421
+[2021-12-15 08:44:19.495] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1421
+[2021-12-15 09:06:52.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-15 09:08:59.110] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-15 09:08:59.111] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-15 09:08:59.195] [exthost] [info] Extension host with pid 22078 exiting with code 0

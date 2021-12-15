@@ -13,3 +13,8 @@ Extension host agent listening on 40041
 [20:23:30] [127.0.0.1][294f96b2][ManagementConnection] Unknown reconnection token (never seen).
 [20:23:31] [127.0.0.1][97e36fdd][ExtensionHostConnection] Unknown reconnection token (never seen).
 [03:34:25] Detected extension installed from another source ms-ceintl.vscode-language-pack-fr
+[09:08:57] Detected extension installed from another source ms-toolsai.jupyter-keymap
+[09:08:57] Detected extension installed from another source ms-toolsai.jupyter-renderers
+[09:08:59] Detected extension installed from another source ms-toolsai.jupyter
+[09:11:02] Detected extension installed from another source ms-python.python
+[09:11:08] Detected extension installed from another source ms-python.vscode-pylance

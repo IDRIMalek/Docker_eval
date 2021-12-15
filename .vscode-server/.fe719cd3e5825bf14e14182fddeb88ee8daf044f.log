@@ -51,3 +51,67 @@ stack trace: Error: Could not find pty with id "3",    at l._throwIfNoPty (/home
 rejected promise not handled within 1 second: Error: Could not find pty with id "3"
 stack trace: Error: Could not find pty with id "3",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:6:32597),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
 [Error: Could not find pty with id "3",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/platform/terminal/node/ptyHostMain.js:6:32597),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[09:08:56] Installing extension: ms-toolsai.jupyter
+[09:08:56] Installing extension: ms-toolsai.jupyter-keymap
+[09:08:56] Installing extension: ms-toolsai.jupyter-renderers
+[09:08:56] Extension is already requested to install ms-toolsai.jupyter-renderers
+[09:08:56] Downloaded extension: ms-toolsai.jupyter-keymap /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[09:08:56] Extracted extension to /home/ubuntu/.vscode-server/extensions/.305c6513-ece4-457a-8a3c-2f9c78f97137: ms-toolsai.jupyter-keymap
+[09:08:56] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[09:08:56] Extracting completed. ms-toolsai.jupyter-keymap
+[09:08:56] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[09:08:57] Extracted extension to /home/ubuntu/.vscode-server/extensions/.38d22fc6-6d6d-4ac8-bc09-e9f7836a8a29: ms-toolsai.jupyter-renderers
+[09:08:57] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[09:08:57] Extracting completed. ms-toolsai.jupyter-renderers
+[09:08:57] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[09:08:58] Extracted extension to /home/ubuntu/.vscode-server/extensions/.45a82c32-8ead-4977-9d89-1c0536f19e61: ms-toolsai.jupyter
+[09:08:58] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[09:08:58] Extracting completed. ms-toolsai.jupyter
+[09:08:58] Extension installed successfully: ms-toolsai.jupyter-keymap
+[09:08:58] Extension installed successfully: ms-toolsai.jupyter-renderers
+[09:08:58] Extension installed successfully: ms-toolsai.jupyter
+[09:08:59] [127.0.0.1][52ba384f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:08:59] [127.0.0.1][c6cc31fa][ExtensionHostConnection] <22078> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[09:08:59] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[09:09:04] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[09:09:04] Cancelling previous shutdown timeout
+[09:09:04] [127.0.0.1][772a4edb][ManagementConnection] New connection established.
+[09:09:04] [127.0.0.1][019045b2][ExtensionHostConnection] New connection established.
+[09:09:04] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "6": Replaying 4793 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "8": Replaying 6348 chars and 1 size events
+[09:10:58] Installing extension: ms-python.python
+[09:10:58] Installing extension: ms-python.vscode-pylance
+[09:10:59] Downloaded extension: ms-python.python /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[09:11:02] Extracted extension to /home/ubuntu/.vscode-server/extensions/.9ca77251-440a-4a71-878e-730abb2cfe88: ms-python.python
+[09:11:02] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655
+[09:11:02] Extracting completed. ms-python.python
+[09:11:03] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.2
+[09:11:07] Extensions is already requested to install ms-python.python
+[09:11:07] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d2ef4d71-388e-4685-a487-992eeacb41b5: ms-python.vscode-pylance
+[09:11:07] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2
+[09:11:07] Extracting completed. ms-python.vscode-pylance
+[09:11:07] Extension installed successfully: ms-python.python
+[09:11:07] Extension installed successfully: ms-python.vscode-pylance
+[09:12:25] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Starting WebSocket: RAW/api/kernels/b775fa3f-e0f8-494d-91a4-ec76ac36c8d7
+
+New EH opened, aborting shutdown
+[09:14:04] New EH opened, aborting shutdown
+[10:05:17] [127.0.0.1][772a4edb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[10:24:39] [127.0.0.1][772a4edb][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:24:39] [127.0.0.1][40fdd573][ManagementConnection] New connection established.
+[10:24:39] [127.0.0.1][ff875ea0][ExtensionHostConnection] New connection established.
+[10:24:39] [127.0.0.1][ff875ea0][ExtensionHostConnection] <139398> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "6": Replaying 4744 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "8": Replaying 5967 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "24": Replaying 5309 chars and 1 size events
+[10:24:47] [127.0.0.1][ff875ea0][ExtensionHostConnection] <139398> Starting WebSocket: RAW/api/kernels/29351565-bef1-4906-b8a1-08a2e1e0958a
+
+[10:29:39] [127.0.0.1][772a4edb][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[10:29:40] [127.0.0.1][019045b2][ExtensionHostConnection] <125789> Extension Host Process exited with code: 0, signal: null.

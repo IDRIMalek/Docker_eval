@@ -1,0 +1,42 @@
+[Info  - 9:11:10 AM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 9:11:10 AM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 9:11:10 AM] No configuration file found.
+[Info  - 9:11:10 AM] No pyproject.toml file found.
+[Info  - 9:11:10 AM] Setting pythonPath for service "ubuntu": "/home/ubuntu/FASTAPI_eval/bin/python"
+[Warn  - 9:11:10 AM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 9:11:10 AM] Unable to get Python version from interpreter
+[Info  - 9:11:10 AM] Assuming Python platform Linux
+[Info  - 9:11:10 AM] Searching for source files
+[Info  - 9:11:11 AM] Found 5262 source files
+[Info  - 9:11:11 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 9:11:11 AM] Background analysis(1) started
+[Info  - 9:11:21 AM] No configuration file found.
+[Info  - 9:11:21 AM] No pyproject.toml file found.
+[Info  - 9:11:21 AM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 9:11:21 AM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 9:11:21 AM] Assuming Python version 3.8
+[Info  - 9:11:21 AM] Assuming Python platform Linux
+[Warn  - 9:11:22 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:11:22 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:11:22 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:11:22 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 9:11:22 AM] Searching for source files
+[Info  - 9:11:22 AM] Found 5262 source files
+[Info  - 9:12:06 AM] Searching for source files
+[Info  - 9:12:10 AM] Found 5428 source files
+[Info  - 9:12:12 AM] Searching for source files
+[Info  - 9:12:12 AM] Found 5499 source files
+[Info  - 9:12:13 AM] Searching for source files
+[Info  - 9:12:13 AM] Found 5636 source files
+[Info  - 9:12:15 AM] Searching for source files
+[Info  - 9:12:19 AM] Found 7822 source files
+[Info  - 9:12:24 AM] Searching for source files
+[Info  - 9:12:25 AM] Found 8836 source files
+[Info  - 9:12:26 AM] Searching for source files
+[Info  - 9:12:26 AM] Found 8836 source files
+[Info  - 9:41:09 AM] Searching for source files
+[Info  - 9:41:10 AM] Found 8837 source files
+[Info  - 9:41:40 AM] Searching for source files
+[Info  - 9:41:40 AM] Found 8837 source files
+[Info  - 9:46:53 AM] Searching for source files
+[Info  - 9:46:53 AM] Found 8837 source files

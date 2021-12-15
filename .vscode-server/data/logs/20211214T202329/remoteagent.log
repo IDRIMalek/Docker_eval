@@ -12,3 +12,8 @@
 [2021-12-14 20:23:30.880] [remoteagent] [error] [127.0.0.1][294f96b2][ManagementConnection] Unknown reconnection token (never seen).
 [2021-12-14 20:23:31.358] [remoteagent] [error] [127.0.0.1][97e36fdd][ExtensionHostConnection] Unknown reconnection token (never seen).
 [2021-12-15 03:34:25.147] [remoteagent] [info] Detected extension installed from another source ms-ceintl.vscode-language-pack-fr
+[2021-12-15 09:08:57.281] [remoteagent] [info] Detected extension installed from another source ms-toolsai.jupyter-keymap
+[2021-12-15 09:08:57.281] [remoteagent] [info] Detected extension installed from another source ms-toolsai.jupyter-renderers
+[2021-12-15 09:08:59.045] [remoteagent] [info] Detected extension installed from another source ms-toolsai.jupyter
+[2021-12-15 09:11:02.889] [remoteagent] [info] Detected extension installed from another source ms-python.python
+[2021-12-15 09:11:08.244] [remoteagent] [info] Detected extension installed from another source ms-python.vscode-pylance
