@@ -2,3 +2,9 @@ version: "3.9"
 services:
   authentication:
     image: authentication:latest
+    volumes:
+    - .:/my_server/
+  #authorization:
+  #  image: authorization:latest
+  #content:
+  #  image: content:latest

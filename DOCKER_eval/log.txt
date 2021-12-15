@@ -1,0 +1,4 @@
+Attaching to docker_eval_authentication_1
+[36mauthentication_1  |[0m python3: can't open file '/my_server/authentication.py': [Errno 2] No such file or directory
+[36mdocker_eval_authentication_1 exited with code 2
+[0m

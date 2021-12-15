@@ -117,3 +117,37 @@ Info 11:01:06: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint
 Info 11:01:06: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
 Info 11:01:06: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
 Info 11:01:06: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:03:30: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:30: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:30: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:30: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:30: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:03:30: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:03:30: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:03:30: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:03:33: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:33: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:03:33: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:03:33: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:04:15: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:15: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:15: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:15: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:15: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:04:15: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:04:15: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:04:15: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:04:17: Executing (status idle) silently Code = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:17: Executing silently Code (completed) = _rwho_ls = %who_ls\nprint(_VSCODE_getVariableTypes(_rwho_ls))
+Info 11:04:17: Executing (status idle) silently Code = print(_VSCODE_getVariableInfo(user))
+Info 11:04:17: Executing silently Code (completed) = print(_VSCODE_getVariableInfo(user))
+Info 11:21:05: Shutting down notebooks for 3704130f-eeb8-4c8a-a85d-58c7d2d20568
+Info 11:21:05: Disposing HostJupyterExecution 460335a0-6be4-4a9f-becb-c9d26f7f2758
+Info 11:21:05: Disposing super HostJupyterExecution 460335a0-6be4-4a9f-becb-c9d26f7f2758
+Info 11:21:05: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 11:21:05: Dispose Kernel process
+Info 11:21:05: kill daemon
+Info 11:21:05: Disposing HostJupyterExecution 460335a0-6be4-4a9f-becb-c9d26f7f2758
+Info 11:21:05: Finished disposing HostJupyterExecution  460335a0-6be4-4a9f-becb-c9d26f7f2758
+Info 11:21:05: Cleaning up server cache 460335a0-6be4-4a9f-becb-c9d26f7f2758
+Info 11:21:05: Finished disposing HostJupyterExecution  460335a0-6be4-4a9f-becb-c9d26f7f2758

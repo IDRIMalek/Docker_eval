@@ -38,3 +38,79 @@ docker image build . -t authentication:latest
 ls
 docker image build . -t authentication:latest
 docker image ls
+docker system purne
+docker system purne -a
+docker system prune
+docker image ls
+docker image build . -t my_image:latest
+ls
+cd DOCKER_eval/
+docker image build . -t my_image:latest
+docker image ls
+ls
+docker system prune
+docker image build . -t my_image:latest
+docker image ls
+docker run -it debian
+mkdir my_docker_image
+mkdir my_docker_image && cd $_
+docker image ls
+docker run -it exo
+docker container run -p 5000:5000 -d myexoatest
+docker container run -p 5000:5000 -d exo:latest
+curl -X GET -i http://localhost:9200
+curl -X GET -i http://34.244.150.51:9200
+curl - X GET -i  http://0.0.0.0:8000/permissions?username=alice&password=wonderland
+curl - X GET -i  http://0.0.0.0:8000/permissions?username=alice&password=wonderland
+curl -X GET -i http://localhost:5000
+docker image push malekidri/exo:latest
+cd /docker.io
+docker image ls
+docker image push exo:latest
+docker push malekidri/malekidri:tagname
+docker pull malekidri/malekidri
+docker login -u malekidri
+docker image push exo:latest
+docker tag exo malekidri/exo
+docker push malekidri\exo
+docker image ls
+docker push malekidri/exo
+ls
+cd DOCKER_eval/
+ls
+python3 authentication.py 
+docker image pull elasticsearch:7.2.0
+docker container run -d -rm -e discovery.type=single-node --name 
+docker container run -d -rm -e discovery.type=single-node --name my_es_container elasticsearch 
+docker container run -d --rm -e discovery.type=single-node --name my_es_container elasticsearch 
+docker container run -d --rm -e "discovery.type=single-node" --name my_es_container elasticsearch:7.2.0 
+docker container inspect my_es_container | grep IPAddress
+curl -X GET -i http://172.17.0.2:9200
+docker container run -p 8000:8000 datascientest/fastapi:1.0.0
+docker container inspect datasceintest/fastapi | grep IPAddress
+docker container ps -a
+docker container inspect sleepy_sinoussi | grep IPAddress
+ls
+python authentication.py 
+python3 authentication.py 
+docker container run -it -d authentication
+docker image ls
+pip freeze
+docker image ls
+docker image rm 129ef3cbbc5e
+docker image ls
+docker image rm 184795d527f8
+python3 authentication.py 
+ls
+docker-compose up
+ls
+bash setup.sh 
+bash setup.sh > api_test.log 
+docker push authentication
+docker tag authentication:latest 
+docker tag authentication:latest  malekidri/authantication
+docker push authentication
+docker push malekidri/authentication
+docker tag  authentication malekidri/authentication
+docker push malekidri/authentication
+/bin/python3 /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /bin/python3 -m pip install -U --force-reinstall ipykernel /tmp/tmp-125789oyANxtmkVHsN.log

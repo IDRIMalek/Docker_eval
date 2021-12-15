@@ -1,0 +1,59 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 15:40:00: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 15:40:00: ZMQ install verified.
+Info 15:40:01: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:40:01: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: Early registration of controller for Kernel connection .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:40:01: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: Setting controller affinity for ~/DOCKER_eval/tests.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:40:01: Setting setActiveController for ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:40:01: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:40:01: Creating raw notebook for ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: Getting preferred kernel for ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: Computing working directory ~/DOCKER_eval/tests.ipynb
+Info 15:40:01: Starting raw kernel Python 3.8.10 64-bit
+Info 15:40:01: installMissingDependencies /bin/python3
+Info 15:40:01: IPykernel found previously in this enviornment /bin/python3
+Info 15:40:01: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 15:40:01: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 15:40:01: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 15:40:01: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 15:40:01: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 15:40:02: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 15:40:02: Creating daemon process for /bin/python3 with env variables count 0
+Info 15:40:02: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 15:40:02: Registering dummy command feature
+Info 15:40:03: Starting kernel from scratch
+Info 15:40:03: IPyWidgetScriptSource.initialize
+Warn 15:40:04: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 15:40:04: StdErr from Kernel Process   warn(
+
+Warn 15:40:04: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b661012e-4495-4384-ac89-48486bf36694' instead of 'b"b661012e-4495-4384-ac89-48486bf36694"'.
+
+Warn 15:40:04: StdErr from Kernel Process   warn(
+
+Info 15:40:04: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 15:40:04: Finished connecting f4bfd453-0aff-4fc8-9546-6aff73123143
+Info 15:40:04: UpdateWorkingDirectoryAndPath in Kernel
+Info 15:40:04: changeDirectoryIfPossible
+Info 15:40:04: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 15:40:05: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 15:40:05: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 15:40:05: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 15:40:05: Initialize matplotlib for file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 15:40:05: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 15:40:05: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 15:40:05: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 15:40:05: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 15:40:05: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 15:40:05: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 15:40:05: Waiting for idle on (kernel): 844c9497-0108-4c2e-96af-8fc437220360 -> idle
+Info 15:40:05: Finished waiting for idle on (kernel): 844c9497-0108-4c2e-96af-8fc437220360 -> idle

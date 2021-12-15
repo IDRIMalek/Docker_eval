@@ -1,3 +1,4 @@
+#-------------------------------------Authorization
 import os
 import requests
 import csv
@@ -7,13 +8,14 @@ address = '34.244.150.51'
 # port de l'API
 port = 8000
 
-def request_test(user, password):
+def request_test(user, password,version):
     # requête
     r = requests.get(
-        url=f'http://{address}:{port}/permissions',
+        url=f'http://{address}:{port}/{version}/sentiment',
         params= {
             'username': user,
-            'password': password
+            'password': password, 
+            'sentence': "life is beautiful"
         }
     )
 
@@ -22,7 +24,7 @@ def request_test(user, password):
         Authentication test
     ============================
 
-    request done at "/permissions"
+    request done at "{version}/sentiment"
     | username={user}
     | password={password}
 
@@ -41,7 +43,8 @@ def request_test(user, password):
         test_status = 'SUCCESS'
     else:
         test_status = 'FAILURE'
-    print(output.format(status_code=status_code, test_status=test_status, user=user, password=password))
+    print(output.format(status_code=status_code, test_status=test_status, user=user, 
+    password=password, version=version))
 
     # impression dans un fichier
     if os.environ.get('LOG') == 1:
@@ -52,5 +55,8 @@ with open('user.csv', newline='') as f:
     reader = csv.DictReader(f)
     users = list(reader)
 
+versions=["v1", "v2"]
 for user in users:
-    request_test(user['users'], user['password'])
+    if not user['users']=="clementine":
+        for version in versions:
+            request_test(user['users'], user['password'], version)

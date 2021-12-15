@@ -56,3 +56,50 @@
 	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
 	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
 	at async o.provideHover (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-15 11:02:56.013] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2021-12-15 11:04:10.895] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-15 11:04:10.896] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-15 11:04:12.150] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-15 11:04:12.150] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-15 11:13:06.808] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-15 11:13:06.808] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-15 11:13:16.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-15 11:13:16.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-15 11:13:17.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-15 11:19:54.435] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-15 11:19:54.436] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-15 11:21:05.259] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-15 11:21:05.260] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-15 11:21:05.329] [exthost] [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at t._remoteCall (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:99:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:99:10271)
+	at i.showMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:133453)
+	at Object.showErrorMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:104:30013)
+	at /home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/extensions/git/dist/main.js:2:930279
+	at async r._executeContributedCommand (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:31072) git.refresh {"value":"vscode.git","_lower":"vscode.git"}
+[2021-12-15 11:21:05.330] [exthost] [error] Canceled: Canceled
+	at Object.R [as canceled] (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at t._remoteCall (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:99:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:99:10271)
+	at i.showMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:133453)
+	at Object.showErrorMessage (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:104:30013)
+	at /home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/extensions/git/dist/main.js:2:930279
+	at async r._executeContributedCommand (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:31072) git.commit {"value":"vscode.git","_lower":"vscode.git"}
+[2021-12-15 11:21:06.310] [exthost] [info] Extension host with pid 139398 exiting with code 0
