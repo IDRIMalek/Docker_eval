@@ -15,3 +15,9 @@
 [Info  - 4:56:55 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
 [Info  - 4:56:55 AM] Background analysis(1) started
 [Info  - 4:56:55 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2454ms)
+[Info  - 5:28:25 AM] Searching for source files
+[Info  - 5:28:26 AM] Found 10918 source files
+[Info  - 5:46:08 AM] Searching for source files
+[Info  - 5:46:09 AM] Found 10918 source files
+[Info  - 5:50:29 AM] Searching for source files
+[Info  - 5:50:29 AM] Found 10918 source files

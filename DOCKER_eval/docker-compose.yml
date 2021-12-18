@@ -6,17 +6,26 @@ services:
     networks:
       - my_network
     ports:
-      - "8000:8000"
+      - target: 8000
+        published: 8000
+        protocol: tcp
+        mode: host
   authentication:
     image: authentication:latest
     container_name: authentication    
-    depends_on: api
+    depends_on: 
+      - api
     networks:
       - my_network
-  #authorization:
-  #  image: authorization:latest
+  authorization:
+    image: authorization:latest
+    container_name: authorization 
+    depends_on: 
+      - api
+    networks:
+      - my_network
   #content:
   #  image: content:latest
 
 networks:
- - my_network
+ my_network:

@@ -1,3 +1,123 @@
-Attaching to docker_eval_authentication_1
-[36mdocker_eval_authentication_1 exited with code 0
+1.0.0: Pulling from datascientest/fastapi
+Digest: sha256:7048b3ac7c21666f0965042eb2e9ac49849cefb67cc080b0d72ed9ad8b587b2d
+Status: Downloaded newer image for datascientest/fastapi:1.0.0
+Attaching to my_api_container, authentication, authorization
+[32mmy_api_container  |[0m INFO:     Started server process [8]
+[32mmy_api_container  |[0m INFO:     Waiting for application startup.
+[32mmy_api_container  |[0m INFO:     Application startup complete.
+[32mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[32mmy_api_container  |[0m INFO:     34.244.150.51:34878 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[32mmy_api_container  |[0m INFO:     34.244.150.51:48574 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[32mmy_api_container  |[0m INFO:     34.244.150.51:34882 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[32mmy_api_container  |[0m INFO:     34.244.150.51:34884 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[32mmy_api_container  |[0m INFO:     34.244.150.51:48580 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[32mmy_api_container  |[0m INFO:     34.244.150.51:34888 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m         Authentication test
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     request done at "v1/sentiment"
+[33mauthorization     |[0m     | username=alice
+[33mauthorization     |[0m     | password=wonderland
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     expected result = 200
+[33mauthorization     |[0m     actual restult = 200
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ==>  SUCCESS
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m         Authentication test
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     request done at "v2/sentiment"
+[33mauthorization     |[0m     | username=alice
+[33mauthorization     |[0m     | password=wonderland
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     expected result = 200
+[33mauthorization     |[0m     actual restult = 200
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ==>  SUCCESS
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m         Authentication test
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     request done at "v1/sentiment"
+[33mauthorization     |[0m     | username=bob
+[33mauthorization     |[0m     | password=builder
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     expected result = 200
+[33mauthorization     |[0m     actual restult = 200
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ==>  SUCCESS
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m         Authentication test
+[33mauthorization     |[0m     ============================
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     request done at "v2/sentiment"
+[33mauthorization     |[0m     | username=bob
+[33mauthorization     |[0m     | password=builder
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     expected result = 200
+[33mauthorization     |[0m     actual restult = 403
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     ==>  FAILURE
+[33mauthorization     |[0m 
+[33mauthorization     |[0m     
+[32mmy_api_container  |[0m INFO:     34.244.150.51:48584 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m         Authentication test
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     request done at "/permissions"
+[36mauthentication    |[0m     | username=alice
+[36mauthentication    |[0m     | password=wonderland
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     expected result = 200
+[36mauthentication    |[0m     actual restult = 200
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ==>  SUCCESS
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m         Authentication test
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     request done at "/permissions"
+[36mauthentication    |[0m     | username=bob
+[36mauthentication    |[0m     | password=builder
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     expected result = 200
+[36mauthentication    |[0m     actual restult = 200
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ==>  SUCCESS
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m         Authentication test
+[36mauthentication    |[0m     ============================
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     request done at "/permissions"
+[36mauthentication    |[0m     | username=clementine
+[36mauthentication    |[0m     | password=mandarine
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     expected result = 200
+[36mauthentication    |[0m     actual restult = 403
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     ==>  FAILURE
+[36mauthentication    |[0m 
+[36mauthentication    |[0m     
+[33mauthorization exited with code 0
+[0m[36mauthentication exited with code 0
 [0m
