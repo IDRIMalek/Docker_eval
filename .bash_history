@@ -114,3 +114,90 @@ docker push malekidri/authentication
 docker tag  authentication malekidri/authentication
 docker push malekidri/authentication
 /bin/python3 /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /bin/python3 -m pip install -U --force-reinstall ipykernel /tmp/tmp-125789oyANxtmkVHsN.log
+\home\ubuntu\DOCKER_eval\setup.sh
+cd DOCKER_eval/
+bash setup.sh 
+docker container ls
+bash setup.sh 
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic alice:wonderland'  -d '{
+  "subject": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic alice:wonderland'  -d '{
+  "subject": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic alice:wonderland'  -d '{
+  "subject": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic admin:4dm1N'  -d '{
+  "subject": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -i
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic admin:4dm1N'  -d '{
+  "subject": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic admin:4dm1N'  -d '{
+  "subjects": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic admin:4dm1N'  -d '{
+  "subjects": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+curl -X 'POST'   'http://127.0.0.1:8000/qcm'   -H 'accept: application/json'   -H 'Content-Type: application/json'   -H 'Authorization: Basic admin:4dm1N'  -d '{
+  "subjects": ["Machine Learning", "BDD"],
+  "use": "Total Bootcamp"
+}'
+mkdir FASTAPI
+cd FASTAPI/FASTAPI_eval/
+source bin/activate
+uvicorn main:api --reload
+pip install -r requirements.txt
+uvicorn main:api --reload
+pip install uvicorn
+uvicorn main:api --reload
+pip install pandas
+uvicorn main:api --reload
+pip install fastapi
+uvicorn main:api --reload
+\home\ubuntu\DOCKER_eval\setup.sh
+cd DOCKER_eval/
+bash setup.sh 
+docker container run -p 8000:8000 datascientest/fastapi:1.0.0
+bash setup.sh 
+docker container run -it -p 8000:8000 datascientest/fastapi:1.0.0
+docker container ls
+docker container run -p 8000:8000 datascientest/fastapi:1.0.0 -d
+docker container run -d -p 8000:8000 datascientest/fastapi:1.0.0 
+docker container ls
+docker container stop 1b3aa92bf1a2
+docker container ls
+docker container run -it -p 8000:8000 datascientest/fastapi:1.0.0 bash
+ls
+cp docker-compose.yml /ubuntu/docker-compose.yml
+cp docker-compose.yml ~/ubuntu/docker-compose.yml
+cp docker-compose.yml ~/docker-compose.yml
+docker container run -p 8000:8000 datascientest/fastapi:1.0.0
+mkdir fastapi
+cd DOCKER_eval/
+ls
+bash setup.sh 
+docker container run -p -d --rm 8000:8000 datascientest/fastapi:1.0.0
+docker container run -p -d 8000:8000 datascientest/fastapi:1.0.0
+bash setup.sh 
+clear
+bash setup.sh 
+clear
+docker container ls
+bash setup.sh 
+clear
+bash setup.sh 
+ls
+docker-compose up
+clear
+docker-compose up
+docker network create --subnet 172.50.0.0/16 --gateway 172.50.0.1 my_network

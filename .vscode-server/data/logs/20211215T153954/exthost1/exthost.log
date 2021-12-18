@@ -51,3 +51,6 @@
 	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
 	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/fe719cd3e5825bf14e14182fddeb88ee8daf044f/out/vs/server/remoteExtensionHostProcess.js:95:93216)
 [2021-12-15 16:36:32.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-15 17:33:21.658] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-15 17:33:21.659] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-15 17:33:22.714] [exthost] [info] Extension host with pid 150242 exiting with code 0

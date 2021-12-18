@@ -4072,3 +4072,2669 @@ Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is mos
 Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
 > git config --get commit.template
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git config --local branch.dev.github-pr-owner-number
+> git ls-tree -l HEAD -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv HEAD:DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git ls-tree -l HEAD -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 2a7c968b58b5b4ef41bddac5a6659a048e62a1b6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 2a7c968b58b5b4ef41bddac5a6659a048e62a1b6
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 2a7c968b58b5b4ef41bddac5a6659a048e62a1b6
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 2a7c968b58b5b4ef41bddac5a6659a048e62a1b6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 7051877baccbf56cecfdba56527ee4ae61127882.. -- /home/ubuntu/DOCKER_eval/setup.sh
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template

@@ -1,0 +1,16 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 05:58:37: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 05:58:37: ZMQ install verified.
+Info 05:58:38: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 05:58:38: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 07:53:47: Shutting down notebooks for 861218f6-fab4-4f99-9d64-328dba9d7897
+Info 07:53:47: Disposing HostJupyterExecution cb219c7d-dab2-4fc8-bc59-b329e6129ef5
+Info 07:53:47: Disposing super HostJupyterExecution cb219c7d-dab2-4fc8-bc59-b329e6129ef5
+Info 07:53:47: Disposing HostJupyterExecution cb219c7d-dab2-4fc8-bc59-b329e6129ef5
+Info 07:53:47: Finished disposing HostJupyterExecution  cb219c7d-dab2-4fc8-bc59-b329e6129ef5
+Info 07:53:47: Cleaning up server cache cb219c7d-dab2-4fc8-bc59-b329e6129ef5
+Info 07:53:47: Finished disposing HostJupyterExecution  cb219c7d-dab2-4fc8-bc59-b329e6129ef5

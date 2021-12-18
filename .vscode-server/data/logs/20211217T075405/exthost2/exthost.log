@@ -1,0 +1,116 @@
+[2021-12-17 08:16:08.250] [exthost] [info] Extension host with pid 290378 started
+[2021-12-17 08:16:08.257] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Lock acquired.
+[2021-12-17 08:16:08.575] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-17 08:16:08.583] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-17 08:16:08.587] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-17 08:16:08.832] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-17 08:16:09.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-17 08:16:09.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-17 08:16:09.190] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-17 08:16:09.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-17 08:16:09.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-17 08:16:10.008] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-17 08:16:10.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-17 08:16:10.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-17 08:16:10.292] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-17 08:16:10.387] [exthost] [info] Eager extensions activated
+[2021-12-17 08:16:10.487] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-17 08:16:11.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-17 08:16:11.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-17 08:16:11.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-17 08:16:14.621] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 08:16:14.621] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:124663
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-17 08:16:22.198] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-12-17 08:16:24.481] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 08:16:24.481] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-17 08:18:19.290] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-17 11:39:15.915] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 11:39:15.915] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-17 11:39:32.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-17 11:39:41.496] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-17 11:39:41.496] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-17 13:37:17.729] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 13:37:17.729] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-17 13:39:13.139] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 13:39:13.140] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-17 13:41:09.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-17 13:41:09.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-17 13:41:10.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-17 14:46:04.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onCommand:workbench.action.tasks.runTask'
+[2021-12-17 14:46:04.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onCommand:workbench.action.tasks.runTask'
+[2021-12-17 14:46:04.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onCommand:workbench.action.tasks.runTask'
+[2021-12-17 14:46:04.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onCommand:workbench.action.tasks.runTask'
+[2021-12-17 17:12:25.721] [exthost] [error] No tree item with id '1//Individual Containers|LocalGroup/f5cc7fc3c70751d155f4211b1e23d9f8acc3e7472dc626f9d55b6d2ecb9c4279quizzical_khoranarunningundefinedundefined' found.
+[2021-12-17 17:14:00.494] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-17 17:14:00.496] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-17 17:31:12.467] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-17 17:31:12.467] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-17 17:46:05.922] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-17 17:47:15.192] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:47:21.684] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:47:24.892] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:04.169] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:27.648] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:32.547] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:35.446] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:44.245] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:47.029] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:50.840] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:53.588] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:56.204] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 17:48:56.895] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:08:06.806] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:10:17.210] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:10:34.856] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:10:36.426] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:10:38.733] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:10:39.309] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:11:05.064] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:12:12.681] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:14:18.086] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: false, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-17 18:17:42.608] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:18:30.747] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:18:35.571] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:18:56.873] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:18:57.881] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:18:59.713] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:19:08.639] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:20:17.284] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:21:54.819] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 18:23:59.381] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-17 21:11:23.468] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-17 21:11:23.469] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-17 21:11:23.542] [exthost] [warning] {"name":"Canceled"}
+[2021-12-17 21:11:24.535] [exthost] [info] Extension host with pid 290378 exiting with code 0

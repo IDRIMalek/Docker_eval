@@ -1,10 +1,22 @@
 version: "3.9"
 services:
+  api: 
+    image: datascientest/fastapi:1.0.0
+    container_name: my_api_container
+    networks:
+      - my_network
+    ports:
+      - "8000:8000"
   authentication:
     image: authentication:latest
-    volumes:
-    - .:/my_server/
+    container_name: authentication    
+    depends_on: api
+    networks:
+      - my_network
   #authorization:
   #  image: authorization:latest
   #content:
   #  image: content:latest
+
+networks:
+ - my_network

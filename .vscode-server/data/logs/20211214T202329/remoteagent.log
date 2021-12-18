@@ -17,3 +17,10 @@
 [2021-12-15 09:08:59.045] [remoteagent] [info] Detected extension installed from another source ms-toolsai.jupyter
 [2021-12-15 09:11:02.889] [remoteagent] [info] Detected extension installed from another source ms-python.python
 [2021-12-15 09:11:08.244] [remoteagent] [info] Detected extension installed from another source ms-python.vscode-pylance
+[2021-12-17 06:20:03.256] [remoteagent] [info] Detected extension installed from another source phplasma.csv-to-table
+[2021-12-17 06:20:29.923] [remoteagent] [info] Detected extension installed from another source mechatroner.rainbow-csv
+[2021-12-17 06:21:04.326] [remoteagent] [info] Detected extension removed from another source phplasma.csv-to-table
+[2021-12-17 06:21:11.111] [remoteagent] [info] Detected extension installed from another source phplasma.csv-to-table
+[2021-12-17 06:22:07.565] [remoteagent] [info] Detected extension installed from another source grapecity.gc-excelviewer
+[2021-12-17 17:45:59.487] [remoteagent] [info] Detected extension installed from another source eamodio.gitlens
+[2021-12-17 18:14:17.132] [remoteagent] [info] Detected extension installed from another source p1c2u.docker-compose

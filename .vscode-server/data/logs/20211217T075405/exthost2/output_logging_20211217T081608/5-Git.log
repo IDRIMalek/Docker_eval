@@ -1,0 +1,372 @@
+Validation du git trouvé dans : git
+Utilisation de git 2.25.1 à partir de git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git status -z -u
+> git show --textconv :FASTAPI/FASTAPI_eval/main.py
+> git ls-files --stage -- /home/ubuntu/FASTAPI/FASTAPI_eval/main.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git config --local branch.dev.github-pr-owner-number
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/IDRIMalek/Docker_eval.git/'
+> git ls-files --stage -- /home/ubuntu/FASTAPI/FASTAPI_eval/main.py
+> git show --textconv :FASTAPI/FASTAPI_eval/main.py
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/FASTAPI/FASTAPI_eval/main.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/content/content.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/content/content.py
+> git cat-file -s 8c475ae38e22a7810b1baba44b8aa738c3605554
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/tests.ipynb
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/Fastapi.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/Fastapi.py
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/requierments.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/requierments.txt
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/Fastapi.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/Fastapi.py
+> git check-ignore -v -z --stdin
+> git show --textconv :fastapi/Fastapi.py
+> git ls-files --stage -- /home/ubuntu/fastapi/Fastapi.py
+> git check-ignore -v -z --stdin
+> git show --textconv :fastapi/requierments.txt
+> git ls-files --stage -- /home/ubuntu/fastapi/requierments.txt
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/user.csv
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :.bash_history
+> git ls-files --stage -- /home/ubuntu/.bash_history
+> git cat-file -s c57036ad5e096ceafc513b949b304781a4de5378
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/authorization/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/authorization/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/authentication/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/authorization/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/authorization/authorization.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/authorization.py
+> git cat-file -s 3c78eacfc0db3f43408120a72de2c7fa1a779f53
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authorization/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/authorization/user.csv
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authorization/user.csv
+> git cat-file -s 533fdd24392c7e19ee34d1a83ab62649e11d447b
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/setup.sh
+> git show --textconv :DOCKER_eval/api_test.log
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/api_test.log
+> git cat-file -s b581066f24f44e28e53f72ac4a68aad603931248
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/log.txt
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/log.txt
+> git cat-file -s 6fc018b5679bf73e74094d1c828632b47bb3eec8
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git check-ignore -v -z --stdin
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/authentication/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/Dockerfile
+> git cat-file -s e2f2ae7629b8dc2628726ed184596acfaf1f405e
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git show --textconv :DOCKER_eval/authentication/authentication.py
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/authentication/authentication.py
+> git cat-file -s 5078a0b793d8593e4f40ee220629d1eea93385a9
+> git show --textconv :DOCKER_eval/docker-compose.yml
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker-compose.yml
+> git cat-file -s 1238fe47cdff19040d0e1c87021ad7df1551bac6
+> git show --textconv :DOCKER_eval/setup.sh
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/setup.sh
+> git cat-file -s 7b4326eb028bffd8f076205c68ba469a8f963f17
