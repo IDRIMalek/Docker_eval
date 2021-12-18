@@ -22,7 +22,7 @@ def request_test(user, password,version, sentence):
 
     output = '''
     ============================
-        Authentication test
+        Content test
     ============================
 
     request done at "{version}/sentiment"
@@ -54,7 +54,7 @@ def request_test(user, password,version, sentence):
         with open('api_test.log', 'a') as file:
             file.write(output)
 
-with open('user.csv', newline='') as f:
+with open('my_server/user.csv', newline='') as f:
     reader = csv.DictReader(f)
     users = list(reader)
 

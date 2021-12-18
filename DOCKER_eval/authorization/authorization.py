@@ -21,7 +21,7 @@ def request_test(user, password,version):
 
     output = '''
     ============================
-        Authentication test
+        Authorization test
     ============================
 
     request done at "{version}/sentiment"

@@ -24,8 +24,25 @@ services:
       - api
     networks:
       - my_network
-  #content:
-  #  image: content:latest
+    volumes:
+      - my_test_volume:/my_server/
+  content:
+    image: content:latest
+    container_name: content 
+    depends_on: 
+      - api
+    networks:
+      - my_network
+    volumes:
+      - my_test_volume:/my_server/
+
+volumes:
+  my_test_volume:
+    driver: local
+    driver_opts:
+       o: bind
+       type: none
+       device: /home/docker_volumes/
 
 networks:
  my_network:

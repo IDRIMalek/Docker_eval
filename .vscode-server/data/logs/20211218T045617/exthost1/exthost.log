@@ -265,3 +265,84 @@
 [2021-12-18 05:50:49.814] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-18 05:50:50.518] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-18 05:50:52.063] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:55:39.142] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:55:47.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-18 05:55:47.882] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:58:10.390] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:58:13.521] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:58:17.638] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:58:53.595] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:58:56.608] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 05:59:19.924] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:00:21.567] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:00:45.848] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:00:48.275] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:00:54.082] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:01:09.124] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:01:12.077] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 06:01:12.077] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-18 06:01:26.770] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:19.089] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:30.070] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:33.998] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:36.719] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:44.046] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:45.687] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:02:47.180] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:03:01.647] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:07:40.341] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:09:50.635] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:11:40.516] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:11:44.162] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:12:21.362] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 06:12:31.554] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 06:12:31.554] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 06:12:33.370] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 06:12:33.370] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 06:12:33.800] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 06:12:33.800] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 06:12:50.709] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 06:12:50.709] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 07:39:20.426] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 07:39:25.753] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:24:42.707] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:39:20.224] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:41:34.307] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:42:42.957] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:43:15.313] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:43:24.550] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:43:29.487] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:43:40.438] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:47:56.072] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:47:57.856] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:06.277] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:08.309] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:15.189] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:22.863] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:32.641] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:37.982] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:39.891] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:48:41.636] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:49:27.090] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:49:50.611] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:50:26.641] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:51:20.988] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:52:27.689] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:52:53.536] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:52:56.575] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:53:24.475] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:53:37.734] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:54:00.583] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:54:01.598] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:54:49.961] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:54:57.547] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:54:58.875] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 08:55:33.344] [exthost] [warning] TextEditor is closed/disposed
