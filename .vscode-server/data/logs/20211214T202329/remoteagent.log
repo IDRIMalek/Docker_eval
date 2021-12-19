@@ -24,3 +24,9 @@
 [2021-12-17 06:22:07.565] [remoteagent] [info] Detected extension installed from another source grapecity.gc-excelviewer
 [2021-12-17 17:45:59.487] [remoteagent] [info] Detected extension installed from another source eamodio.gitlens
 [2021-12-17 18:14:17.132] [remoteagent] [info] Detected extension installed from another source p1c2u.docker-compose
+[2021-12-18 10:13:03.959] [remoteagent] [info] Detected extension installed from another source redhat.vscode-yaml
+[2021-12-18 10:13:04.567] [remoteagent] [info] Detected extension installed from another source ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-12-18 10:33:39.794] [remoteagent] [info] Detected extension installed from another source usernamehw.todo-md
+[2021-12-18 10:40:17.023] [remoteagent] [info] Detected extension removed from another source usernamehw.todo-md
+[2021-12-18 10:42:27.052] [remoteagent] [info] Detected extension installed from another source iulian-radu-at.sharable-kanban-boards
+[2021-12-18 10:45:24.104] [remoteagent] [info] Detected extension removed from another source iulian-radu-at.sharable-kanban-boards

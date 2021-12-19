@@ -1,0 +1,21 @@
+[2021-12-19 07:43:13.761] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-19 07:43:13.761] [remoteagent] [info] Extension host agent started.
+[2021-12-19 07:43:14.050] [remoteagent] [info] [127.0.0.1][ae60cac0][ManagementConnection] New connection established.
+[2021-12-19 07:43:14.051] [remoteagent] [info] Deleted from disk iulian-radu-at.sharable-kanban-boards /home/ubuntu/.vscode-server/extensions/iulian-radu-at.sharable-kanban-boards-1.1.1
+[2021-12-19 07:43:14.052] [remoteagent] [info] Deleted from disk usernamehw.todo-md /home/ubuntu/.vscode-server/extensions/usernamehw.todo-md-2.9.0
+[2021-12-19 07:43:14.105] [remoteagent] [info] [127.0.0.1][ebd795db][ExtensionHostConnection] New connection established.
+[2021-12-19 07:43:14.117] [remoteagent] [info] [127.0.0.1][ebd795db][ExtensionHostConnection] <512340> Launched Extension Host Process.
+[2021-12-19 07:43:28.362] [remoteagent] [info] [127.0.0.1][f690fcfb][ManagementConnection] New connection established.
+[2021-12-19 07:43:28.488] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] New connection established.
+[2021-12-19 07:43:28.495] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Launched Extension Host Process.
+[2021-12-19 07:43:42.106] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Starting WebSocket: RAW/api/kernels/a6852747-af07-4af4-97ad-a991353ea498
+

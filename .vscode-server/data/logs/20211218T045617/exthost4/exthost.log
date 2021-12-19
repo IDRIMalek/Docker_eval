@@ -1,0 +1,115 @@
+[2021-12-18 13:22:46.248] [exthost] [info] Extension host with pid 434077 started
+[2021-12-18 13:22:46.249] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock'
+[2021-12-18 13:22:46.250] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-12-18 13:22:46.252] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': The lock does not look stale, elapsed: 401 ms, giving up.
+[2021-12-18 13:22:46.258] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329-1/vscode.lock': Lock acquired.
+[2021-12-18 13:22:46.971] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-18 13:22:46.979] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-18 13:22:46.983] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-18 13:22:47.608] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-18 13:22:47.700] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-18 13:22:48.077] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-18 13:22:48.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-18 13:22:48.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-18 13:22:48.451] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-18 13:22:49.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-18 13:22:49.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-18 13:22:49.614] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-18 13:22:49.811] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 13:22:49.814] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-18 13:22:50.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 13:22:50.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 13:22:50.217] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 13:22:50.387] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 13:22:50.531] [exthost] [info] Eager extensions activated
+[2021-12-18 13:22:50.598] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-18 13:24:21.895] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:24:37.391] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:25:06.596] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:25:07.598] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:25:33.714] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:25:36.657] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:27:57.325] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:28:57.528] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 13:28:57.528] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-18 13:29:20.412] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 13:29:20.412] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+	at p (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+	at async z.provideCompletionItems (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:101516)
+[2021-12-18 13:30:00.657] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:30:48.101] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 13:30:48.101] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authorization.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authorization.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authorization.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 13:30:58.673] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:31:09.528] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 13:31:09.528] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 13:31:10.352] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:31:27.211] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 13:31:27.211] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 13:33:53.807] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 13:35:55.306] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 16:26:10.161] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 16:26:10.165] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 17:12:25.776] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:12:31.975] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:12:37.799] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:12:43.261] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:13:24.787] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:13:36.049] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:13:47.427] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:13:53.410] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:13:58.262] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:14:01.702] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:14:05.045] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:14:06.841] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:14:08.620] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:14:12.188] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 17:14:12.188] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/Dockerfile. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/Dockerfile' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/Dockerfile »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 17:14:27.147] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:20:04.239] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 17:21:31.421] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:23:19.301] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:23:27.441] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:24:04.600] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:38:27.517] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:41:59.372] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:42:18.740] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:55:00.543] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:55:09.594] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:58:21.324] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 17:58:21.324] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 17:58:41.849] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:59:41.380] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 17:59:58.681] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:00:18.620] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:00:22.156] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:00:54.839] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:02:46.925] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:05:39.859] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:06:22.565] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:06:58.752] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:07:00.618] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:07:32.294] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:08:56.285] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:09:41.037] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:12:29.967] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:12:47.194] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:12:49.023] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:22:05.107] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:22:34.208] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:22:35.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:22:37.728] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 18:25:21.434] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 19:34:52.119] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-18 19:34:52.120] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-18 19:34:52.178] [exthost] [warning] {"name":"Canceled"}
+[2021-12-18 19:34:52.183] [exthost] [info] Extension host with pid 434077 exiting with code 0

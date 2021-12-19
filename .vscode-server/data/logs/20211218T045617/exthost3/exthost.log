@@ -1,0 +1,43 @@
+[2021-12-18 10:02:33.883] [exthost] [info] Extension host with pid 401226 started
+[2021-12-18 10:02:33.897] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/54343833aeec10d7cbd74c7d6c4c84e5/vscode.lock': Lock acquired.
+[2021-12-18 10:02:34.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-18 10:02:34.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-18 10:02:34.459] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-18 10:02:35.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-18 10:02:35.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-18 10:02:35.463] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-18 10:02:36.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 10:02:36.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 10:02:36.339] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 10:02:36.669] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-18 10:02:36.898] [exthost] [info] Eager extensions activated
+[2021-12-18 10:02:39.203] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+[2021-12-18 10:33:40.416] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.todo-md, startup: false, activationEvent: '*'
+[2021-12-18 10:38:08.256] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-18 10:38:08.264] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-18 10:45:43.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-18 10:45:44.427] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+[2021-12-18 10:45:44.797] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2021-12-18 10:45:45.292] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-18 10:45:47.195] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2021-12-18 11:16:00.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-18 11:16:00.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-18 11:16:01.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-18 11:25:42.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-18 11:25:42.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-18 11:25:43.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-12-18 16:31:09.584] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-18 16:31:09.586] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/54343833aeec10d7cbd74c7d6c4c84e5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-18 16:31:09.642] [exthost] [error] TypeError: Cannot read property 'dispose' of undefined
+	at Object.t.deactivate (/home/ubuntu/.vscode-server/extensions/usernamehw.todo-md-2.9.0/dist/extension.js:1:61729)
+	at v._deactivate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:11513)
+	at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10061
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10049)
+	at p.terminate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:104:735)
+	at r (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:36400)
+	at A.runner (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:32902)
+	at A.onInterval (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:73:35394)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-12-18 16:31:09.656] [exthost] [info] Extension host with pid 401226 exiting with code 0

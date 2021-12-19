@@ -1,0 +1,50 @@
+[Info  - 4:26:22 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 4:26:22 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 4:26:22 PM] No configuration file found.
+[Info  - 4:26:22 PM] No pyproject.toml file found.
+[Info  - 4:26:22 PM] Setting pythonPath for service "home": "/home/ubuntu/FASTAPI_eval/bin/python3"
+[Warn  - 4:26:22 PM] stubPath /home/typings is not a valid directory.
+[Info  - 4:26:22 PM] Unable to get Python version from interpreter
+[Info  - 4:26:22 PM] Assuming Python platform Linux
+[Info  - 4:26:22 PM] Searching for source files
+[Info  - 4:26:23 PM] Found 10753 source files
+[Info  - 4:26:24 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 4:26:24 PM] Background analysis(1) started
+[Info  - 4:31:10 PM] Searching for source files
+[Info  - 4:31:10 PM] Found 10919 source files
+[Info  - 5:20:08 PM] Searching for source files
+[Info  - 5:20:09 PM] Found 10919 source files
+[Info  - 5:25:57 PM] Searching for source files
+[Info  - 5:25:57 PM] Found 10919 source files
+[Info  - 5:38:19 PM] Searching for source files
+[Info  - 5:38:19 PM] Found 10919 source files
+[Info  - 5:38:27 PM] Searching for source files
+[Info  - 5:38:28 PM] Found 10919 source files
+[Info  - 5:42:27 PM] Searching for source files
+[Info  - 5:42:28 PM] Found 10919 source files
+[Info  - 5:57:05 PM] Searching for source files
+[Info  - 5:57:06 PM] Found 10919 source files
+[Info  - 5:57:25 PM] Searching for source files
+[Info  - 5:57:25 PM] Found 10919 source files
+[Info  - 5:58:04 PM] Searching for source files
+[Info  - 5:58:04 PM] Found 10919 source files
+[Info  - 6:04:05 PM] Searching for source files
+[Info  - 6:04:05 PM] Found 10918 source files
+[Info  - 6:07:39 PM] Searching for source files
+[Info  - 6:07:40 PM] Found 10918 source files
+[Info  - 6:08:40 PM] Searching for source files
+[Info  - 6:08:41 PM] Found 10919 source files
+[Info  - 6:12:15 PM] Searching for source files
+[Info  - 6:12:16 PM] Found 10918 source files
+[Info  - 6:16:19 PM] Searching for source files
+[Info  - 6:16:19 PM] Found 10918 source files
+[Info  - 6:20:40 PM] Searching for source files
+[Info  - 6:20:40 PM] Found 10918 source files
+[Info  - 6:20:55 PM] Searching for source files
+[Info  - 6:20:55 PM] Found 10918 source files
+[Info  - 6:21:56 PM] Searching for source files
+[Info  - 6:21:56 PM] Found 10919 source files
+[Info  - 6:22:56 PM] Searching for source files
+[Info  - 6:22:57 PM] Found 10918 source files
+[Info  - 6:23:31 PM] Searching for source files
+[Info  - 6:23:31 PM] Found 10918 source files

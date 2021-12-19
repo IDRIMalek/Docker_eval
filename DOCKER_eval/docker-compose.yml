@@ -17,15 +17,17 @@ services:
       - api
     networks:
       - my_network
-  authorization:
-    image: authorization:latest
-    container_name: authorization 
-    depends_on: 
-      - api
-    networks:
-      - my_network
     volumes:
       - my_test_volume:/my_server/
+  #authorization:
+  #  image: authorization:latest
+  #  container_name: authorization 
+  #  depends_on: 
+  #    - api
+  #  networks:
+  #    - my_network
+  #  volumes:
+  #    - my_test_volume:/my_server/
   content:
     image: content:latest
     container_name: content 
@@ -42,7 +44,7 @@ volumes:
     driver_opts:
        o: bind
        type: none
-       device: /home/docker_volumes/
+       device: ./docker_volume/
 
 networks:
  my_network:

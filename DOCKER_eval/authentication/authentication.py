@@ -41,12 +41,11 @@ def request_test(user, password):
         test_status = 'SUCCESS'
     else:
         test_status = 'FAILURE'
-    print(output.format(status_code=status_code, test_status=test_status, user=user, password=password))
+    log=output.format(status_code=status_code, test_status=test_status, user=user, password=password)
 
     # impression dans un fichier
-    if os.environ.get('LOG') == 1:
-        with open('api_test.log', 'a') as file:
-            file.write(output)
+    with open('/my_server/api_test.log', 'a') as file:
+        file.write(log)
 
 with open('/my_server/user.csv', newline='') as f:
     reader = csv.DictReader(f)

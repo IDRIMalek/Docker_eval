@@ -57,3 +57,68 @@ Info 04:56:55: Executing silently Code (completed) = import sys\nprint(sys.execu
 Info 04:56:55: Waiting for idle on (kernel): 922be900-a760-4ba6-8446-110a0aa968ed -> idle
 Info 04:56:55: Finished waiting for idle on (kernel): 922be900-a760-4ba6-8446-110a0aa968ed -> idle
 Info 05:00:31: IPyWidgetScriptSource.initialize
+Info 10:45:56: Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook ~/DOCKER_eval/tests.ipynb due to selection of another kernel or closing of the notebook
+Info 10:45:56: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 10:45:56: Dispose Kernel process
+Info 10:45:56: kill daemon
+Info 10:45:56: Notebook Closed ~/DOCKER_eval/tests.ipynb
+Info 11:10:44: Setting setActiveController for ~/DOCKER_eval/tests.ipynb
+Info 11:10:44: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 11:10:44: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 11:10:44: Creating raw notebook for ~/DOCKER_eval/tests.ipynb
+Info 11:10:44: Getting preferred kernel for ~/DOCKER_eval/tests.ipynb
+Info 11:10:44: Computing working directory ~/DOCKER_eval/tests.ipynb
+Info 11:10:44: Starting raw kernel Python 3.8.10 64-bit
+Info 11:10:44: installMissingDependencies /bin/python3
+Info 11:10:44: IPykernel found previously in this enviornment /bin/python3
+Info 11:10:44: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 11:10:44: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 11:10:44: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 11:10:44: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 11:10:45: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 11:10:45: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/DOCKER_eval/tests.ipynb
+Info 11:10:45: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/DOCKER_eval/tests.ipynb
+Info 11:10:45: Setting controller affinity for ~/DOCKER_eval/tests.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 11:10:45: Creating daemon process for /bin/python3 with env variables count 0
+Info 11:10:45: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 11:10:45: Starting kernel from scratch
+Warn 11:10:46: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 11:10:46: StdErr from Kernel Process   warn(
+
+Warn 11:10:46: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '1b053e2e-6f3b-4109-96f8-de2e5f52312c' instead of 'b"1b053e2e-6f3b-4109-96f8-de2e5f52312c"'.
+
+Warn 11:10:46: StdErr from Kernel Process   warn(
+
+Info 11:10:46: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 11:10:46: Finished connecting 20ebda6a-db70-4860-8a11-b7bd63813fb3
+Info 11:10:46: UpdateWorkingDirectoryAndPath in Kernel
+Info 11:10:48: changeDirectoryIfPossible
+Info 11:10:48: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 11:10:48: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 11:10:48: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 11:10:48: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 11:10:48: Initialize matplotlib for file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 11:10:48: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 11:10:48: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 11:10:48: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 11:10:48: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 11:10:48: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 11:10:48: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 11:10:48: Waiting for idle on (kernel): 34c53123-7ef2-40ed-80d9-ce4e4447fc21 -> idle
+Info 11:10:48: Finished waiting for idle on (kernel): 34c53123-7ef2-40ed-80d9-ce4e4447fc21 -> idle
+Info 11:10:48: IPyWidgetScriptSource.initialize
+Info 11:10:48: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 13:27:35: Shutting down notebooks for 20ebda6a-db70-4860-8a11-b7bd63813fb3
+Info 13:27:35: Disposing HostJupyterExecution 7fe465cd-d7ee-4671-aa50-87f5cdc37268
+Info 13:27:35: Disposing super HostJupyterExecution 7fe465cd-d7ee-4671-aa50-87f5cdc37268
+Info 13:27:35: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 13:27:35: Dispose Kernel process
+Info 13:27:35: kill daemon
+Info 13:27:35: Disposing HostJupyterExecution 7fe465cd-d7ee-4671-aa50-87f5cdc37268
+Info 13:27:35: Finished disposing HostJupyterExecution  7fe465cd-d7ee-4671-aa50-87f5cdc37268
+Info 13:27:35: Cleaning up server cache 7fe465cd-d7ee-4671-aa50-87f5cdc37268
+Info 13:27:35: Finished disposing HostJupyterExecution  7fe465cd-d7ee-4671-aa50-87f5cdc37268

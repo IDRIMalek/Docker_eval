@@ -201,3 +201,45 @@ docker-compose up
 clear
 docker-compose up
 docker network create --subnet 172.50.0.0/16 --gateway 172.50.0.1 my_network
+cd DOCKER_eval/
+bash setup.sh 
+docker volume create --name my_volume
+cd ubuntu/DOCKER_eval/
+mkdir doc
+touch tasks
+cd doc/ & touch tasks
+cd ..
+ls
+cd ..
+ls
+mkdir docker_volumes
+cd ubuntu/
+mkdir docker_volumes
+ls
+rm -R docker_volumes/
+ls
+rm -R -f docker_volumes/
+sudo rm -R -f docker_volumes/
+ls
+cd ..
+ls
+cd ubuntu/
+cd ubuntu/DOCKER_eval/
+bash setup.sh
+cd /
+ls
+cd ~/DOCKER
+cd ~/DOCKER_eval/
+bash setup.sh
+docker container ls
+docker container ps
+docker container ps -a
+docker container -rm my_api_container
+docker container --rm my_api_container
+docker system purne
+
+bash setup.sh
+sudo rm -R -f docker_volume
+bash setup.sh
+sudo rm -R -f docker_volume
+bash setup.sh

@@ -25,3 +25,9 @@ Extension host agent listening on 40041
 [06:22:07] Detected extension installed from another source grapecity.gc-excelviewer
 [17:45:59] Detected extension installed from another source eamodio.gitlens
 [18:14:17] Detected extension installed from another source p1c2u.docker-compose
+[10:13:03] Detected extension installed from another source redhat.vscode-yaml
+[10:13:04] Detected extension installed from another source ms-kubernetes-tools.vscode-kubernetes-tools
+[10:33:39] Detected extension installed from another source usernamehw.todo-md
+[10:40:17] Detected extension removed from another source usernamehw.todo-md
+[10:42:27] Detected extension installed from another source iulian-radu-at.sharable-kanban-boards
+[10:45:24] Detected extension removed from another source iulian-radu-at.sharable-kanban-boards

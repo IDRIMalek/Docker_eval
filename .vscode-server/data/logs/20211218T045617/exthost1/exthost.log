@@ -346,3 +346,110 @@
 [2021-12-18 08:54:57.547] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-18 08:54:58.875] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-18 08:55:33.344] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 09:54:28.793] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:04:38.242] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:13:08.621] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:yaml'
+[2021-12-18 10:13:08.802] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools, startup: false, activationEvent: 'onLanguage:yaml'
+[2021-12-18 10:13:09.748] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:13:25.431] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:13:27.155] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:13:28.656] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:23:52.981] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:27:51.667] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:22.454] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:22.466] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:22.584] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:22.688] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:24.849] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:28.613] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:28.685] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:28.758] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:32.346] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:28:45.713] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-18 10:30:07.408] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:31:02.203] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:33:40.454] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:33:40.535] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.todo-md, startup: false, activationEvent: '*'
+[2021-12-18 10:34:08.919] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:37:22.566] [exthost] [warning] Cannot execute todomd.filter because there is no active text editor.
+[2021-12-18 10:38:17.856] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-18 10:44:10.441] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:45:36.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 10:45:40.785] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:05:47.808] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:05:49.906] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:05:51.277] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:05.064] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:12.115] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:13.491] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:20.816] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:37.712] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 11:06:37.712] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-18 11:06:41.136] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:41.994] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:44.011] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:46.344] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:52.016] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:52.637] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:55.214] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:06:57.877] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:07:06.761] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:07:36.109] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:07:40.505] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 11:07:40.505] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-18 11:08:10.805] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:08:16.398] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:08:19.953] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 11:08:19.953] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 11:08:23.764] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:08:25.268] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:08:28.315] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-18 11:08:28.315] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-18 11:08:58.782] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:09:02.365] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:09:08.034] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:09:08.943] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 11:09:08.943] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-18 11:10:44.600] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:12:20.949] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:12:31.142] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:12:32.939] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:14:05.231] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:14:25.679] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:15:09.456] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-18 11:33:06.685] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-18 11:33:06.686] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-18 13:27:35.518] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-18 13:27:35.521] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-18 13:27:35.607] [exthost] [error] TypeError: Cannot read property 'dispose' of undefined
+	at Object.t.deactivate (/home/ubuntu/.vscode-server/extensions/usernamehw.todo-md-2.9.0/dist/extension.js:1:61729)
+	at v._deactivate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:11513)
+	at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10061
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10049)
+	at p.terminate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:104:735)
+	at r (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:36400)
+	at A.runner (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:32902)
+	at A.onInterval (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:73:35394)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-12-18 13:27:35.609] [exthost] [warning] {"name":"Canceled"}
+[2021-12-18 13:27:36.595] [exthost] [info] Extension host with pid 315285 exiting with code 0
