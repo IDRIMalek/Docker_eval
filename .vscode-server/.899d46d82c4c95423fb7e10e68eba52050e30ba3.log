@@ -26,3 +26,11 @@ stack trace: Error: Could not find pty with id "10",    at l._throwIfNoPty (/hom
 [Error: Could not find pty with id "10",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
 [07:43:42] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Starting WebSocket: RAW/api/kernels/a6852747-af07-4af4-97ad-a991353ea498
 
+[07:47:50] [127.0.0.1][ebd795db][ExtensionHostConnection] <512340> Starting WebSocket: RAW/api/kernels/2ade57c2-8497-402d-ab5c-280e8512abaa
+
+[07:47:50] [127.0.0.1][ebd795db][ExtensionHostConnection] <512340> Kernel: starting (2ade57c2-8497-402d-ab5c-280e8512abaa)
+
+[15:31:48] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Starting WebSocket: RAW/api/kernels/b86005e5-1e89-4cbd-aa83-a136eb95c921
+
+[15:31:48] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Kernel: starting (b86005e5-1e89-4cbd-aa83-a136eb95c921)
+

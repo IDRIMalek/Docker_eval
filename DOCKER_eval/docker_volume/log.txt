@@ -1,0 +1,21 @@
+Gracefully stopping... (press Ctrl+C again to force)
+Attaching to my_api_container, content, authentication, authorization
+[36mauthentication exited with code 0
+[0m[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[32mcontent exited with code 0
+[0m[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43776 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43778 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43780 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43782 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43936 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43938 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:43940 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:44244 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:44246 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:44248 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:44250 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[33mauthorization exited with code 0
+[0mGracefully stopping... (press Ctrl+C again to force)

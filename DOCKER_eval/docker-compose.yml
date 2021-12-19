@@ -1,4 +1,5 @@
 version: "3.9"
+
 services:
   api: 
     image: datascientest/fastapi:1.0.0
@@ -11,35 +12,35 @@ services:
         protocol: tcp
         mode: host
   authentication:
-    image: authentication:latest
+    image: malekidri/authentication:latest
     container_name: authentication    
     depends_on: 
       - api
     networks:
       - my_network
     volumes:
-      - my_test_volume:/my_server/
-  #authorization:
-  #  image: authorization:latest
-  #  container_name: authorization 
-  #  depends_on: 
-  #    - api
-  #  networks:
-  #    - my_network
-  #  volumes:
-  #    - my_test_volume:/my_server/
-  content:
-    image: content:latest
-    container_name: content 
+      - my_volume:/my_server/
+  authorization:
+    image: malekidri/authorization:latest
+    container_name: authorization 
     depends_on: 
-      - api
+      - authentication
     networks:
       - my_network
     volumes:
-      - my_test_volume:/my_server/
+      - my_volume:/my_server/
+  content:
+    image: malekidri/content:latest
+    container_name: content 
+    depends_on: 
+      - authorization
+    networks:
+      - my_network
+    volumes:
+      - my_volume:/my_server/
 
 volumes:
-  my_test_volume:
+  my_volume:
     driver: local
     driver_opts:
        o: bind

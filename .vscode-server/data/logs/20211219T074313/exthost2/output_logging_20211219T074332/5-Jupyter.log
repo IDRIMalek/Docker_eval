@@ -56,3 +56,63 @@ Info 07:43:44: Executing silently Code (completed) = import sys\nprint(sys.execu
 Info 07:43:44: Waiting for idle on (kernel): a6852747-af07-4af4-97ad-a991353ea498 -> idle
 Info 07:43:44: Finished waiting for idle on (kernel): a6852747-af07-4af4-97ad-a991353ea498 -> idle
 Info 07:43:44: IPyWidgetScriptSource.initialize
+Info 07:49:25: Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook ~/DOCKER_eval/tests.ipynb due to selection of another kernel or closing of the notebook
+Info 07:49:25: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 07:49:25: Dispose Kernel process
+Info 07:49:25: kill daemon
+Info 07:49:25: Notebook Closed ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: Setting setActiveController for ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:31:45: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:31:45: Creating raw notebook for ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: Getting preferred kernel for ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: Computing working directory ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: Starting raw kernel Python 3.8.10 64-bit
+Info 15:31:45: installMissingDependencies /bin/python3
+Info 15:31:45: IPykernel found previously in this enviornment /bin/python3
+Info 15:31:45: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 15:31:45: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 15:31:45: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 15:31:45: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 15:31:45: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:31:45: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/DOCKER_eval/tests.ipynb
+Info 15:31:45: Setting controller affinity for ~/DOCKER_eval/tests.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 15:31:45: Creating daemon process for /bin/python3 with env variables count 0
+Info 15:31:45: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 15:31:46: Starting kernel from scratch
+Warn 15:31:48: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 15:31:48: StdErr from Kernel Process   warn(
+
+Warn 15:31:48: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e5eb4ffc-b72b-4f49-88c0-d75304d97723' instead of 'b"e5eb4ffc-b72b-4f49-88c0-d75304d97723"'.
+
+Warn 15:31:48: StdErr from Kernel Process   warn(
+
+Info 15:31:48: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 15:31:48: Finished connecting d11c4464-ab88-4acc-bd0c-72d20485af59
+Info 15:31:48: UpdateWorkingDirectoryAndPath in Kernel
+Info 15:31:49: changeDirectoryIfPossible
+Info 15:31:49: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 15:31:49: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval"\nif os.getcwd() not in sys.path:\nsys.path.ins
+Info 15:31:49: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 15:31:49: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 15:31:49: Initialize matplotlib for file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 15:31:49: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 15:31:50: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 15:31:50: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 15:31:50: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 15:31:50: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 15:31:50: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 15:31:50: Waiting for idle on (kernel): b86005e5-1e89-4cbd-aa83-a136eb95c921 -> idle
+Info 15:31:50: Finished waiting for idle on (kernel): b86005e5-1e89-4cbd-aa83-a136eb95c921 -> idle
+Info 15:31:50: IPyWidgetScriptSource.initialize
+Info 15:31:50: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 15:33:24: Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook ~/DOCKER_eval/tests.ipynb due to selection of another kernel or closing of the notebook
+Info 15:33:24: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 15:33:24: Dispose Kernel process
+Info 15:33:24: kill daemon
+Info 15:33:24: Notebook Closed ~/DOCKER_eval/tests.ipynb

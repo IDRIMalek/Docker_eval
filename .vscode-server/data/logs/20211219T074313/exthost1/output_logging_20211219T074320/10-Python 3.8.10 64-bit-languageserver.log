@@ -1,0 +1,146 @@
+[Info  - 7:47:52 AM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 7:47:52 AM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 7:47:52 AM] No configuration file found.
+[Info  - 7:47:52 AM] No pyproject.toml file found.
+[Info  - 7:47:52 AM] Setting pythonPath for service "home": "/bin/python3"
+[Warn  - 7:47:52 AM] stubPath /home/typings is not a valid directory.
+[Info  - 7:47:52 AM] Assuming Python version 3.8
+[Info  - 7:47:52 AM] Assuming Python platform Linux
+[Warn  - 7:47:53 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:47:53 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:47:53 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:47:53 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 7:47:53 AM] Searching for source files
+[Info  - 7:47:54 AM] Found 10752 source files
+[Info  - 7:47:54 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 7:47:54 AM] Background analysis(1) started
+[Info  - 8:01:48 AM] Searching for source files
+[Info  - 8:01:49 AM] Found 10918 source files
+[Info  - 8:01:51 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2091ms)
+[Info  - 8:11:42 AM] Searching for source files
+[Info  - 8:11:44 AM] Found 10918 source files
+[Info  - 8:11:48 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (3108ms)
+[Info  - 8:11:48 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (4003ms)
+[Info  - 8:12:45 AM] Searching for source files
+[Info  - 8:12:46 AM] Found 10919 source files
+[Info  - 8:27:22 AM] Searching for source files
+[Info  - 8:27:22 AM] Found 10918 source files
+[Info  - 8:27:25 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2374ms)
+[Info  - 8:27:59 AM] Searching for source files
+[Info  - 8:28:00 AM] Found 10918 source files
+[Info  - 8:28:03 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2264ms)
+[Info  - 8:28:03 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2599ms)
+[Info  - 8:28:40 AM] Searching for source files
+[Info  - 8:28:42 AM] Found 10919 source files
+[Info  - 8:28:45 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2188ms)
+[Info  - 8:45:01 AM] Searching for source files
+[Info  - 8:45:02 AM] Found 10919 source files
+[Info  - 8:45:04 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2395ms)
+[Info  - 8:50:20 AM] Searching for source files
+[Info  - 8:50:21 AM] Found 10918 source files
+[Info  - 8:50:24 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2293ms)
+[Info  - 8:51:43 AM] Searching for source files
+[Info  - 8:51:44 AM] Found 10918 source files
+[Info  - 8:51:48 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (3331ms)
+[Info  - 8:51:48 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (3886ms)
+[Info  - 8:52:11 AM] Searching for source files
+[Info  - 8:52:13 AM] Found 10919 source files
+[Info  - 9:12:32 AM] Searching for source files
+[Info  - 9:12:33 AM] Found 10918 source files
+[Info  - 9:12:36 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2400ms)
+[Info  - 9:12:36 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (3144ms)
+[Info  - 9:14:55 AM] Searching for source files
+[Info  - 9:14:56 AM] Found 10918 source files
+[Info  - 9:19:37 AM] Searching for source files
+[Info  - 9:19:38 AM] Found 10918 source files
+[Info  - 9:25:05 AM] Searching for source files
+[Info  - 9:25:06 AM] Found 10918 source files
+[Info  - 9:25:08 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2428ms)
+[Info  - 9:25:08 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2633ms)
+[Info  - 9:25:37 AM] Searching for source files
+[Info  - 9:25:39 AM] Found 10919 source files
+[Info  - 9:53:48 AM] Searching for source files
+[Info  - 9:53:49 AM] Found 10918 source files
+[Info  - 9:54:01 AM] Searching for source files
+[Info  - 9:54:02 AM] Found 10918 source files
+[Info  - 9:57:16 AM] Searching for source files
+[Info  - 9:57:17 AM] Found 10918 source files
+[Info  - 10:01:57 AM] Searching for source files
+[Info  - 10:01:58 AM] Found 10918 source files
+[Info  - 10:02:01 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2207ms)
+[Info  - 10:02:01 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2547ms)
+[Info  - 10:11:47 AM] Searching for source files
+[Info  - 10:11:48 AM] Found 10918 source files
+[Info  - 10:11:50 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2049ms)
+[Info  - 10:14:26 AM] Searching for source files
+[Info  - 10:14:28 AM] Found 10918 source files
+[Info  - 10:14:31 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2492ms)
+[Info  - 10:14:31 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (3037ms)
+[Info  - 10:16:02 AM] Searching for source files
+[Info  - 10:16:04 AM] Found 10918 source files
+[Info  - 10:16:06 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2158ms)
+[Info  - 10:18:43 AM] Searching for source files
+[Info  - 10:18:45 AM] Found 10918 source files
+[Info  - 10:18:48 AM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2605ms)
+[Info  - 10:18:48 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2933ms)
+[Info  - 1:56:44 PM] Searching for source files
+[Info  - 1:56:44 PM] Found 10918 source files
+[Info  - 1:56:47 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2001ms)
+[Info  - 2:07:56 PM] Searching for source files
+[Info  - 2:07:58 PM] Found 10918 source files
+[Info  - 2:08:00 PM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2193ms)
+[Info  - 2:08:00 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2508ms)
+[Info  - 2:09:07 PM] Searching for source files
+[Info  - 2:09:08 PM] Found 10918 source files
+[Info  - 2:09:12 PM] Searching for source files
+[Info  - 2:09:13 PM] Found 10918 source files
+[Info  - 2:13:35 PM] Searching for source files
+[Info  - 2:13:36 PM] Found 10918 source files
+[Info  - 2:14:38 PM] Searching for source files
+[Info  - 2:14:40 PM] Found 10918 source files
+[Info  - 2:14:45 PM] Searching for source files
+[Info  - 2:14:47 PM] Found 10918 source files
+[Info  - 2:14:49 PM] [BG(1)] Long operation: checking: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2588ms)
+[Info  - 2:14:49 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/_NotebookConcat_f521b43703a7.py (2674ms)
+[Info  - 2:25:21 PM] Searching for source files
+[Info  - 2:25:22 PM] Found 10918 source files
+[Info  - 2:29:36 PM] Searching for source files
+[Info  - 2:29:38 PM] Found 10918 source files
+[Info  - 2:29:39 PM] Searching for source files
+[Info  - 2:29:42 PM] Found 10919 source files
+[Info  - 2:36:05 PM] Searching for source files
+[Info  - 2:36:06 PM] Found 10918 source files
+[Info  - 2:51:51 PM] Searching for source files
+[Info  - 2:51:53 PM] Found 10918 source files
+[Info  - 2:54:12 PM] Searching for source files
+[Info  - 2:54:14 PM] Found 10919 source files
+[Info  - 3:01:23 PM] Searching for source files
+[Info  - 3:01:24 PM] Found 10918 source files
+[Info  - 3:07:14 PM] Searching for source files
+[Info  - 3:07:16 PM] Found 10918 source files
+[Info  - 3:08:15 PM] Searching for source files
+[Info  - 3:08:16 PM] Found 10921 source files
+[Info  - 3:08:40 PM] Searching for source files
+[Info  - 3:08:42 PM] Found 10918 source files
+[Info  - 3:08:42 PM] Searching for source files
+[Info  - 3:08:43 PM] Found 10918 source files
+[Info  - 3:09:57 PM] Searching for source files
+[Info  - 3:09:58 PM] Found 10921 source files
+[Info  - 3:09:58 PM] Searching for source files
+[Info  - 3:09:59 PM] Found 10921 source files
+[Info  - 3:10:24 PM] Searching for source files
+[Info  - 3:10:25 PM] Found 10921 source files
+[Info  - 3:12:45 PM] Searching for source files
+[Info  - 3:12:46 PM] Found 10921 source files
+[Info  - 3:18:00 PM] Searching for source files
+[Info  - 3:18:01 PM] Found 10918 source files
+[Info  - 3:24:26 PM] Searching for source files
+[Info  - 3:24:27 PM] Found 10918 source files
+[Info  - 3:24:27 PM] Searching for source files
+[Info  - 3:24:28 PM] Found 10918 source files
+[Info  - 3:24:40 PM] Searching for source files
+[Info  - 3:24:41 PM] Found 10918 source files
+[Info  - 3:31:43 PM] Searching for source files
+[Info  - 3:31:44 PM] Found 10918 source files
+[Info  - 4:24:46 PM] Searching for source files
+[Info  - 4:24:47 PM] Found 10918 source files

@@ -50,10 +50,10 @@ def request_test(user, password,version, sentence):
     password=password, version=version, sentence=sentence, r=r.json()['score'])
 
     # impression dans un fichier
-    with open('my_server/api_test.log', 'a') as file:
+    with open('api_test.log', 'a') as file:
         file.write(log)
 
-with open('/my_server/user.csv', newline='') as f:
+with open('user.csv', newline='') as f:
     reader = csv.DictReader(f)
     users = list(reader)
 

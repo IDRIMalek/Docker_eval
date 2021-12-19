@@ -19,3 +19,11 @@
 [2021-12-19 07:43:28.495] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Launched Extension Host Process.
 [2021-12-19 07:43:42.106] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Starting WebSocket: RAW/api/kernels/a6852747-af07-4af4-97ad-a991353ea498
 
+[2021-12-19 07:47:50.795] [remoteagent] [info] [127.0.0.1][ebd795db][ExtensionHostConnection] <512340> Starting WebSocket: RAW/api/kernels/2ade57c2-8497-402d-ab5c-280e8512abaa
+
+[2021-12-19 07:47:50.859] [remoteagent] [info] [127.0.0.1][ebd795db][ExtensionHostConnection] <512340> Kernel: starting (2ade57c2-8497-402d-ab5c-280e8512abaa)
+
+[2021-12-19 15:31:48.276] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Starting WebSocket: RAW/api/kernels/b86005e5-1e89-4cbd-aa83-a136eb95c921
+
+[2021-12-19 15:31:48.308] [remoteagent] [info] [127.0.0.1][7efca4e9][ExtensionHostConnection] <512641> Kernel: starting (b86005e5-1e89-4cbd-aa83-a136eb95c921)
+
