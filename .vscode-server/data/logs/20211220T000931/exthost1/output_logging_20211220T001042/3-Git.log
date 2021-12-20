@@ -519,3 +519,45 @@ To https://github.com/IDRIMalek/Docker_eval.git
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.dev.github-pr-owner-number
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/DF_content/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker_volume/authentication.py
+> git cat-file -s 4d32d2fffc2dedc2eb8c27b1c4b97607982927e7
+> git cat-file -s 35c0d772d42f02c2e9f0bb0e211a49be82c21f06
+> git show --textconv :DOCKER_eval/DF_content/Dockerfile
+> git show --textconv :DOCKER_eval/docker_volume/authentication.py
+> git push origin dev:dev
+To https://github.com/IDRIMalek/Docker_eval.git
+   32de2b9..18e8a69  dev -> dev
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git config --local branch.dev.github-pr-owner-number
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/DF_content/Dockerfile
+> git ls-files --stage -- /home/ubuntu/DOCKER_eval/docker_volume/authentication.py
+> git cat-file -s 4d32d2fffc2dedc2eb8c27b1c4b97607982927e7
+> git cat-file -s 35c0d772d42f02c2e9f0bb0e211a49be82c21f06
+> git show --textconv :DOCKER_eval/DF_content/Dockerfile
+> git show --textconv :DOCKER_eval/docker_volume/authentication.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

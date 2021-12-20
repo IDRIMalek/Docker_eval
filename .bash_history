@@ -300,3 +300,16 @@ docker compose up
 docker compose up
 docker-compose up
 bash setup.sh
+pip freeze
+clear
+cd ubuntu/
+cd DOCKER_eval/
+bash setup.sh
+docker inspect my_api_container 
+docker inspect my_api_container | grep IPAddress
+docker inspect my_api_container["ID"]
+docker inspect my_api_container["Id"]
+docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' my_api_container
+bash setup.sh
+ls
+mkdir chrurn

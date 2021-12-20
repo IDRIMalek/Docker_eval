@@ -1,0 +1,224 @@
+[2021-12-20 10:30:47.399] [exthost] [info] Extension host with pid 701896 started
+[2021-12-20 10:30:47.405] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Lock acquired.
+[2021-12-20 10:30:48.177] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 10:30:48.185] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 10:30:48.189] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2021-12-20 10:30:48.585] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 10:30:48.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 10:30:48.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-20 10:30:48.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-20 10:30:48.667] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-20 10:30:49.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-20 10:30:49.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-20 10:30:49.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-20 10:30:49.743] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-20 10:30:50.146] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:50.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:50.183] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:50.326] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:50.416] [exthost] [info] Eager extensions activated
+[2021-12-20 10:31:54.182] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:31:56.771] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:31:59.794] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:33:14.281] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:33:38.887] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:33:39.070] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-20 10:33:39.331] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-20 10:33:40.769] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-20 10:33:41.048] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-20 10:33:53.407] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:33:53.407] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 10:33:53.784] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:34:18.617] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:34:18.618] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 10:34:18.622] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:34:18.622] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 10:35:28.053] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:35:40.514] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:35:52.124] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-20 10:35:52.124] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication/Dockerfile. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication/Dockerfile' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication/Dockerfile »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-20 10:36:15.436] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:37:34.635] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:37:39.951] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:38:07.117] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:38:41.800] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:38:41.960] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-20 10:38:42.596] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-20 10:39:13.452] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:39:18.270] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:39:28.799] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:39:45.621] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:40:42.033] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:40:54.463] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:40:54.464] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:00.782] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:03.492] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:18.360] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:18.360] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:20.562] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:20.562] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:21.260] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:21.260] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:23.527] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:23.527] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:27.398] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:27.398] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:30.555] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:30.555] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:34.426] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:34.426] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:41:38.805] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:39.926] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:39.961] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:40.008] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:41.273] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:41:43.183] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2021-12-20 10:41:43.184] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30561)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:30510)
+	at new t (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:86:17301)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399493)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at H (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:399668)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:404839)
+	at /home/ubuntu/.vscode-server/extensions/redhat.vscode-yaml-1.2.2/dist/extension.js:2:330891
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-20 10:44:51.959] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:44:55.848] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:44:55.857] [exthost] [warning] redhat.vscode-yaml - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2021-12-20 10:45:41.232] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:45:41.232] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-20 10:45:58.215] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:45:58.216] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 10:46:08.195] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 10:46:08.195] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:122059
+	at async a.provideDefinition (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90015)
+[2021-12-20 10:47:16.370] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:47:19.099] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:47:51.164] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:47:59.273] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:48:40.636] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 10:49:03.639] [exthost] [warning] TextEditor is closed/disposed

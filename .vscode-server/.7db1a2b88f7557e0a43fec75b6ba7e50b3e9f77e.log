@@ -31,3 +31,11 @@ Extension host agent listening on 40041
 [10:40:17] Detected extension removed from another source usernamehw.todo-md
 [10:42:27] Detected extension installed from another source iulian-radu-at.sharable-kanban-boards
 [10:45:24] Detected extension removed from another source iulian-radu-at.sharable-kanban-boards
+[09:25:24] Detected extension removed from another source ms-toolsai.jupyter
+[09:25:25] Detected extension installed from another source ms-toolsai.jupyter
+[10:30:51] Detected extension removed from another source eamodio.gitlens
+[10:30:52] Detected extension installed from another source eamodio.gitlens
+[10:30:55] Detected extension removed from another source ms-toolsai.jupyter
+[10:30:56] Detected extension installed from another source ms-toolsai.jupyter
+[10:31:07] Detected extension removed from another source ms-toolsai.jupyter-renderers
+[10:31:08] Detected extension installed from another source ms-toolsai.jupyter-renderers

@@ -1,0 +1,45 @@
+[2021-12-20 07:03:34.031] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-20 07:03:34.031] [remoteagent] [info] Extension host agent started.
+[2021-12-20 07:03:50.716] [remoteagent] [info] [127.0.0.1][6010fe63][ManagementConnection] New connection established.
+[2021-12-20 07:03:50.829] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] New connection established.
+[2021-12-20 07:03:50.837] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] <687652> Launched Extension Host Process.
+[2021-12-20 07:04:08.338] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] <687652> Starting WebSocket: RAW/api/kernels/6fd9a34b-e755-4512-99b4-5bfa713cde8a
+
+[2021-12-20 07:27:35.637] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] <687652> Starting WebSocket: RAW/api/kernels/cbb99ae0-77bc-4263-aa0c-ac5b1a6c2905
+
+[2021-12-20 07:27:35.644] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] <687652> Kernel: starting (cbb99ae0-77bc-4263-aa0c-ac5b1a6c2905)
+
+[2021-12-20 09:24:46.254] [remoteagent] [info] [127.0.0.1][6010fe63][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-20 09:24:46.433] [remoteagent] [info] [127.0.0.1][5cfa4702][ExtensionHostConnection] <687652> Extension Host Process exited with code: 0, signal: null.
+[2021-12-20 09:24:46.433] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-20 09:25:06.072] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-20 09:25:06.072] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-20 09:25:06.375] [remoteagent] [info] [127.0.0.1][b2c68add][ManagementConnection] New connection established.
+[2021-12-20 09:25:06.501] [remoteagent] [info] [127.0.0.1][5f62f76d][ExtensionHostConnection] New connection established.
+[2021-12-20 09:25:06.518] [remoteagent] [info] [127.0.0.1][5f62f76d][ExtensionHostConnection] <700451> Launched Extension Host Process.
+[2021-12-20 09:25:23.755] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-20 09:25:23.958] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-20 09:25:24.896] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.cd5de18b-b8ec-4a22-8519-926bea7cea35: ms-toolsai.jupyter
+[2021-12-20 09:25:24.908] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-20 09:25:24.911] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-20 09:25:24.912] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-20 09:25:28.677] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-20 09:25:28.846] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-20 09:25:29.108] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d0400f9b-0567-4b01-bbb0-1314f532fa32: ms-toolsai.jupyter-renderers
+[2021-12-20 09:25:29.119] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-20 09:25:29.120] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-20 09:25:29.121] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-20 09:30:06.074] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-20 09:40:54.002] [remoteagent] [info] [127.0.0.1][b2c68add][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-20 09:40:54.075] [remoteagent] [info] [127.0.0.1][5f62f76d][ExtensionHostConnection] <700451> Extension Host Process exited with code: 0, signal: null.
+[2021-12-20 09:40:54.075] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-20 09:45:54.076] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,27 @@
+[2021-12-20 09:25:10.850] [exthost] [info] Extension host with pid 700451 started
+[2021-12-20 09:25:10.859] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Lock acquired.
+[2021-12-20 09:25:11.433] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 09:25:11.442] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 09:25:11.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 09:25:11.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 09:25:11.525] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2021-12-20 09:25:11.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-20 09:25:11.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-20 09:25:11.958] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-20 09:25:12.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-20 09:25:12.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-20 09:25:12.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-20 09:25:12.873] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-20 09:25:13.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 09:25:13.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 09:25:13.232] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 09:25:13.376] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 09:25:13.465] [exthost] [info] Eager extensions activated
+[2021-12-20 09:25:13.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-20 09:25:13.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-20 09:25:13.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-20 09:25:46.853] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 09:40:54.002] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-20 09:40:54.003] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-20 09:40:54.057] [exthost] [warning] {"name":"Canceled"}
+[2021-12-20 09:40:54.063] [exthost] [info] Extension host with pid 700451 exiting with code 0

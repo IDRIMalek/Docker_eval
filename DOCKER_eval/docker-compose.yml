@@ -19,7 +19,7 @@ services:
     networks:
       - my_network
     volumes:
-      - my_volume:/my_server/
+      - my_volume:/data/
   authorization:
     image: malekidri/authorization:latest
     container_name: authorization 
@@ -28,7 +28,7 @@ services:
     networks:
       - my_network
     volumes:
-      - my_volume:/my_server/
+      - my_volume:/data/
   content:
     image: malekidri/content:latest
     container_name: content 
@@ -37,7 +37,7 @@ services:
     networks:
       - my_network
     volumes:
-      - my_volume:/my_server/
+      - my_volume:/data/
 
 volumes:
   my_volume:

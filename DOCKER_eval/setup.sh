@@ -16,7 +16,7 @@ docker image rm malekidri/authorization
 docker image rm malekidri/content
 
 
-#créer
+##---Construiction des images
 docker image build ./DF_authentication -t authentication:latest
 docker tag authentication malekidri/authentication
 docker push malekidri/authentication

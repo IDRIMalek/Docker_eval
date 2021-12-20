@@ -136,3 +136,7 @@
 [2021-12-20 00:40:08.889] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-20 00:40:15.451] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-20 00:40:47.812] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:47:54.583] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-20 00:47:54.584] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-20 00:47:54.657] [exthost] [warning] {"name":"Canceled"}
+[2021-12-20 00:47:55.647] [exthost] [info] Extension host with pid 662659 exiting with code 0

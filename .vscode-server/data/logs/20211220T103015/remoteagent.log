@@ -1,0 +1,46 @@
+[2021-12-20 10:30:15.363] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-20 10:30:15.363] [remoteagent] [info] Extension host agent started.
+[2021-12-20 10:30:15.671] [remoteagent] [info] [127.0.0.1][5eb65537][ManagementConnection] New connection established.
+[2021-12-20 10:30:15.737] [remoteagent] [info] [127.0.0.1][8f9198be][ExtensionHostConnection] New connection established.
+[2021-12-20 10:30:15.745] [remoteagent] [info] [127.0.0.1][8f9198be][ExtensionHostConnection] <701674> Launched Extension Host Process.
+[2021-12-20 10:30:37.358] [remoteagent] [info] [127.0.0.1][5eb65537][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-20 10:30:37.386] [remoteagent] [info] [127.0.0.1][8f9198be][ExtensionHostConnection] <701674> Extension Host Process exited with code: 0, signal: null.
+[2021-12-20 10:30:37.387] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-20 10:30:42.894] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-20 10:30:42.894] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-20 10:30:43.159] [remoteagent] [info] [127.0.0.1][1104fb12][ManagementConnection] New connection established.
+[2021-12-20 10:30:43.248] [remoteagent] [info] [127.0.0.1][7430efa5][ExtensionHostConnection] New connection established.
+[2021-12-20 10:30:43.255] [remoteagent] [info] [127.0.0.1][7430efa5][ExtensionHostConnection] <701896> Launched Extension Host Process.
+[2021-12-20 10:30:51.271] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2021-12-20 10:30:51.471] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-11.7.0
+[2021-12-20 10:30:52.000] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.61d801eb-f9b4-405e-85a5-de5872c4bebd: eamodio.gitlens
+[2021-12-20 10:30:52.018] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/eamodio.gitlens-11.7.0
+[2021-12-20 10:30:52.024] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2021-12-20 10:30:52.024] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2021-12-20 10:30:55.320] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-20 10:30:55.498] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-20 10:30:56.398] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.388c9f17-b215-472e-b6f0-e025f485c089: ms-toolsai.jupyter
+[2021-12-20 10:30:56.428] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-20 10:30:56.431] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-20 10:30:56.432] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-20 10:31:07.370] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-20 10:31:07.538] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-20 10:31:07.965] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.61b2eb5f-2d99-461f-b522-f7b9aff478ce: ms-toolsai.jupyter-renderers
+[2021-12-20 10:31:07.971] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-20 10:31:07.972] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-20 10:31:07.973] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-20 10:35:42.896] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-20 12:04:15.841] [remoteagent] [info] [127.0.0.1][1104fb12][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-20 13:17:32.990] [remoteagent] [info] [127.0.0.1][1104fb12][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-20 13:17:32.991] [remoteagent] [info] [127.0.0.1][e54d2fc1][ManagementConnection] New connection established.
+[2021-12-20 13:17:33.088] [remoteagent] [info] [127.0.0.1][c4baeeae][ExtensionHostConnection] New connection established.
+[2021-12-20 13:17:33.096] [remoteagent] [info] [127.0.0.1][c4baeeae][ExtensionHostConnection] <715866> Launched Extension Host Process.

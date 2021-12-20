@@ -1,0 +1,13 @@
+[2021-12-20 10:30:19.435] [exthost] [info] Extension host with pid 701674 started
+[2021-12-20 10:30:19.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-20 10:30:19.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-20 10:30:19.838] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-20 10:30:20.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-20 10:30:20.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-20 10:30:20.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:20.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:20.309] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:20.455] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 10:30:20.547] [exthost] [info] Eager extensions activated
+[2021-12-20 10:30:37.360] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-20 10:30:37.375] [exthost] [info] Extension host with pid 701674 exiting with code 0

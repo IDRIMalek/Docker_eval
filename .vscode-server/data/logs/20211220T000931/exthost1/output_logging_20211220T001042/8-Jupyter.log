@@ -62,3 +62,13 @@ Info 00:13:29: Cell 0 executed with state Success
 Info 00:13:46: Execute Cells request 0
 Info 00:13:46: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
 Info 00:13:46: Cell 0 executed with state Success
+Info 00:47:54: Shutting down notebooks for 09e64754-a3ed-43c7-8dda-ae843d290bce
+Info 00:47:54: Disposing HostJupyterExecution c280befa-154b-4231-8d21-2a19e87608a9
+Info 00:47:54: Disposing super HostJupyterExecution c280befa-154b-4231-8d21-2a19e87608a9
+Info 00:47:54: Dispose kernel file:///home/ubuntu/DOCKER_eval/docker_volume/test.ipynb
+Info 00:47:54: Dispose Kernel process
+Info 00:47:54: kill daemon
+Info 00:47:54: Disposing HostJupyterExecution c280befa-154b-4231-8d21-2a19e87608a9
+Info 00:47:54: Finished disposing HostJupyterExecution  c280befa-154b-4231-8d21-2a19e87608a9
+Info 00:47:54: Cleaning up server cache c280befa-154b-4231-8d21-2a19e87608a9
+Info 00:47:54: Finished disposing HostJupyterExecution  c280befa-154b-4231-8d21-2a19e87608a9
