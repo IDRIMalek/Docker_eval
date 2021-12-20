@@ -116,3 +116,98 @@ Info 15:33:24: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
 Info 15:33:24: Dispose Kernel process
 Info 15:33:24: kill daemon
 Info 15:33:24: Notebook Closed ~/DOCKER_eval/tests.ipynb
+Info 17:52:18: Find preferred kernel for ~/DOCKER_eval/docker_volume/test.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+Info 17:52:18: findKernel found Python 3.8.10 64-bit
+Info 17:52:18: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:18: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:18: Setting controller affinity for ~/DOCKER_eval/docker_volume/test.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 17:52:18: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 17:52:26: Setting setActiveController for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:26: Execute Cells request 0
+Info 17:52:26: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:26: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 17:52:26: Creating raw notebook for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:26: Getting preferred kernel for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:26: Computing working directory ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:26: Starting raw kernel Python 3.8.10 64-bit
+Info 17:52:26: installMissingDependencies /bin/python3
+Info 17:52:26: IPykernel found previously in this enviornment /bin/python3
+Info 17:52:26: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 17:52:26: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 17:52:26: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 17:52:27: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 17:52:27: Creating daemon process for /bin/python3 with env variables count 0
+Info 17:52:27: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 17:52:27: Starting kernel from scratch
+Warn 17:52:28: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 17:52:28: StdErr from Kernel Process   warn(
+
+Warn 17:52:28: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'da77a794-8d57-4e81-a5d7-95d4dfbf8490' instead of 'b"da77a794-8d57-4e81-a5d7-95d4dfbf8490"'.
+
+Warn 17:52:28: StdErr from Kernel Process   warn(
+
+Info 17:52:29: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 17:52:29: Finished connecting d11c4464-ab88-4acc-bd0c-72d20485af59
+Info 17:52:29: UpdateWorkingDirectoryAndPath in Kernel
+Info 17:52:29: changeDirectoryIfPossible
+Info 17:52:29: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval/docker_volume"\nif os.getcwd() not in sys.path:
+Info 17:52:29: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval/docker_volume"\nif os.getcwd() not in sys.path:
+Info 17:52:29: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 17:52:29: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 17:52:29: Initialize matplotlib for file:///home/ubuntu/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:29: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 17:52:29: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 17:52:29: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 17:52:29: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 17:52:29: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 17:52:29: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 17:52:29: Waiting for idle on (kernel): cfd35bce-f2f6-4b96-8e59-52552e786e86 -> idle
+Info 17:52:29: Finished waiting for idle on (kernel): cfd35bce-f2f6-4b96-8e59-52552e786e86 -> idle
+Info 17:52:29: IPyWidgetScriptSource.initialize
+Info 17:52:29: Cell 0 executed with state Success
+Info 17:52:29: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 17:52:33: Execute Cells request 0
+Info 17:52:33: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:34: Cell 0 executed with state Success
+Info 17:52:38: Execute Cells request 0
+Info 17:52:38: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:38: Cell 0 executed with state Success
+Info 17:52:54: Execute Cells request 0
+Info 17:52:54: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:52:54: Cell 0 executed with state Success
+Info 17:53:34: Execute Cells request 0
+Info 17:53:34: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:53:34: Cancel all remaining cells true || Error
+Info 17:53:34: Cancel pending cells
+Info 17:53:34: Cell 0 executed with state Error
+Info 17:53:41: Execute Cells request 0
+Info 17:53:41: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:53:41: Cell 0 executed with state Success
+Info 17:54:22: Execute Cells request 0
+Info 17:54:22: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:54:22: Cell 0 executed with state Success
+Info 17:54:34: Execute Cells request 0
+Info 17:54:34: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:54:34: Cell 0 executed with state Success
+Info 17:56:17: Execute Cells request 0
+Info 17:56:17: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:56:17: Cell 0 executed with state Success
+Info 17:56:39: Execute Cells request 0
+Info 17:56:39: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 17:56:39: Cancel all remaining cells true || Error
+Info 17:56:39: Cancel pending cells
+Info 17:56:39: Cell 0 executed with state Error
+Info 21:02:37: Shutting down notebooks for d11c4464-ab88-4acc-bd0c-72d20485af59
+Info 21:02:37: Disposing HostJupyterExecution 134d1719-c421-4b6a-a556-c0a344885e4a
+Info 21:02:37: Disposing super HostJupyterExecution 134d1719-c421-4b6a-a556-c0a344885e4a
+Info 21:02:37: Dispose kernel file:///home/ubuntu/DOCKER_eval/docker_volume/test.ipynb
+Info 21:02:37: Dispose Kernel process
+Info 21:02:37: kill daemon
+Info 21:02:37: Disposing HostJupyterExecution 134d1719-c421-4b6a-a556-c0a344885e4a
+Info 21:02:37: Finished disposing HostJupyterExecution  134d1719-c421-4b6a-a556-c0a344885e4a
+Info 21:02:37: Cleaning up server cache 134d1719-c421-4b6a-a556-c0a344885e4a
+Info 21:02:37: Finished disposing HostJupyterExecution  134d1719-c421-4b6a-a556-c0a344885e4a

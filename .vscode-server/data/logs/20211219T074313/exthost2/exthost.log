@@ -374,3 +374,177 @@
 [2021-12-19 15:33:24.946] [exthost] [warning] TextEditor is closed/disposed
 [2021-12-19 15:34:02.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 [2021-12-19 15:34:03.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-19 16:32:55.595] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:34:53.410] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:35:33.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:37:26.289] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:37:35.670] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:37:50.525] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:38:16.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:39:37.217] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:40:02.512] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:42:18.436] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:42:31.862] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:43:34.947] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:45:08.275] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:46:11.175] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:46:22.808] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:46:28.199] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:50:01.238] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 16:50:01.239] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 16:51:30.739] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:53:59.841] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:54:35.036] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:54:47.436] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:54:53.944] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:54:56.892] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 16:54:56.892] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 16:55:06.965] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:55:12.715] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:55:32.770] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:55:40.383] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 16:55:56.258] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 16:55:56.258] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:00:52.234] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:01:23.517] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:01:30.676] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:02:25.934] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:03:58.855] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:04:05.721] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:05:40.414] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:06:05.788] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:06:12.644] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:06:14.034] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:06:22.533] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:07:31.891] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:07:39.772] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:07:41.280] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:08:24.399] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:08:47.609] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:08:50.305] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:08:51.973] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:10:13.083] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:10:20.452] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:10:30.080] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:10:33.016] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:11:08.029] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:11:10.403] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:11:16.413] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:11:37.596] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:13:10.095] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:13:10.096] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:13:28.668] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:17:25.343] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:19:07.131] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:19:11.895] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:19:29.408] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:19:45.437] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:19:57.765] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:20:19.704] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:20:22.047] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:20:22.683] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:21:51.535] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:21:57.440] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:24:08.482] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:26:00.326] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:26:05.900] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:26:50.649] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:33:52.274] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:33:52.274] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:34:21.112] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:07.220] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:09.866] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:38.954] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:54.541] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:57.820] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:35:59.315] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:36:25.500] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:37:12.654] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:38:34.050] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-19 17:38:34.050] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-19 17:38:34.453] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-19 17:38:34.453] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-19 17:39:03.478] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:40:45.209] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:40:47.614] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-19 17:40:47.615] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-19 17:40:48.347] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-19 17:40:48.347] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-19 17:41:34.226] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:41:34.227] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-19 17:41:45.210] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:42:01.143] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:42:55.168] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-12-19 17:42:55.169] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-12-19 17:43:18.295] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:43:21.403] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:43:49.805] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:43:59.797] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:44:26.159] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:45:44.370] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:45:44.371] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:47:24.881] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:47:24.881] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+	at p (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+	at async z.provideCompletionItems (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:101516)
+[2021-12-19 17:47:56.154] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-19 17:47:56.155] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:51:54.425] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:52:23.364] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-19 17:52:23.365] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:52:36.014] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-19 17:52:36.014] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-19 17:59:02.682] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-19 17:59:02.682] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-19 17:59:37.802] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:59:54.252] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 17:59:58.684] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-19 21:02:37.030] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-12-19 21:02:37.031] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-19 21:02:38.084] [exthost] [info] Extension host with pid 512641 exiting with code 0

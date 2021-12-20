@@ -24,3 +24,6 @@
 [2021-12-19 08:45:54.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 [2021-12-19 08:45:54.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
 [2021-12-19 09:50:38.539] [exthost] [error] No tree item with id '1//malekidri/authentication|LocalGroup' found.
+[2021-12-19 21:02:34.109] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-12-19 21:02:34.111] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/54343833aeec10d7cbd74c7d6c4c84e5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-19 21:02:34.231] [exthost] [info] Extension host with pid 512340 exiting with code 0

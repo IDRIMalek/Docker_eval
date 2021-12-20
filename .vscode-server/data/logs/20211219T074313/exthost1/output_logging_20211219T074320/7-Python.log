@@ -94,3 +94,4 @@ Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpre
 > ~/FASTAPI_eval/bin/python3 -c "import sys;print(sys.executable)"
 > ~/FASTAPI_eval/bin/python3 -c "import sys;print(sys.executable)"
 > ~/FASTAPI_eval/bin/python3 -c "import sys;print(sys.executable)"
+> ~/FASTAPI_eval/bin/python3 -c "import sys;print(sys.executable)"

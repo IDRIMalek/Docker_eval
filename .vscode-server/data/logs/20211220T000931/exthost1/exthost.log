@@ -1,0 +1,89 @@
+[2021-12-20 00:10:42.651] [exthost] [info] Extension host with pid 662659 started
+[2021-12-20 00:10:42.658] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ef805f9796e8e628f474cb0a9e41d329/vscode.lock': Lock acquired.
+[2021-12-20 00:10:43.298] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 00:10:43.307] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-20 00:10:43.312] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2021-12-20 00:10:43.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-20 00:10:43.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-20 00:10:43.751] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-20 00:10:44.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-20 00:10:44.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-20 00:10:44.567] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-20 00:10:44.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 00:10:44.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 00:10:44.879] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 00:10:45.026] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-20 00:10:45.119] [exthost] [info] Eager extensions activated
+[2021-12-20 00:13:03.250] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:13:03.431] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-20 00:13:03.767] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-20 00:13:04.969] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-20 00:13:05.449] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-20 00:13:08.677] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+[2021-12-20 00:13:13.878] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+[2021-12-20 00:13:21.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-20 00:13:21.231] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:13:23.820] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:13:31.665] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:13:55.668] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:14:40.250] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:14:40.250] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 00:14:45.960] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:14:45.960] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 00:14:50.771] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:14:50.771] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 00:15:21.694] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:15:26.854] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:15:36.691] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:15:43.698] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:16:26.946] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:16:36.725] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:16:57.740] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:17:02.911] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:17:03.270] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:17:08.070] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:17:13.237] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:18:13.109] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:18:13.194] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:18:17.105] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:18:18.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:18:37.541] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:18:54.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 253
+[2021-12-20 00:19:21.150] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:19:34.186] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:20:15.234] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-20 00:20:15.898] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-20 00:20:16.537] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:20:21.641] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:20:24.698] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:20:24.698] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-20 00:20:28.906] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:20:29.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 00:20:29.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-20 00:20:29.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-20 00:20:29.803] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:20:33.923] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:20:37.019] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:20:42.202] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:20:47.379] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:21:28.054] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:21:33.222] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:21:45.937] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:21:46.505] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-12-20 00:21:51.160] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254

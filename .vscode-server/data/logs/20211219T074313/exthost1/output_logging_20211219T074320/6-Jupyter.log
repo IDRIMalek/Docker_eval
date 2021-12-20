@@ -58,3 +58,15 @@ Info 07:47:51: Waiting for idle on (kernel): 2ade57c2-8497-402d-ab5c-280e8512aba
 Info 07:47:51: Finished waiting for idle on (kernel): 2ade57c2-8497-402d-ab5c-280e8512abaa -> idle
 Info 07:47:51: IPyWidgetScriptSource.initialize
 Info 07:47:52: Registering dummy command feature
+Info 17:59:27: Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook ~/DOCKER_eval/tests.ipynb due to selection of another kernel or closing of the notebook
+Info 17:59:27: Dispose kernel file:///home/ubuntu/DOCKER_eval/tests.ipynb
+Info 17:59:27: Dispose Kernel process
+Info 17:59:27: kill daemon
+Info 17:59:27: Notebook Closed ~/DOCKER_eval/tests.ipynb
+Info 21:02:34: Shutting down notebooks for 748f31df-20c3-401c-b794-a01524b42968
+Info 21:02:34: Disposing HostJupyterExecution 9ad0ba5b-c659-43ec-8188-5c7d71940aec
+Info 21:02:34: Disposing super HostJupyterExecution 9ad0ba5b-c659-43ec-8188-5c7d71940aec
+Info 21:02:34: Disposing HostJupyterExecution 9ad0ba5b-c659-43ec-8188-5c7d71940aec
+Info 21:02:34: Finished disposing HostJupyterExecution  9ad0ba5b-c659-43ec-8188-5c7d71940aec
+Info 21:02:34: Cleaning up server cache 9ad0ba5b-c659-43ec-8188-5c7d71940aec
+Info 21:02:34: Finished disposing HostJupyterExecution  9ad0ba5b-c659-43ec-8188-5c7d71940aec

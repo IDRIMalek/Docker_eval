@@ -1,21 +1,21 @@
-Gracefully stopping... (press Ctrl+C again to force)
-Attaching to my_api_container, content, authentication, authorization
-[36mauthentication exited with code 0
+Attaching to my_api_container, authentication, authorization, content
+[36mauthentication    |[0m Traceback (most recent call last):
+[36mauthentication    |[0m   File "/my_server/authentication.py", line 4, in <module>
+[36mauthentication    |[0m     import docker 
+[36mauthentication    |[0m ModuleNotFoundError: No module named 'docker'
+[36mauthentication exited with code 1
+[0m[33mauthorization exited with code 0
 [0m[35mmy_api_container  |[0m INFO:     Started server process [7]
 [35mmy_api_container  |[0m INFO:     Waiting for application startup.
-[32mcontent exited with code 0
-[0m[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
 [35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43776 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43778 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43780 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43782 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43936 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43938 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:43940 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
-[35mmy_api_container  |[0m INFO:     34.244.150.51:44244 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:44246 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:44248 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
-[35mmy_api_container  |[0m INFO:     34.244.150.51:44250 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
-[33mauthorization exited with code 0
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37402 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37404 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37406 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37408 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33046 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33048 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33050 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33052 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[32mcontent exited with code 0
 [0mGracefully stopping... (press Ctrl+C again to force)

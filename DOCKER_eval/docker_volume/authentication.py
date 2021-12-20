@@ -1,9 +1,14 @@
 import os
 import requests
 import csv
+import docker 
 
 # définition de l'adresse de l'API
-address = '34.244.150.51'
+client = docker.DockerClient()
+container = client.containers.get("my_api_container")
+address = container.attrs['NetworkSettings']['Networks']['docker_eval_my_network']['IPAddress']
+#address = '34.244.150.51'
+
 # port de l'API
 port = 8000
 
@@ -50,6 +55,7 @@ def request_test(user, password):
 with open('/my_server/user.csv', newline='') as f:
     reader = csv.DictReader(f)
     users = list(reader)
+
 
 for user in users:
     request_test(user['users'], user['password'])

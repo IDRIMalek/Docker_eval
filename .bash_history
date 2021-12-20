@@ -243,3 +243,60 @@ sudo rm -R -f docker_volume
 bash setup.sh
 sudo rm -R -f docker_volume
 bash setup.sh
+/bin/python3 /home/ubuntu/DOCKER_eval/docker_volume/authentication.py
+cd ubuntu/
+sudo rm -R -f docker_volume
+cd DOCKER_eval/
+sudo rm -R -f docker_volume
+cd /home/ubuntu/DOCKER_eval/docker_volume
+ls
+cd /var/lib/docker/volumes/docker_eval_my_volume/_data
+ls
+cd ~/
+cd DOCKER_eval/
+sudo rm -R -f docker_volume
+cd ..
+ls -R DOCKER_eval/
+tree -d DOCKER_eval/
+apt-get install tree
+sudo pacman -S tree
+sudo apt-get install tree
+tree -d DOCKER_eval/
+tree  DOCKER_eval/
+docker volume -rm docker_eval_my_volume
+docker volume ps
+docker volume ls
+docker volume --rm docker_eval_my_volume
+docker volume rm docker_eval_my_volume
+docker network rm docker_eval_my_volume
+docker network rm docker_eval_my_network 
+rm -f docker_volum/api_test.log
+rm -F docker_volum/api_test.log
+rm  docker_volum/api_test.log
+rm -f docker_volume/api_test.logg
+cd DOCKER_eval/
+rm -f docker_volume/api_test.log
+pip install docker
+docker container ps -a
+cd ubuntu/DOCKER_eval/
+bash setup.sh
+cd authorization/
+cd ..
+docker tag authorization malekidri/authorization
+docker push malekidri/authorization
+bash setup.sh
+docker container ps
+docker container ps -a
+docker rm malekidri/content:latest 
+docker rm content
+docker image rm content
+bash setup.sh
+cd docker_volume/
+bash setup.sh
+cd ..
+bash setup.sh
+docker compose up
+
+docker compose up
+docker-compose up
+bash setup.sh

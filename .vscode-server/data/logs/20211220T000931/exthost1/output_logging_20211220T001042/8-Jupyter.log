@@ -1,0 +1,64 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 00:13:04: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 00:13:04: ZMQ install verified.
+Info 00:13:05: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 00:13:06: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 00:13:21: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 00:13:21: Setting setActiveController for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 00:13:21: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 00:13:21: Creating raw notebook for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: Getting preferred kernel for ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: Computing working directory ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: Starting raw kernel Python 3.8.10 64-bit
+Info 00:13:21: installMissingDependencies /bin/python3
+Info 00:13:21: IPykernel found previously in this enviornment /bin/python3
+Info 00:13:21: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 00:13:21: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 00:13:21: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 00:13:21: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 00:13:21: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:21: Setting controller affinity for ~/DOCKER_eval/docker_volume/test.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 00:13:22: Creating daemon process for /bin/python3 with env variables count 0
+Info 00:13:22: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 00:13:22: Registering dummy command feature
+Info 00:13:22: Starting kernel from scratch
+Warn 00:13:23: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 00:13:23: StdErr from Kernel Process   warn(
+
+Warn 00:13:23: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'ff9a0a1b-73cb-4269-9de3-e71a17974e8b' instead of 'b"ff9a0a1b-73cb-4269-9de3-e71a17974e8b"'.
+
+Warn 00:13:23: StdErr from Kernel Process   warn(
+
+Info 00:13:23: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 00:13:23: Finished connecting 09e64754-a3ed-43c7-8dda-ae843d290bce
+Info 00:13:23: UpdateWorkingDirectoryAndPath in Kernel
+Info 00:13:24: changeDirectoryIfPossible
+Info 00:13:24: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval/docker_volume"\nif os.getcwd() not in sys.path:
+Info 00:13:24: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/DOCKER_eval/docker_volume"\nif os.getcwd() not in sys.path:
+Info 00:13:24: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 00:13:24: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 00:13:24: Initialize matplotlib for file:///home/ubuntu/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:24: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 00:13:24: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 00:13:24: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 00:13:24: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 00:13:24: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 00:13:24: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 00:13:24: Waiting for idle on (kernel): 4aecbf75-95b6-4e2d-89da-bb1fa23f23c8 -> idle
+Info 00:13:24: Finished waiting for idle on (kernel): 4aecbf75-95b6-4e2d-89da-bb1fa23f23c8 -> idle
+Info 00:13:24: IPyWidgetScriptSource.initialize
+Info 00:13:28: Execute Cells request 0
+Info 00:13:28: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:29: Cell 0 executed with state Success
+Info 00:13:46: Execute Cells request 0
+Info 00:13:46: Execute Cell 0 ~/DOCKER_eval/docker_volume/test.ipynb
+Info 00:13:46: Cell 0 executed with state Success
