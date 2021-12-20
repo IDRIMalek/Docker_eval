@@ -22,7 +22,7 @@ Lance le docker compose et écrit les sorties vers le fichier log.txt.
 Il est aussi possible de construire les images en décommentant la partie construction des images, sinon les images proviennent du dépôt malekidri/* sur dockerhub. 
 
 les dossiers DF_* contiennent les Dockerfile ainsi que les scripts python pour les tests, ces derniers sont créés à partir de debian, python3 y est installé ainsi que les librairies nécessaires au fonctionnement. Un changement de dossier courant est opéré vers /my_server/.
-les données utilisateurs sont aussi chargés via un dossier data duser.csv ce dossier data servira de volume. Ensuite l'exécution des scriptes python y sont effectués. 
+Ensuite l'exécution des scriptes python y sont effectués. 
 
 Le dossier docker_volume est un volume se trouvant dans chaque container au niveau de "/docker_volume/:/data/", il centralise les données des utilisateurs sous user.csv, et les fichiers logs. Cela permet une gestion plus simple de l'ensemble des containers. 
 
