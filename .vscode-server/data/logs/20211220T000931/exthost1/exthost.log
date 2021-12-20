@@ -87,3 +87,52 @@
 [2021-12-20 00:21:45.937] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
 [2021-12-20 00:21:46.505] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
 [2021-12-20 00:21:51.160] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:22:02.074] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+[2021-12-20 00:23:54.305] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:23:57.542] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:30:03.851] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:34:16.330] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:34:16.529] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:34:16.530] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-20 00:34:18.129] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:35:19.362] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:35:37.379] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:35:37.380] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 00:35:40.653] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-20 00:35:40.654] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-20 00:36:23.735] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:36:28.408] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:07.303] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:12.774] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:28.506] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:30.271] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:32.618] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:38:55.404] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:39:14.482] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:39:45.048] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-20 00:39:45.048] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-20 00:39:50.090] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-20 00:39:50.090] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-20 00:39:51.754] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-20 00:39:51.754] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-20 00:40:00.704] [exthost] [error] [eamodio.gitlens] provider FAILED
+[2021-12-20 00:40:00.704] [exthost] [error] Error: cannot open vscode-remote://ssh-remote%2B34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py. Detail: Impossible de lire le fichier 'vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py' (Error: Impossible de résoudre le fichier inexistant « vscode-remote://ssh-remote+34.244.150.51/home/ubuntu/DOCKER_eval/authentication.py »)
+    at vscode-file://vscode-app/c:/Users/idrim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:75636
+[2021-12-20 00:40:08.889] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:40:15.451] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-20 00:40:47.812] [exthost] [warning] TextEditor is closed/disposed

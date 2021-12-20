@@ -1,13 +1,13 @@
 import os
 import requests
 import csv
-import docker 
+#import docker 
 
 # définition de l'adresse de l'API
-client = docker.DockerClient()
-container = client.containers.get("my_api_container")
-address = container.attrs['NetworkSettings']['Networks']['docker_eval_my_network']['IPAddress']
-#address = '34.244.150.51'
+#client = docker.DockerClient()
+#container = client.containers.get("my_api_container")
+#address = container.attrs['NetworkSettings']['Networks']['docker_eval_my_network']['IPAddress']
+address = '172.21.0.2'
 
 # port de l'API
 port = 8000

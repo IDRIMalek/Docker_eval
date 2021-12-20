@@ -1,11 +1,130 @@
 Attaching to my_api_container, authentication, authorization, content
-[36mauthentication    |[0m Traceback (most recent call last):
-[36mauthentication    |[0m   File "/my_server/authentication.py", line 4, in <module>
-[36mauthentication    |[0m     import docker 
-[36mauthentication    |[0m ModuleNotFoundError: No module named 'docker'
-[36mauthentication exited with code 1
-[0m[33mauthorization exited with code 0
-[0m[35mmy_api_container  |[0m INFO:     Started server process [7]
+[33mauthorization exited with code 0
+[0m[36mauthentication exited with code 0
+[0m[35mmy_api_container  |[0m INFO:     Started server process [8]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59900 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59902 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59904 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36040 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36042 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36044 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36046 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59914 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59916 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59918 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:59920 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60002 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60004 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60006 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36142 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36144 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36146 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36148 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60016 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60018 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60020 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60022 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60108 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60110 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60112 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36250 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36252 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36254 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36256 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60124 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60126 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60128 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60130 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60214 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60216 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60218 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36354 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36356 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36358 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36360 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60228 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60230 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60232 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60234 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [6]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60290 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60292 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60294 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36430 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36432 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36434 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36436 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60304 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60306 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60308 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60310 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [6]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36526 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36528 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36530 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36532 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60400 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60402 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60404 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60406 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [9]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36604 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36606 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36608 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36610 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60478 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60480 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60482 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60484 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [8]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36706 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36708 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36710 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:36712 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60580 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60582 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60584 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:60586 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [6]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37308 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37310 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37312 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37314 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:32950 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:32952 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:32954 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:32956 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
 [35mmy_api_container  |[0m INFO:     Waiting for application startup.
 [35mmy_api_container  |[0m INFO:     Application startup complete.
 [35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
@@ -17,5 +136,32 @@ Attaching to my_api_container, authentication, authorization, content
 [35mmy_api_container  |[0m INFO:     34.244.150.51:33048 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
 [35mmy_api_container  |[0m INFO:     34.244.150.51:33050 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
 [35mmy_api_container  |[0m INFO:     34.244.150.51:33052 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37570 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37572 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37574 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37576 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33212 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33214 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33216 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33218 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     Started server process [7]
+[35mmy_api_container  |[0m INFO:     Waiting for application startup.
+[35mmy_api_container  |[0m INFO:     Application startup complete.
+[35mmy_api_container  |[0m INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[35mmy_api_container  |[0m INFO:     172.21.0.3:43212 - "GET /permissions?username=alice&password=wonderland HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     172.21.0.3:43214 - "GET /permissions?username=bob&password=builder HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     172.21.0.3:43216 - "GET /permissions?username=clementine&password=mandarine HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37754 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37756 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37758 - "GET /v1/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:37760 - "GET /v2/sentiment?username=bob&password=builder&sentence=life+is+beautiful HTTP/1.1" 403 Forbidden
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33396 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33398 - "GET /v1/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33400 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=life+is+beautiful HTTP/1.1" 200 OK
+[35mmy_api_container  |[0m INFO:     34.244.150.51:33402 - "GET /v2/sentiment?username=alice&password=wonderland&sentence=that+sucks HTTP/1.1" 200 OK
 [32mcontent exited with code 0
 [0mGracefully stopping... (press Ctrl+C again to force)

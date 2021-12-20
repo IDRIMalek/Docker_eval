@@ -5,7 +5,7 @@ import requests
 import csv
 
 # définition de l'adresse de l'API
-address = '34.244.150.51'
+address = '172.21.0.2'
 # port de l'API
 port = 8000
 

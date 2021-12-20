@@ -18,3 +18,8 @@
 [Info  - 12:17:46 AM] Found 11007 source files
 [Info  - 12:18:38 AM] Searching for source files
 [Info  - 12:18:38 AM] Found 11007 source files
+[Info  - 12:22:25 AM] Searching for source files
+[Info  - 12:22:25 AM] Found 11007 source files
+[Info  - 12:22:28 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/DOCKER_eval/docker_volume/authentication.py (2300ms)
+[Info  - 12:36:28 AM] Searching for source files
+[Info  - 12:36:29 AM] Found 11007 source files
