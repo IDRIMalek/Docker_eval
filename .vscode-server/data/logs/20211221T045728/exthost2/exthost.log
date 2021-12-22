@@ -1,0 +1,16 @@
+[2021-12-21 04:57:54.374] [exthost] [info] Extension host with pid 1423 started
+[2021-12-21 04:57:54.384] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': Lock acquired.
+[2021-12-21 04:57:54.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-21 04:57:54.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-21 04:57:54.816] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-21 04:57:55.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-21 04:57:55.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 04:57:55.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 04:57:55.658] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 04:57:55.806] [exthost] [info] Eager extensions activated
+[2021-12-21 04:57:56.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2021-12-21 04:57:57.989] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 04:57:58.541] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: false, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-21 05:48:37.741] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-21 05:48:37.741] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-21 05:48:37.770] [exthost] [info] Extension host with pid 1423 exiting with code 0

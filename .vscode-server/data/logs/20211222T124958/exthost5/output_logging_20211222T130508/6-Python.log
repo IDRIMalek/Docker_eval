@@ -1,0 +1,27 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotification' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+> conda info --json
+> conda --version
+> ~/Projet2_DE/Projet2_DE_venv/bin/python ~/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+Python interpreter path: ./Projet2_DE_venv/bin/python
+Starting Pylance language server.
+> ". /home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/printEnvVariables.py"
+[ERROR 2021-11-22 13:6:25.946]: getActivatedEnvironmentVariables [Error: Command failed: . /home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/printEnvVariables.py"
+}

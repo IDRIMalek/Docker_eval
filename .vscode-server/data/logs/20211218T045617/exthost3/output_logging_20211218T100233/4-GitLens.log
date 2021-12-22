@@ -1,1 +1,0 @@
-[2021-12-18 10:02:37:773] [/home] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 166 ms 

@@ -1,0 +1,23 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 13:06:23: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 13:06:23: ZMQ install verified.
+Info 13:06:24: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 13:06:25: Process Execution: > ~/Projet2_DE/Projet2_DE_venv/bin/python -m pip list
+> ~/Projet2_DE/Projet2_DE_venv/bin/python -m pip list
+Error 13:06:25: Failed to get activated enviornment variables ourselves [Error: Command failed: . /home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/pythonFiles/printEnvVariables.py"
+}

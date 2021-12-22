@@ -1,0 +1,8 @@
+[Info  - 7:46:29 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 7:46:29 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 7:46:29 PM] No configuration file found.
+[Info  - 7:46:29 PM] No pyproject.toml file found.
+[Info  - 7:46:29 PM] Setting pythonPath for service "ubuntu": "/home/ubuntu/FASTAPI/bin/python"
+[Warn  - 7:46:29 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 7:46:30 PM] Assuming Python version 3.8
+[Info  - 7:46:30 PM] Assuming Python platform Linux

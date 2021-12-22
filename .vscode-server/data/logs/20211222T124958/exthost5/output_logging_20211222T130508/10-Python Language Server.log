@@ -1,0 +1,20 @@
+[Info  - 1:06:26 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 1:06:26 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 1:06:26 PM] No configuration file found.
+[Info  - 1:06:26 PM] No pyproject.toml file found.
+[Info  - 1:06:26 PM] Setting pythonPath for service "Projet2_DE": "/home/ubuntu/Projet2_DE/Projet2_DE_venv/bin/python"
+[Warn  - 1:06:26 PM] stubPath /home/ubuntu/Projet2_DE/typings is not a valid directory.
+[Info  - 1:06:26 PM] Assuming Python version 3.8
+[Info  - 1:06:26 PM] Assuming Python platform Linux
+[Warn  - 1:06:27 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:06:27 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 1:06:27 PM] Searching for source files
+[Info  - 1:06:27 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:06:27 PM] No source files found.
+[Info  - 1:06:27 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 1:06:27 PM] Background analysis(1) started
+[Info  - 1:06:30 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py (2528ms)
+[Info  - 1:14:28 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (5118ms)
+[Info  - 2:08:05 PM] Searching for source files
+[Info  - 2:08:05 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:08:05 PM] No source files found.

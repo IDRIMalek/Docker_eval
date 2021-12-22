@@ -1,0 +1,4 @@
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/donjayamanne.python-environment-manager-1.0.3/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/donjayamanne.python-environment-manager-1.0.3/pythonFiles/interpreterInfo.py
+> conda --version

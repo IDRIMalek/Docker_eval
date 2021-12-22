@@ -1,0 +1,84 @@
+[Info  - 8:15:43 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 8:15:43 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 8:15:43 PM] No configuration file found.
+[Info  - 8:15:43 PM] No pyproject.toml file found.
+[Info  - 8:15:43 PM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 8:15:43 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 8:15:43 PM] Assuming Python version 3.8
+[Info  - 8:15:43 PM] Assuming Python platform Linux
+[Warn  - 8:15:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 8:15:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 8:15:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 8:15:44 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 8:15:44 PM] Searching for source files
+[Info  - 8:15:44 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:15:44 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:15:45 PM] Found 12367 source files
+[Info  - 8:15:45 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 8:15:45 PM] Background analysis(1) started
+[Info  - 8:15:48 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (2249ms)
+[Info  - 8:15:48 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (2560ms)
+[Info  - 8:16:12 PM] Searching for source files
+[Info  - 8:16:13 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:16:13 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:13 PM] Found 12446 source files
+[Info  - 8:16:15 PM] Searching for source files
+[Info  - 8:16:16 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:16:16 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:16 PM] Found 12446 source files
+[Info  - 8:16:17 PM] Searching for source files
+[Info  - 8:16:18 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:16:18 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:18 PM] Found 12446 source files
+[Info  - 8:16:18 PM] Searching for source files
+[Info  - 8:16:18 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:16:18 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:18 PM] Found 12367 source files
+[Info  - 8:16:18 PM] Searching for source files
+[Info  - 8:16:19 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:16:19 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:19 PM] Found 12446 source files
+[Info  - 8:16:23 PM] Searching for source files
+[Info  - 8:16:23 PM] Auto-excluding /home/ubuntu/Projet2/Projet2
+[Info  - 8:16:23 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:23 PM] Found 12446 source files
+[Info  - 8:16:37 PM] Searching for source files
+[Info  - 8:16:38 PM] Auto-excluding /home/ubuntu/Projet2_old/Projet2_DE_venv
+[Info  - 8:16:38 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:16:38 PM] Found 12446 source files
+[Info  - 8:16:54 PM] Searching for source files
+[Info  - 8:16:55 PM] Auto-excluding /home/ubuntu/Projet2_DE_venv
+[Info  - 8:16:55 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:16:55 PM] Found 12446 source files
+[Info  - 8:17:05 PM] Searching for source files
+[Info  - 8:17:05 PM] Auto-excluding /home/ubuntu/Projet2_DE_venv
+[Info  - 8:17:05 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:17:05 PM] Found 12446 source files
+[Info  - 8:17:30 PM] Searching for source files
+[Info  - 8:17:31 PM] Auto-excluding /home/ubuntu/Projet2_DE_venv
+[Info  - 8:17:31 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:17:31 PM] Found 12446 source files
+[Info  - 8:17:54 PM] Searching for source files
+[Info  - 8:17:55 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:17:55 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:17:55 PM] Found 12446 source files
+[Info  - 8:19:14 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/modelisation.py (5105ms)
+[Info  - 8:19:14 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (5342ms)
+[Info  - 8:20:10 PM] Searching for source files
+[Info  - 8:20:11 PM] Auto-excluding /home/ubuntu/Projet2__
+[Info  - 8:20:11 PM] Auto-excluding /home/ubuntu/Projet2old/Projet2
+[Info  - 8:20:11 PM] Found 12446 source files
+[Info  - 8:20:15 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2old/Projet2/modelisation.py (3339ms)
+[Info  - 8:20:15 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2old/Projet2/modelisation.py (3417ms)
+[Info  - 8:20:20 PM] Searching for source files
+[Info  - 8:20:21 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:20:21 PM] Auto-excluding /home/ubuntu/Projet2__
+[Info  - 8:20:21 PM] Found 12446 source files
+[Info  - 8:20:23 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2/modelisation.py (2007ms)
+[Info  - 8:20:41 PM] Searching for source files
+[Info  - 8:20:41 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:20:41 PM] Found 12446 source files
+[Info  - 8:25:39 PM] Searching for source files
+[Info  - 8:25:40 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 8:25:40 PM] Found 12446 source files
+[Info  - 8:46:13 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2/modelisation.py (3346ms)

@@ -1,3 +1,0 @@
-The Docker extension will try to connect to 'unix:///var/run/docker.sock', via context 'default'.
-Error: (HTTP code 409) conflict - conflict: unable to delete f170c4191179 (cannot be forced) - image is being used by running container 01b1b1fa6385 
-Error: (HTTP code 409) conflict - conflict: unable to delete f170c4191179 (cannot be forced) - image is being used by running container 01b1b1fa6385 

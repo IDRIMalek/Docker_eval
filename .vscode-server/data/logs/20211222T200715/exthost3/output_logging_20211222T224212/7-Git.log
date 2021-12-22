@@ -1,0 +1,26 @@
+Validation du git trouvé dans : git
+Utilisation de git 2.25.1 à partir de git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/IDRIMalek/Docker_eval.git/'
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/api.py
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git config --local branch.dev.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git add -A -- .

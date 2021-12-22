@@ -1,0 +1,2 @@
+[2021-12-21 02:57:04:967] [/home/ubuntu] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 39,39:DOCKER_eval/setup.sh • file DOCKER_eval/setup.sh has only 35 lines • 9 ms 
+[2021-12-21 03:12:51:313] [/home/ubuntu] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 46,46:DOCKER_eval/setup.sh • file DOCKER_eval/setup.sh has only 35 lines • 11 ms 

@@ -1,0 +1,17 @@
+[2021-12-21 02:11:31.581] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-21 02:11:31.581] [remoteagent] [info] Extension host agent started.
+[2021-12-21 02:11:32.462] [remoteagent] [info] [127.0.0.1][db71c681][ManagementConnection] New connection established.
+[2021-12-21 02:11:32.465] [remoteagent] [info] [127.0.0.1][15f21dbe][ExtensionHostConnection] New connection established.
+[2021-12-21 02:11:32.473] [remoteagent] [info] [127.0.0.1][15f21dbe][ExtensionHostConnection] <853421> Launched Extension Host Process.
+[2021-12-21 02:37:22.393] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-21 02:37:22.394] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-21 03:41:47.642] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV

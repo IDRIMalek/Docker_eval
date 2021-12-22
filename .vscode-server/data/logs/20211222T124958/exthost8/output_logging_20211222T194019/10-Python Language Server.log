@@ -1,0 +1,33 @@
+[Info  - 7:40:25 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 7:40:25 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 7:40:25 PM] No configuration file found.
+[Info  - 7:40:25 PM] No pyproject.toml file found.
+[Info  - 7:40:25 PM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 7:40:25 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 7:40:25 PM] Assuming Python version 3.8
+[Info  - 7:40:25 PM] Assuming Python platform Linux
+[Warn  - 7:40:31 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:40:31 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:40:31 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:40:31 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 7:40:31 PM] Searching for source files
+[Info  - 7:40:31 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 7:40:31 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 7:40:31 PM] Found 12367 source files
+[Info  - 7:40:31 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 7:40:31 PM] Background analysis(1) started
+[Info  - 7:40:33 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/api.py (3543ms)
+[Info  - 7:40:33 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/api.py (4119ms)
+[Info  - 7:40:38 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/FASTAPI/modelisation.py (4673ms)
+[Info  - 7:43:33 PM] Searching for source files
+[Info  - 7:43:36 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 7:43:36 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 7:44:35 PM] Found 12446 source files
+[Info  - 7:46:30 PM] Searching for source files
+[Error - 7:49:35 PM] Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.

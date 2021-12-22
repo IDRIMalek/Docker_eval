@@ -1,0 +1,20 @@
+[Info  - 10:20:38 AM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 10:20:38 AM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:20:38 AM] No configuration file found.
+[Info  - 10:20:38 AM] No pyproject.toml file found.
+[Info  - 10:20:38 AM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 10:20:38 AM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 10:20:38 AM] Assuming Python version 3.8
+[Info  - 10:20:38 AM] Assuming Python platform Linux
+[Warn  - 10:20:40 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:20:40 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:20:40 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:20:40 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 10:20:40 AM] Searching for source files
+[Info  - 10:20:40 AM] Auto-excluding /home/ubuntu/CHURN/Projet2_DE_venv
+[Info  - 10:20:40 AM] Found 10869 source files
+[Info  - 10:20:40 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:20:40 AM] Background analysis(1) started
+[Info  - 10:25:34 AM] Searching for source files
+[Info  - 10:25:35 AM] Auto-excluding /home/ubuntu/CHURN/Projet2_DE_venv
+[Info  - 10:25:35 AM] Found 11038 source files

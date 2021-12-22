@@ -1,0 +1,130 @@
+[2021-12-21 09:13:50.253] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-21 09:13:50.254] [remoteagent] [info] Extension host agent started.
+[2021-12-21 09:13:50.572] [remoteagent] [info] [127.0.0.1][4998ce87][ManagementConnection] New connection established.
+[2021-12-21 09:13:50.639] [remoteagent] [info] [127.0.0.1][5842838c][ExtensionHostConnection] New connection established.
+[2021-12-21 09:13:50.646] [remoteagent] [info] [127.0.0.1][5842838c][ExtensionHostConnection] <2547> Launched Extension Host Process.
+[2021-12-21 09:14:00.079] [remoteagent] [info] Installing extension: njpwerner.autodocstring
+[2021-12-21 09:14:00.501] [remoteagent] [info] Downloaded extension: njpwerner.autodocstring /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/njpwerner.autodocstring-0.5.4
+[2021-12-21 09:14:00.640] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.9829b617-56b7-426c-bf88-c213523b5c2b: njpwerner.autodocstring
+[2021-12-21 09:14:00.646] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/njpwerner.autodocstring-0.5.4
+[2021-12-21 09:14:00.648] [remoteagent] [info] Extracting completed. njpwerner.autodocstring
+[2021-12-21 09:14:00.648] [remoteagent] [info] Extension installed successfully: njpwerner.autodocstring
+[2021-12-21 09:14:04.288] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-21 09:14:04.449] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-21 09:14:05.353] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.9b7d349b-2f45-46b5-9627-a0516546d5d4: ms-toolsai.jupyter
+[2021-12-21 09:14:05.376] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-21 09:14:05.381] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-21 09:14:05.382] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-21 09:14:07.667] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:07.817] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-21 09:14:08.071] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.04043288-9c0b-4f62-aef4-afeae7a0f71c: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:08.076] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-21 09:14:08.078] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:08.078] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:10.603] [remoteagent] [info] Installing extension: ms-python.python
+[2021-12-21 09:14:10.750] [remoteagent] [info] Downloaded extension: ms-python.python /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-21 09:14:13.731] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.b5d24c94-d1e8-4c25-b612-e67208624c4d: ms-python.python
+[2021-12-21 09:14:13.750] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655
+[2021-12-21 09:14:13.753] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-12-21 09:14:13.754] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-12-21 09:14:16.470] [remoteagent] [info] [127.0.0.1][4998ce87][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-21 09:14:16.497] [remoteagent] [info] [127.0.0.1][5842838c][ExtensionHostConnection] <2547> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 09:14:16.497] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-21 09:14:22.638] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-21 09:14:22.638] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-21 09:14:22.902] [remoteagent] [info] [127.0.0.1][82b41357][ManagementConnection] New connection established.
+[2021-12-21 09:14:23.016] [remoteagent] [info] [127.0.0.1][9cc3836f][ExtensionHostConnection] New connection established.
+[2021-12-21 09:14:23.026] [remoteagent] [info] [127.0.0.1][9cc3836f][ExtensionHostConnection] <2739> Launched Extension Host Process.
+[2021-12-21 09:14:28.627] [remoteagent] [info] Installing extension: njpwerner.autodocstring
+[2021-12-21 09:14:28.833] [remoteagent] [info] Downloaded extension: njpwerner.autodocstring /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/njpwerner.autodocstring-0.5.4
+[2021-12-21 09:14:28.955] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.49d6c326-8def-4a72-9650-4317616cdf50: njpwerner.autodocstring
+[2021-12-21 09:14:28.970] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/njpwerner.autodocstring-0.5.4
+[2021-12-21 09:14:28.972] [remoteagent] [info] Extracting completed. njpwerner.autodocstring
+[2021-12-21 09:14:28.972] [remoteagent] [info] Extension installed successfully: njpwerner.autodocstring
+[2021-12-21 09:14:30.772] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-21 09:14:30.920] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-21 09:14:31.724] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.6a7b3a3d-abcb-407f-a5f4-abec0148444c: ms-toolsai.jupyter
+[2021-12-21 09:14:31.737] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-21 09:14:31.740] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-21 09:14:31.741] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-21 09:14:33.691] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:33.855] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-21 09:14:34.103] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.da9eb265-75e7-41f9-819c-5892e11814e5: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:34.108] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-21 09:14:34.109] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:34.109] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-21 09:14:35.762] [remoteagent] [info] Installing extension: ms-python.python
+[2021-12-21 09:14:35.930] [remoteagent] [info] Downloaded extension: ms-python.python /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-21 09:14:38.692] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.f960200b-c720-4d41-9c4a-e843b255b9f0: ms-python.python
+[2021-12-21 09:14:38.708] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655
+[2021-12-21 09:14:38.711] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-12-21 09:14:38.712] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-12-21 09:14:44.224] [remoteagent] [info] Installing extension: donjayamanne.python-environment-manager
+[2021-12-21 09:14:45.075] [remoteagent] [info] Downloaded extension: donjayamanne.python-environment-manager /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-environment-manager-1.0.3
+[2021-12-21 09:14:45.444] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.a1fb19a3-bbdc-4bc3-859b-64c3c022ba6a: donjayamanne.python-environment-manager
+[2021-12-21 09:14:45.453] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/donjayamanne.python-environment-manager-1.0.3
+[2021-12-21 09:14:45.454] [remoteagent] [info] Extracting completed. donjayamanne.python-environment-manager
+[2021-12-21 09:14:45.455] [remoteagent] [info] Extension installed successfully: donjayamanne.python-environment-manager
+[2021-12-21 09:14:47.972] [remoteagent] [info] Installing extension: donjayamanne.python-extension-pack
+[2021-12-21 09:14:49.195] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-12-21 09:14:49.195] [remoteagent] [info] Installing extension: batisteo.vscode-django
+[2021-12-21 09:14:49.195] [remoteagent] [info] Installing extension: wholroyd.jinja
+[2021-12-21 09:14:49.195] [remoteagent] [info] Installing extension: kevinrose.vsc-python-indent
+[2021-12-21 09:14:49.195] [remoteagent] [info] Extension is already requested to install kevinrose.vsc-python-indent
+[2021-12-21 09:14:49.195] [remoteagent] [info] Extension is already requested to install wholroyd.jinja
+[2021-12-21 09:14:49.196] [remoteagent] [info] Extension is already requested to install kevinrose.vsc-python-indent
+[2021-12-21 09:14:49.196] [remoteagent] [info] Extension is already requested to install batisteo.vscode-django
+[2021-12-21 09:14:49.196] [remoteagent] [info] Extension is already requested to install wholroyd.jinja
+[2021-12-21 09:14:49.196] [remoteagent] [info] Extension is already requested to install kevinrose.vsc-python-indent
+[2021-12-21 09:14:49.657] [remoteagent] [info] Downloaded extension: wholroyd.jinja /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/wholroyd.jinja-0.0.8
+[2021-12-21 09:14:49.680] [remoteagent] [info] Downloaded extension: batisteo.vscode-django /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/batisteo.vscode-django-1.8.0
+[2021-12-21 09:14:49.681] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.13749921-3cf1-46b8-9695-d4f35ef63580: wholroyd.jinja
+[2021-12-21 09:14:49.686] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/wholroyd.jinja-0.0.8
+[2021-12-21 09:14:49.687] [remoteagent] [info] Extracting completed. wholroyd.jinja
+[2021-12-21 09:14:49.790] [remoteagent] [info] Downloaded extension: kevinrose.vsc-python-indent /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.14.2
+[2021-12-21 09:14:49.874] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.0673aac0-8236-4f3f-8e74-a60bca894cb4: batisteo.vscode-django
+[2021-12-21 09:14:49.881] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/batisteo.vscode-django-1.8.0
+[2021-12-21 09:14:49.883] [remoteagent] [info] Extracting completed. batisteo.vscode-django
+[2021-12-21 09:14:49.980] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.a8e91284-c35a-4aef-b16b-e49b625bf0b2: kevinrose.vsc-python-indent
+[2021-12-21 09:14:49.985] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/kevinrose.vsc-python-indent-1.14.2
+[2021-12-21 09:14:49.986] [remoteagent] [info] Extracting completed. kevinrose.vsc-python-indent
+[2021-12-21 09:14:50.727] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.15
+[2021-12-21 09:14:51.282] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d9f32a6f-0498-4a26-ab33-848da4c4e650: visualstudioexptteam.vscodeintellicode
+[2021-12-21 09:14:51.296] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15
+[2021-12-21 09:14:51.298] [remoteagent] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2021-12-21 09:14:51.582] [remoteagent] [info] Downloaded extension: donjayamanne.python-extension-pack /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-extension-pack-1.7.0
+[2021-12-21 09:14:51.593] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.b3610688-89cd-41db-a803-3f91cf455cc0: donjayamanne.python-extension-pack
+[2021-12-21 09:14:51.599] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/donjayamanne.python-extension-pack-1.7.0
+[2021-12-21 09:14:51.616] [remoteagent] [info] Extracting completed. donjayamanne.python-extension-pack
+[2021-12-21 09:14:51.616] [remoteagent] [info] Extension installed successfully: wholroyd.jinja
+[2021-12-21 09:14:51.617] [remoteagent] [info] Extension installed successfully: batisteo.vscode-django
+[2021-12-21 09:14:51.617] [remoteagent] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2021-12-21 09:14:51.617] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-12-21 09:14:51.617] [remoteagent] [info] Extension installed successfully: donjayamanne.python-extension-pack
+[2021-12-21 09:14:51.632] [remoteagent] [info] Detected extension removed from another source donjayamanne.python-extension-pack
+[2021-12-21 09:14:51.856] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-21 09:14:51.856] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-21 09:14:51.856] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-21 09:14:51.856] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-21 09:14:51.857] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-21 09:14:51.931] [remoteagent] [info] Detected extension installed from another source donjayamanne.python-extension-pack
+[2021-12-21 09:15:11.324] [remoteagent] [info] Installing extension: kevinrose.vsc-python-indent
+[2021-12-21 09:15:11.674] [remoteagent] [info] Downloaded extension: kevinrose.vsc-python-indent /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.14.2
+[2021-12-21 09:15:11.868] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.2dcdcc6d-f31e-490f-ad7b-69e84cc9ca26: kevinrose.vsc-python-indent
+[2021-12-21 09:15:11.876] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/kevinrose.vsc-python-indent-1.14.2
+[2021-12-21 09:15:11.877] [remoteagent] [info] Extracting completed. kevinrose.vsc-python-indent
+[2021-12-21 09:15:11.878] [remoteagent] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2021-12-21 09:19:22.639] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-21 10:31:50.089] [remoteagent] [info] [127.0.0.1][82b41357][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-21 10:31:50.180] [remoteagent] [info] [127.0.0.1][9cc3836f][ExtensionHostConnection] <2739> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 10:31:50.180] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-21 10:36:50.181] [remoteagent] [info] Last EH closed, shutting down

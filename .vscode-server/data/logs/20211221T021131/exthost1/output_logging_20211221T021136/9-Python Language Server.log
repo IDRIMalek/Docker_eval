@@ -1,0 +1,68 @@
+[Info  - 2:12:25 AM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 2:12:25 AM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 2:12:25 AM] No configuration file found.
+[Info  - 2:12:25 AM] No pyproject.toml file found.
+[Info  - 2:12:25 AM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 2:12:25 AM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 2:12:25 AM] Assuming Python version 3.8
+[Info  - 2:12:25 AM] Assuming Python platform Linux
+[Warn  - 2:12:26 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:12:26 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:12:26 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:12:26 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:12:26 AM] Searching for source files
+[Info  - 2:12:27 AM] Found 10841 source files
+[Info  - 2:12:27 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 2:12:27 AM] Background analysis(1) started
+[Info  - 2:33:20 AM] Searching for source files
+[Info  - 2:33:21 AM] Found 11007 source files
+[Info  - 2:33:41 AM] Searching for source files
+[Info  - 2:33:41 AM] Found 11007 source files
+[Info  - 2:34:08 AM] Searching for source files
+[Info  - 2:34:08 AM] Found 11007 source files
+[Info  - 2:34:13 AM] Searching for source files
+[Info  - 2:34:14 AM] Found 11007 source files
+[Info  - 2:34:16 AM] Searching for source files
+[Info  - 2:34:17 AM] Found 11007 source files
+[Info  - 2:34:38 AM] Searching for source files
+[Info  - 2:34:39 AM] Found 11007 source files
+[Info  - 2:34:39 AM] Searching for source files
+[Info  - 2:34:40 AM] Found 11007 source files
+[Info  - 2:34:58 AM] Searching for source files
+[Info  - 2:34:59 AM] Found 11007 source files
+[Info  - 2:35:04 AM] Searching for source files
+[Info  - 2:35:05 AM] Found 10841 source files
+[Info  - 2:38:17 AM] Searching for source files
+[Info  - 2:38:17 AM] Found 11004 source files
+[Info  - 2:38:22 AM] Searching for source files
+[Info  - 2:38:22 AM] Found 11004 source files
+[Info  - 2:39:14 AM] Searching for source files
+[Info  - 2:39:14 AM] Found 11007 source files
+[Info  - 2:39:14 AM] Searching for source files
+[Info  - 2:39:15 AM] Found 11007 source files
+[Info  - 2:39:15 AM] Searching for source files
+[Info  - 2:39:15 AM] Found 11007 source files
+[Info  - 2:53:36 AM] Searching for source files
+[Info  - 2:53:36 AM] Found 11007 source files
+[Info  - 2:57:11 AM] Searching for source files
+[Info  - 2:57:11 AM] Found 11007 source files
+[Info  - 3:09:06 AM] Searching for source files
+[Info  - 3:09:06 AM] Found 11007 source files
+[Info  - 3:13:10 AM] Searching for source files
+[Info  - 3:13:11 AM] Found 11007 source files
+[Info  - 3:15:07 AM] Searching for source files
+[Info  - 3:15:08 AM] Found 11007 source files
+[Info  - 3:17:57 AM] Searching for source files
+[Info  - 3:17:58 AM] Found 11007 source files
+[Info  - 3:22:31 AM] Searching for source files
+[Info  - 3:22:31 AM] Found 11007 source files
+[Info  - 3:30:26 AM] Searching for source files
+[Info  - 3:30:27 AM] Found 11007 source files
+[Info  - 3:32:02 AM] Searching for source files
+[Info  - 3:32:03 AM] Found 11007 source files
+[Info  - 3:35:17 AM] Searching for source files
+[Info  - 3:35:18 AM] Found 11007 source files
+[Info  - 3:38:51 AM] Searching for source files
+[Info  - 3:38:52 AM] Found 11007 source files
+[Info  - 3:41:16 AM] Searching for source files
+[Info  - 3:41:16 AM] Found 11007 source files

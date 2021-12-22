@@ -1,0 +1,136 @@
+Validation du git trouvé dans : git
+Utilisation de git 2.25.1 à partir de git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git fetch
+> git status -z -u
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/IDRIMalek/Docker_eval.git/'
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/requirements.txt
+> git ls-files --stage -- /home/ubuntu/Projet2/requirements.txt
+> git show --textconv :Projet2/pyvenv.cfg
+> git ls-files --stage -- /home/ubuntu/Projet2/pyvenv.cfg
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/Projet2/api.py
+> git show --textconv :Projet2/pyvenv.cfg
+> git ls-files --stage -- /home/ubuntu/Projet2/pyvenv.cfg
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2_old/.gitignore
+> git ls-files --stage -- /home/ubuntu/Projet2_old/.gitignore
+> git show --textconv :Projet2_DE_venv/Projet2_old/.gitignore
+> git ls-files --stage -- /home/ubuntu/Projet2_DE_venv/Projet2_old/.gitignore
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2_DE_venv/.gitignore
+> git ls-files --stage -- /home/ubuntu/Projet2_DE_venv/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/.gitignore
+> git ls-files --stage -- /home/ubuntu/Projet2/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2old/Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2old/Projet2/modelisation.py
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/setup.sh
+> git ls-files --stage -- /home/ubuntu/Projet2/setup.sh
+> git show --textconv :Projet2/setup_api.sh
+> git ls-files --stage -- /home/ubuntu/Projet2/setup_api.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/Projet2/api.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/setup_api.sh
+> git ls-files --stage -- /home/ubuntu/Projet2/setup_api.sh
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/setup_api.sh
+> git ls-files --stage -- /home/ubuntu/Projet2/setup_api.sh
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2/modelisation.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/Projet2/modelisation.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ubuntu/Projet2/modelisation.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/datasets/churn.csv
+> git ls-files --stage -- /home/ubuntu/Projet2/datasets/churn.csv
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py
+> git show --textconv :Projet2/api.py
+> git ls-files --stage -- /home/ubuntu/Projet2/api.py

@@ -1,0 +1,102 @@
+[Info  - 1:23:31 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 1:23:31 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 1:23:31 PM] No configuration file found.
+[Info  - 1:23:31 PM] No pyproject.toml file found.
+[Info  - 1:23:31 PM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 1:23:31 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 1:23:31 PM] Assuming Python version 3.8
+[Info  - 1:23:31 PM] Assuming Python platform Linux
+[Warn  - 1:23:33 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:23:33 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:23:33 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 1:23:33 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 1:23:33 PM] Searching for source files
+[Info  - 1:23:38 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:23:38 PM] Found 12368 source files
+[Info  - 1:23:38 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 1:23:38 PM] Background analysis(1) started
+[Info  - 1:23:38 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/api.py (3143ms)
+[Info  - 1:23:38 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/api.py (3727ms)
+[Info  - 1:23:41 PM] Searching for source files
+[Info  - 1:23:42 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:23:42 PM] Found 12447 source files
+[Info  - 1:24:45 PM] Searching for source files
+[Info  - 1:24:46 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 1:24:46 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:24:46 PM] Found 12446 source files
+[Info  - 1:24:50 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/api.py (2637ms)
+[Info  - 1:24:50 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/api.py (2997ms)
+[Info  - 1:26:56 PM] Searching for source files
+[Info  - 1:27:00 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 1:27:00 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:27:00 PM] Found 12446 source files
+[Info  - 1:27:01 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/api.py (3160ms)
+[Info  - 1:27:01 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/api.py (3596ms)
+[Info  - 1:27:01 PM] Searching for source files
+[Info  - 1:27:02 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 1:27:02 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:27:02 PM] Found 12446 source files
+[Info  - 1:52:08 PM] Searching for source files
+[Info  - 1:52:08 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 1:52:08 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 1:52:08 PM] Found 12446 source files
+[Info  - 1:55:38 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (5516ms)
+[Info  - 2:08:05 PM] Searching for source files
+[Info  - 2:08:06 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:08:06 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:08:07 PM] Found 12446 source files
+[Info  - 2:08:10 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (2408ms)
+[Info  - 2:08:10 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (2420ms)
+[Info  - 2:09:19 PM] Searching for source files
+[Info  - 2:09:20 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:09:20 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:09:20 PM] Found 12446 source files
+[Info  - 2:09:24 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (2476ms)
+[Info  - 2:09:24 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py (2488ms)
+[Info  - 2:20:41 PM] Searching for source files
+[Info  - 2:20:42 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:20:42 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:20:42 PM] Found 12446 source files
+[Info  - 2:20:42 PM] Searching for source files
+[Info  - 2:20:43 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:20:43 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:20:43 PM] Found 12446 source files
+[Info  - 2:20:43 PM] Searching for source files
+[Info  - 2:20:44 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:20:44 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:20:44 PM] Found 12446 source files
+[Info  - 2:20:46 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/api.py (2202ms)
+[Info  - 2:20:48 PM] Searching for source files
+[Info  - 2:20:49 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:20:49 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:20:49 PM] Found 12446 source files
+[Info  - 2:20:58 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (5408ms)
+[Info  - 2:20:58 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (5471ms)
+[Info  - 2:21:04 PM] Searching for source files
+[Info  - 2:21:04 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:21:04 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:21:04 PM] Found 12446 source files
+[Info  - 2:21:08 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (2833ms)
+[Info  - 2:21:08 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (2846ms)
+[Info  - 2:21:30 PM] Searching for source files
+[Info  - 2:21:30 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:21:30 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:21:30 PM] Found 12446 source files
+[Info  - 2:21:32 PM] Searching for source files
+[Info  - 2:21:32 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:21:32 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:21:32 PM] Found 12446 source files
+[Info  - 2:21:39 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (3281ms)
+[Info  - 2:21:39 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (3417ms)
+[Info  - 2:22:11 PM] Searching for source files
+[Info  - 2:22:12 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:22:12 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:22:12 PM] Found 12446 source files
+[Info  - 2:22:16 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (2691ms)
+[Info  - 2:22:16 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (2703ms)
+[Info  - 2:22:32 PM] Searching for source files
+[Info  - 2:22:33 PM] Auto-excluding /home/ubuntu/FASTAPI
+[Info  - 2:22:33 PM] Auto-excluding /home/ubuntu/Projet2_DE/Projet2_DE_venv
+[Info  - 2:22:33 PM] Found 12446 source files
+[Info  - 2:22:37 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (2557ms)
+[Info  - 2:22:37 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (2636ms)

@@ -1,0 +1,20 @@
+[Info  - 10:42:19 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 10:42:19 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:42:19 PM] No configuration file found.
+[Info  - 10:42:19 PM] No pyproject.toml file found.
+[Info  - 10:42:19 PM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 10:42:19 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 10:42:19 PM] Assuming Python version 3.8
+[Info  - 10:42:19 PM] Assuming Python platform Linux
+[Warn  - 10:42:20 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:42:20 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:42:20 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:42:20 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 10:42:20 PM] Searching for source files
+[Info  - 10:42:20 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:42:21 PM] Found 12367 source files
+[Info  - 10:42:21 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:42:21 PM] Background analysis(1) started
+[Info  - 10:42:24 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (2879ms)
+[Info  - 10:42:24 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (3216ms)
+[Info  - 10:42:27 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2/modelisation.py (2856ms)

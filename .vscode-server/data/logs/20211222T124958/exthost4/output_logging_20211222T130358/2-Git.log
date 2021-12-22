@@ -1,0 +1,40 @@
+Validation du git trouvé dans : git
+Utilisation de git 2.25.1 à partir de git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/Spoon-Knife
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/Spoon-Knife/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/Spoon-Knife/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git config --local branch.main.github-pr-owner-number
+> git fetch
+> git status -z -u
+> git rev-parse --git-dir
+Open repository: /home/ubuntu
+> git fetch
+> git status -z -u
+> git show --textconv :FASTAPI/modelisation.py
+> git ls-files --stage -- /home/ubuntu/FASTAPI/modelisation.py
+> git check-ignore -v -z --stdin
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/IDRIMalek/Docker_eval.git/'
+> git ls-files --stage -- /home/ubuntu/FASTAPI/modelisation.py
+> git show --textconv :FASTAPI/modelisation.py
+> git show --textconv :FASTAPI/modelisation.py
+> git ls-files --stage -- /home/ubuntu/FASTAPI/modelisation.py

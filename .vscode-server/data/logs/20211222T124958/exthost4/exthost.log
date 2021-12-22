@@ -1,0 +1,51 @@
+[2021-12-22 13:03:58.563] [exthost] [info] Extension host with pid 23023 started
+[2021-12-22 13:03:58.572] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/cfe13fd9d09133932c5ef1531bd3e93a/vscode.lock': Lock acquired.
+[2021-12-22 13:03:58.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-22 13:03:58.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-22 13:03:58.835] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-22 13:03:59.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-22 13:03:59.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-22 13:03:59.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:03:59.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:03:59.582] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:03:59.726] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:03:59.817] [exthost] [info] Eager extensions activated
+[2021-12-22 14:52:09.182] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 14:52:09.196] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 14:52:09.201] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-22 14:52:09.579] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 14:52:10.012] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 14:52:10.039] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 14:52:11.042] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-22 14:52:11.536] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+[2021-12-22 14:52:11.877] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 14:52:11.883] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 14:53:01.088] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 14:53:01.088] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-22 14:57:04.323] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 14:57:04.323] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:124663
+	at async s.provideDocumentSymbols (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:87704)
+[2021-12-22 14:57:04.338] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 14:57:04.338] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-22 14:57:49.543] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 14:57:49.544] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+	at p (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+	at async z.provideCompletionItems (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:101516)
+[2021-12-22 15:21:43.968] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 15:21:43.968] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)

@@ -1,0 +1,82 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 19:40:22: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 19:40:22: ZMQ install verified.
+Info 19:40:23: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 19:40:24: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 19:42:40: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 19:42:40: Find preferred kernel for ~/FASTAPI/test.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+Info 19:42:40: findKernel found Python 3.8.10 64-bit
+Info 19:42:40: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/FASTAPI/test.ipynb
+Info 19:42:40: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/FASTAPI/test.ipynb
+Info 19:42:40: Setting controller affinity for ~/FASTAPI/test.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 19:42:40: Registering dummy command feature
+Error 19:42:57: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:02: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:02: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:02: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:03: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:03: Live Notebook not available for ~/FASTAPI/test.ipynb
+Error 19:43:03: Live Notebook not available for ~/FASTAPI/test.ipynb
+Info 19:43:16: Setting setActiveController for ~/FASTAPI/test.ipynb
+Info 19:43:16: Execute Cells request 0
+Info 19:43:16: Execute Cell 0 ~/FASTAPI/test.ipynb
+Info 19:43:16: Starting Notebook in kernel.ts id = .jvsc74a57bd068882b2c9211b2d869f1632161408184ae8e143bddd87f61d71e78b1e71ef658./home/ubuntu/FASTAPI/python./home/ubuntu/FASTAPI/python.-m#ipykernel_launcher
+Info 19:43:16: Creating raw notebook for ~/FASTAPI/test.ipynb
+Info 19:43:16: Getting preferred kernel for ~/FASTAPI/test.ipynb
+Info 19:43:16: Computing working directory ~/FASTAPI/test.ipynb
+Info 19:43:16: Starting raw kernel FASTAPI (Python 3.8.10)
+Info 19:43:16: installMissingDependencies ~/FASTAPI/bin/python
+Info 19:43:17: KernelProvider switched kernel to id = .jvsc74a57bd068882b2c9211b2d869f1632161408184ae8e143bddd87f61d71e78b1e71ef658./home/ubuntu/FASTAPI/python./home/ubuntu/FASTAPI/python.-m#ipykernel_launcher
+Info 19:43:17: Process Execution: > ~/FASTAPI/bin/python -m pip list
+> ~/FASTAPI/bin/python -m pip list
+Info 19:43:17: Process Execution: > ~/FASTAPI/bin/python -c "import ipykernel"
+> ~/FASTAPI/bin/python -c "import ipykernel"
+Info 19:43:17: Process Execution: > ~/FASTAPI/bin/python -c "import pip"
+> ~/FASTAPI/bin/python -c "import pip"
+Info 19:43:21: Got result from python installer for ipykernel, result = 2
+Info 19:44:44: Got result from python installer for ipykernel, result = 0
+Info 19:44:44: Process Execution: > ~/FASTAPI/bin/python -m pip list
+> ~/FASTAPI/bin/python -m pip list
+Info 19:44:44: Process Execution: > ~/FASTAPI/bin/python -c "import ipykernel"
+> ~/FASTAPI/bin/python -c "import ipykernel"
+Info 19:44:44: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 19:44:44: Launching kernel daemon for Python 3.8.10 64-bit ('FASTAPI': venv) # ~/FASTAPI/bin/python
+Info 19:44:44: No custom variables for Kernel as interpreter is not conda, but is Venv
+Info 19:44:45: Creating daemon process for ~/FASTAPI/bin/python with env variables count 39
+Info 19:44:45: Process Execution: > ~/FASTAPI/bin/python -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/FASTAPI/bin/python -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 19:44:45: Starting kernel from scratch
+Warn 19:44:47: StdErr from Kernel Process /home/ubuntu/FASTAPI/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 19:44:47: StdErr from Kernel Process   warn(
+
+Warn 19:44:47: StdErr from Kernel Process /home/ubuntu/FASTAPI/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '043db93d-0931-4502-9aad-e7b95d5b5d91' instead of 'b"043db93d-0931-4502-9aad-e7b95d5b5d91"'.
+
+Warn 19:44:47: StdErr from Kernel Process   warn(
+
+Warn 19:46:26: Didn't get response for requestKernelInfo after 261ms.
+Info 19:46:26: Raw session started and connected
+Started kernel FASTAPI (Python 3.8.10)
+Info 19:46:26: Finished connecting 70d75e33-e0fc-499e-8102-026b68cac080
+Info 19:46:26: UpdateWorkingDirectoryAndPath in Kernel
+Info 19:46:27: changeDirectoryIfPossible
+Info 19:46:27: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/FASTAPI"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 19:46:27: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/FASTAPI"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 19:46:27: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 19:46:27: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 19:46:27: Initialize matplotlib for file:///home/ubuntu/FASTAPI/test.ipynb
+Info 19:46:27: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 19:46:27: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 19:46:27: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 19:46:27: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 19:46:27: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 19:46:28: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 19:46:28: Waiting for idle on (kernel): 94448d92-8514-4224-8240-c121e159a565 -> idle
+Info 19:46:28: Finished waiting for idle on (kernel): 94448d92-8514-4224-8240-c121e159a565 -> idle
+Info 19:46:28: IPyWidgetScriptSource.initialize
+Info 19:46:28: Cell 0 executed with state Success
+Info 19:46:29: Registering dummy command feature

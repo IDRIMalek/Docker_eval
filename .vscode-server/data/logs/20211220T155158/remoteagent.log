@@ -1,0 +1,25 @@
+[2021-12-20 15:51:58.130] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-20 15:51:58.130] [remoteagent] [info] Extension host agent started.
+[2021-12-20 15:51:58.390] [remoteagent] [info] [127.0.0.1][3a6e4dde][ManagementConnection] New connection established.
+[2021-12-20 15:51:58.441] [remoteagent] [info] [127.0.0.1][06f6c0e7][ExtensionHostConnection] New connection established.
+[2021-12-20 15:51:58.448] [remoteagent] [info] [127.0.0.1][06f6c0e7][ExtensionHostConnection] <722076> Launched Extension Host Process.
+[2021-12-20 18:01:51.821] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2021-12-20 18:15:27.382] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-20 18:15:27.383] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-20 19:24:54.136] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-20 19:24:54.136] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-20 19:25:02.003] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-20 19:25:02.003] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-20 20:42:21.729] [remoteagent] [info] [127.0.0.1][3a6e4dde][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-20 20:42:21.817] [remoteagent] [info] [127.0.0.1][06f6c0e7][ExtensionHostConnection] <722076> Extension Host Process exited with code: 0, signal: null.
+[2021-12-20 20:42:21.817] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-20 20:47:21.818] [remoteagent] [info] Last EH closed, shutting down

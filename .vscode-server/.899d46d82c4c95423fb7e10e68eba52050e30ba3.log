@@ -7,58 +7,69 @@
 * as described in the license https://aka.ms/vscode-remote/license
 *
 
-Extension host agent listening on 37841
+Extension host agent listening on 37615
 
-[10:30:15] Extension host agent started.
-[10:30:15] [127.0.0.1][5eb65537][ManagementConnection] New connection established.
-[10:30:15] [127.0.0.1][8f9198be][ExtensionHostConnection] New connection established.
-[10:30:15] [127.0.0.1][8f9198be][ExtensionHostConnection] <701674> Launched Extension Host Process.
-[10:30:37] [127.0.0.1][5eb65537][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[10:30:37] [127.0.0.1][8f9198be][ExtensionHostConnection] <701674> Extension Host Process exited with code: 0, signal: null.
+[20:07:15] Extension host agent started.
+[20:07:15] [127.0.0.1][6e8dc559][ManagementConnection] New connection established.
+[20:07:16] [127.0.0.1][f037f5aa][ExtensionHostConnection] New connection established.
+[20:07:16] [127.0.0.1][f037f5aa][ExtensionHostConnection] <1254> Launched Extension Host Process.
+[20:07:16] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[20:07:16] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[20:07:16] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[20:07:16] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[20:07:16] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[20:07:27] [127.0.0.1][6e8dc559][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:07:27] [127.0.0.1][f037f5aa][ExtensionHostConnection] <1254> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[10:30:37] Last EH closed, waiting before shutting down
+[20:07:27] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[10:30:42] Got delay-shutdown request while in shutdown timeout, delaying
+[20:07:34] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[10:30:42] Cancelling previous shutdown timeout
-[10:30:43] [127.0.0.1][1104fb12][ManagementConnection] New connection established.
-[10:30:43] [127.0.0.1][7430efa5][ExtensionHostConnection] New connection established.
-[10:30:43] [127.0.0.1][7430efa5][ExtensionHostConnection] <701896> Launched Extension Host Process.
-rejected promise not handled within 1 second: Error: Could not find pty with id "4"
-stack trace: Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
-[Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[20:07:34] Cancelling previous shutdown timeout
+[20:07:34] [127.0.0.1][3c04b22e][ManagementConnection] New connection established.
+[20:07:34] [127.0.0.1][ce9ea30a][ExtensionHostConnection] New connection established.
+[20:07:34] [127.0.0.1][ce9ea30a][ExtensionHostConnection] <1452> Launched Extension Host Process.
+[20:07:35] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[20:07:35] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[20:07:35] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[20:07:35] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[20:07:35] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
 rejected promise not handled within 1 second: Error: Could not find pty with id "10"
 stack trace: Error: Could not find pty with id "10",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
 [Error: Could not find pty with id "10",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
 rejected promise not handled within 1 second: Error: Could not find pty with id "10"
 stack trace: Error: Could not find pty with id "10",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
 [Error: Could not find pty with id "10",    at l._throwIfNoPty (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
-[10:30:51] Installing extension: eamodio.gitlens
-[10:30:51] Downloaded extension: eamodio.gitlens /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-11.7.0
-[10:30:51] Extracted extension to /home/ubuntu/.vscode-server/extensions/.61d801eb-f9b4-405e-85a5-de5872c4bebd: eamodio.gitlens
-[10:30:52] Renamed to /home/ubuntu/.vscode-server/extensions/eamodio.gitlens-11.7.0
-[10:30:52] Extracting completed. eamodio.gitlens
-[10:30:52] Extension installed successfully: eamodio.gitlens
-[10:30:55] Installing extension: ms-toolsai.jupyter
-[10:30:55] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
-[10:30:56] Extracted extension to /home/ubuntu/.vscode-server/extensions/.388c9f17-b215-472e-b6f0-e025f485c089: ms-toolsai.jupyter
-[10:30:56] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889
-[10:30:56] Extracting completed. ms-toolsai.jupyter
-[10:30:56] Extension installed successfully: ms-toolsai.jupyter
-[10:31:07] Installing extension: ms-toolsai.jupyter-renderers
-[10:31:07] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
-[10:31:07] Extracted extension to /home/ubuntu/.vscode-server/extensions/.61b2eb5f-2d99-461f-b522-f7b9aff478ce: ms-toolsai.jupyter-renderers
-[10:31:07] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.4
-[10:31:07] Extracting completed. ms-toolsai.jupyter-renderers
-[10:31:07] Extension installed successfully: ms-toolsai.jupyter-renderers
 New EH opened, aborting shutdown
-[10:35:42] New EH opened, aborting shutdown
-[12:04:15] [127.0.0.1][1104fb12][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
-Error: Unexpected SIGPIPE
-    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/bootstrap.js:1:370)
-    at process.emit (events.js:315:20)
-[13:17:32] [127.0.0.1][1104fb12][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
-[13:17:32] [127.0.0.1][e54d2fc1][ManagementConnection] New connection established.
-[13:17:33] [127.0.0.1][c4baeeae][ExtensionHostConnection] New connection established.
-[13:17:33] [127.0.0.1][c4baeeae][ExtensionHostConnection] <715866> Launched Extension Host Process.
-[IPC Library: Pty Host]  INFO Persistent process "11": Replaying 4337 chars and 1 size events
+[20:12:34] New EH opened, aborting shutdown
+[20:14:32] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[20:14:32] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[20:14:33] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[20:14:33] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[20:17:41] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[20:17:41] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[20:20:40] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[20:20:40] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[20:36:13] [127.0.0.1][ce9ea30a][ExtensionHostConnection] <1452> Starting WebSocket: RAW/api/kernels/466636f6-b4e1-4346-bf03-bbe2cf2fedb3
+
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+[22:42:09] [127.0.0.1][2b49b5f5][ManagementConnection] New connection established.
+[22:42:09] [127.0.0.1][1f5ca017][ExtensionHostConnection] New connection established.
+[22:42:09] [127.0.0.1][1f5ca017][ExtensionHostConnection] <6281> Launched Extension Host Process.
+[22:42:10] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[22:42:10] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[22:42:10] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[22:42:10] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[22:42:10] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[IPC Library: Pty Host]  INFO Persistent process "12": Replaying 6624 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "13": Replaying 48 chars and 1 size events

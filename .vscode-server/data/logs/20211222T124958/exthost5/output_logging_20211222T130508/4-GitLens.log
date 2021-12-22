@@ -1,0 +1,1 @@
+[2021-12-22 13:20:21:092] [/home/ubuntu/Projet2_DE] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 186,186:Projet2_DE_venv/server.py • file Projet2_DE_venv/server.py has only 128 lines • 11 ms 

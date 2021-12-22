@@ -1,0 +1,126 @@
+[2021-12-22 12:49:58.275] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-22 12:49:58.275] [remoteagent] [info] Extension host agent started.
+[2021-12-22 12:49:58.550] [remoteagent] [info] [127.0.0.1][897ba971][ManagementConnection] New connection established.
+[2021-12-22 12:49:58.600] [remoteagent] [info] [127.0.0.1][9a420a5d][ExtensionHostConnection] New connection established.
+[2021-12-22 12:49:58.601] [remoteagent] [info] Deleted from disk github.vscode-pull-request-github /home/ubuntu/.vscode-server/extensions/github.vscode-pull-request-github-0.34.1
+[2021-12-22 12:49:58.618] [remoteagent] [info] [127.0.0.1][9a420a5d][ExtensionHostConnection] <21949> Launched Extension Host Process.
+[2021-12-22 12:49:59.331] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 12:49:59.331] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 12:49:59.332] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 12:49:59.332] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 12:49:59.332] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:01:23.152] [remoteagent] [info] [127.0.0.1][fa84a5d0][ManagementConnection] New connection established.
+[2021-12-22 13:01:23.230] [remoteagent] [info] [127.0.0.1][a58d5eca][ExtensionHostConnection] New connection established.
+[2021-12-22 13:01:23.235] [remoteagent] [info] [127.0.0.1][a58d5eca][ExtensionHostConnection] <22302> Launched Extension Host Process.
+[2021-12-22 13:01:23.843] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:01:23.843] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:01:23.843] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:01:23.843] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:01:23.843] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:01:31.568] [remoteagent] [info] [127.0.0.1][59d3caa9][ManagementConnection] New connection established.
+[2021-12-22 13:01:31.704] [remoteagent] [info] [127.0.0.1][d4d032c0][ExtensionHostConnection] New connection established.
+[2021-12-22 13:01:31.711] [remoteagent] [info] [127.0.0.1][d4d032c0][ExtensionHostConnection] <22505> Launched Extension Host Process.
+[2021-12-22 13:01:32.103] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:01:32.103] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:01:32.103] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:01:32.104] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:01:32.104] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:03:51.266] [remoteagent] [info] [127.0.0.1][fa84a5d0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-22 13:03:51.317] [remoteagent] [info] [127.0.0.1][a58d5eca][ExtensionHostConnection] <22302> Extension Host Process exited with code: 0, signal: null.
+[2021-12-22 13:03:55.397] [remoteagent] [info] [127.0.0.1][2958410e][ManagementConnection] New connection established.
+[2021-12-22 13:03:55.489] [remoteagent] [info] [127.0.0.1][076818aa][ExtensionHostConnection] New connection established.
+[2021-12-22 13:03:55.494] [remoteagent] [info] [127.0.0.1][076818aa][ExtensionHostConnection] <23023> Launched Extension Host Process.
+[2021-12-22 13:03:56.041] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:03:56.041] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:03:56.041] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:03:56.041] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:03:56.041] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:05:01.692] [remoteagent] [info] [127.0.0.1][59d3caa9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-22 13:05:01.724] [remoteagent] [info] [127.0.0.1][d4d032c0][ExtensionHostConnection] <22505> Extension Host Process exited with code: 0, signal: null.
+[2021-12-22 13:05:05.477] [remoteagent] [info] [127.0.0.1][60370ed6][ManagementConnection] New connection established.
+[2021-12-22 13:05:05.573] [remoteagent] [info] [127.0.0.1][f2fdb771][ExtensionHostConnection] New connection established.
+[2021-12-22 13:05:05.582] [remoteagent] [info] [127.0.0.1][f2fdb771][ExtensionHostConnection] <23273> Launched Extension Host Process.
+[2021-12-22 13:05:06.166] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:05:06.166] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:05:06.166] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:05:06.167] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:05:06.167] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:12:03.320] [remoteagent] [info] [127.0.0.1][897ba971][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-22 13:18:41.047] [remoteagent] [info] [127.0.0.1][897ba971][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-22 13:22:38.085] [remoteagent] [info] [127.0.0.1][1bc9a696][ManagementConnection] New connection established.
+[2021-12-22 13:22:38.267] [remoteagent] [info] [127.0.0.1][c4bc2f09][ExtensionHostConnection] New connection established.
+[2021-12-22 13:22:38.278] [remoteagent] [info] [127.0.0.1][c4bc2f09][ExtensionHostConnection] <25780> Launched Extension Host Process.
+[2021-12-22 13:22:38.816] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:22:38.816] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:22:38.816] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:22:38.816] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:22:38.816] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:22:54.003] [remoteagent] [info] [127.0.0.1][1bc9a696][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-22 13:22:54.030] [remoteagent] [info] [127.0.0.1][c4bc2f09][ExtensionHostConnection] <25780> Extension Host Process exited with code: 0, signal: null.
+[2021-12-22 13:23:01.146] [remoteagent] [info] [127.0.0.1][d9d1627e][ManagementConnection] New connection established.
+[2021-12-22 13:23:01.320] [remoteagent] [info] [127.0.0.1][7dcb6f89][ExtensionHostConnection] New connection established.
+[2021-12-22 13:23:01.356] [remoteagent] [info] [127.0.0.1][7dcb6f89][ExtensionHostConnection] <25973> Launched Extension Host Process.
+[2021-12-22 13:23:01.997] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 13:23:01.997] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 13:23:01.997] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 13:23:01.998] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 13:23:01.998] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 13:23:09.549] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-22 13:23:09.550] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-22 13:23:09.551] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:09.551] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-22 13:23:09.572] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+[2021-12-22 13:23:09.572] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-22 13:23:09.749] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:09.750] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-22 13:23:10.021] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:10.022] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-22 13:23:10.309] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:10.309] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-22 13:23:10.493] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:10.494] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-22 13:23:10.646] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/ubuntu/Spoon-Knife)
+[2021-12-22 13:23:10.646] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-22 13:23:41.110] [remoteagent] [info] [127.0.0.1][897ba971][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-12-22 13:23:41.342] [remoteagent] [info] [127.0.0.1][9a420a5d][ExtensionHostConnection] <21949> Extension Host Process exited with code: 0, signal: null.
+[2021-12-22 17:05:42.002] [remoteagent] [info] [127.0.0.1][d9d1627e][ManagementConnection] The client has reconnected.
+[2021-12-22 17:05:42.158] [remoteagent] [info] [127.0.0.1][7dcb6f89][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 17:05:43.053] [remoteagent] [info] [127.0.0.1][2958410e][ManagementConnection] The client has reconnected.
+[2021-12-22 17:05:43.104] [remoteagent] [info] [127.0.0.1][60370ed6][ManagementConnection] The client has reconnected.
+[2021-12-22 17:05:43.171] [remoteagent] [info] [127.0.0.1][076818aa][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 17:05:46.245] [remoteagent] [info] [127.0.0.1][f2fdb771][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 17:08:57.840] [remoteagent] [info] [127.0.0.1][d9d1627e][ManagementConnection] The client has reconnected.
+[2021-12-22 17:09:31.831] [remoteagent] [info] [127.0.0.1][7dcb6f89][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 17:23:34.171] [remoteagent] [info] [127.0.0.1][60370ed6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-22 17:24:04.170] [remoteagent] [info] [127.0.0.1][2958410e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-22 17:35:08.139] [remoteagent] [info] [127.0.0.1][d9d1627e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-22 19:40:16.263] [remoteagent] [info] [127.0.0.1][2958410e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-22 19:40:16.263] [remoteagent] [info] [127.0.0.1][60370ed6][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-22 19:40:16.263] [remoteagent] [info] [127.0.0.1][d9d1627e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-22 19:40:16.265] [remoteagent] [info] [127.0.0.1][76fc7bae][ManagementConnection] New connection established.
+[2021-12-22 19:40:16.749] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-22 19:40:16.750] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-22 19:40:16.750] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-22 19:40:16.750] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-22 19:40:16.750] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-22 19:40:16.793] [remoteagent] [info] [127.0.0.1][c68a1cfb][ExtensionHostConnection] New connection established.
+[2021-12-22 19:40:16.838] [remoteagent] [info] [127.0.0.1][c68a1cfb][ExtensionHostConnection] <40741> Launched Extension Host Process.
+[2021-12-22 19:44:34.026] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-22 19:44:40.696] [remoteagent] [info] [127.0.0.1][76fc7bae][ManagementConnection] The client has reconnected.
+[2021-12-22 19:44:40.788] [remoteagent] [info] [127.0.0.1][c68a1cfb][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 19:45:40.814] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-22 19:46:10.295] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2021-12-22 19:46:25.212] [remoteagent] [info] [127.0.0.1][c68a1cfb][ExtensionHostConnection] <40741> Starting WebSocket: RAW/api/kernels/94448d92-8514-4224-8240-c121e159a565
+
+[2021-12-22 19:46:29.292] [remoteagent] [info] [127.0.0.1][76fc7bae][ManagementConnection] The client has reconnected.
+[2021-12-22 19:46:29.487] [remoteagent] [info] [127.0.0.1][c68a1cfb][ExtensionHostConnection] The client has reconnected.
+[2021-12-22 19:49:31.845] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

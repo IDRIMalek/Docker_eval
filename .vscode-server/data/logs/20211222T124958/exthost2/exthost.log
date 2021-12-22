@@ -1,0 +1,31 @@
+[2021-12-22 13:01:27.091] [exthost] [info] Extension host with pid 22302 started
+[2021-12-22 13:01:27.093] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock'
+[2021-12-22 13:01:27.094] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-12-22 13:01:27.096] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': The lock does not look stale, elapsed: 954 ms, giving up.
+[2021-12-22 13:01:27.097] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-1/vscode.lock'
+[2021-12-22 13:01:27.098] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-12-22 13:01:27.099] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-1/vscode.lock': The lock does not look stale, elapsed: 747 ms, giving up.
+[2021-12-22 13:01:27.107] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-2/vscode.lock': Lock acquired.
+[2021-12-22 13:01:27.462] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 13:01:27.471] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 13:01:27.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-22 13:01:27.480] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-22 13:01:27.485] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-22 13:01:28.239] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-22 13:01:28.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-22 13:01:28.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-22 13:01:28.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:01:28.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:01:28.550] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:01:28.695] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 13:01:28.787] [exthost] [info] Eager extensions activated
+[2021-12-22 13:01:29.168] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 756
+[2021-12-22 13:01:42.148] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 762
+[2021-12-22 13:01:47.339] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 762
+[2021-12-22 13:01:52.530] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 762
+[2021-12-22 13:02:06.940] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 765
+[2021-12-22 13:02:49.377] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 765
+[2021-12-22 13:02:55.405] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 765
+[2021-12-22 13:03:51.271] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-22 13:03:51.272] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-22 13:03:51.304] [exthost] [info] Extension host with pid 22302 exiting with code 0

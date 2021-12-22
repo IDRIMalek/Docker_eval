@@ -1,2 +1,0 @@
-The Docker extension will try to connect to 'unix:///var/run/docker.sock', via context 'default'.
-Error: (HTTP code 403) unexpected - error while removing network: network docker_eval_my_network id 496ad6254e900f2d86715cf50eae5aa4b0c22bf762547e285217b0cc0ca117bc has active endpoints 

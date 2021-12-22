@@ -1,0 +1,23 @@
+[Info  - 2:52:12 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 2:52:12 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 2:52:13 PM] No configuration file found.
+[Info  - 2:52:13 PM] No pyproject.toml file found.
+[Info  - 2:52:13 PM] Setting pythonPath for service "Spoon-Knife": "/bin/python3"
+[Warn  - 2:52:13 PM] stubPath /home/ubuntu/Spoon-Knife/typings is not a valid directory.
+[Info  - 2:52:13 PM] Assuming Python version 3.8
+[Info  - 2:52:13 PM] Assuming Python platform Linux
+[Warn  - 2:52:14 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:14 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:14 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:14 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:14 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:52:14 PM] Searching for source files
+[Error - 2:52:14 PM] File or directory "/home/ubuntu/Spoon-Knife" does not exist.
+[Info  - 2:52:14 PM] No source files found.
+[Info  - 2:52:14 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 2:52:14 PM] Background analysis(1) started
+[Info  - 2:52:22 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/FASTAPI/modelisation.py (8099ms)
+[Info  - 2:57:10 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (5497ms)
+[Info  - 2:57:10 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (5705ms)
+[Info  - 5:03:45 PM] [BG(1)] Long operation: checking: /home/ubuntu/FASTAPI/modelisation.py (2302ms)
+[Info  - 5:03:45 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/FASTAPI/modelisation.py (2332ms)

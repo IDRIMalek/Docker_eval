@@ -1,0 +1,20 @@
+[2021-12-22 12:50:01.812] [exthost] [info] Extension host with pid 21949 started
+[2021-12-22 12:50:01.815] [exthost] [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock'
+[2021-12-22 12:50:01.816] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-12-22 12:50:01.819] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': The lock does not look stale, elapsed: 329 ms, giving up.
+[2021-12-22 12:50:01.827] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-1/vscode.lock': Lock acquired.
+[2021-12-22 12:50:02.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-22 12:50:02.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-22 12:50:02.099] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-22 12:50:02.520] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-22 12:50:02.630] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-22 12:50:02.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-22 12:50:02.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 12:50:02.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 12:50:02.897] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 12:50:03.052] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 12:50:03.147] [exthost] [info] Eager extensions activated
+[2021-12-22 12:50:03.535] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 612
+[2021-12-22 13:23:41.303] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-22 13:23:41.305] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-22 13:23:41.331] [exthost] [info] Extension host with pid 21949 exiting with code 0

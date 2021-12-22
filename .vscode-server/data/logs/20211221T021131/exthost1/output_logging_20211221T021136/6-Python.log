@@ -1,0 +1,11 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotification' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> conda --version
+Starting Pylance language server.

@@ -1,0 +1,166 @@
+Validation du git trouvé dans : git
+Utilisation de git 2.25.1 à partir de git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/Projet2_DE
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+Informations d'identification manquantes ou non valides.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Miled07/Projet2_DE.git/'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/Projet2_DE/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git show --textconv :Projet2_DE_venv/server.py
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git cat-file -s f8841caf35f5a6e66fdf2e7e11a4b6942b0f4c6b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/Projet2_DE/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/Projet2_DE/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git checkout -q -b Malek --no-track HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.Malek.github-pr-owner-number
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git cat-file -s f8841caf35f5a6e66fdf2e7e11a4b6942b0f4c6b
+> git show --textconv :Projet2_DE_venv/server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.Malek.github-pr-owner-number
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git cat-file -s f8841caf35f5a6e66fdf2e7e11a4b6942b0f4c6b
+> git show --textconv :Projet2_DE_venv/server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push -u origin Malek
+remote: 
+remote: Create a pull request for 'Malek' on GitHub by visiting:        
+remote:      https://github.com/Miled07/Projet2_DE/pull/new/Malek        
+remote: 
+To https://github.com/Miled07/Projet2_DE.git
+ * [new branch]      Malek -> Malek
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.Malek.github-pr-owner-number
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git cat-file -s f8841caf35f5a6e66fdf2e7e11a4b6942b0f4c6b
+> git show --textconv :Projet2_DE_venv/server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Projet2_DE_venv/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py
+> git cat-file -s b2876d5a666dbc11bf5d970ae9bb28b5386b1fd5
+> git show --textconv :Projet2_DE_venv/pyvenv.cfg
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/pyvenv.cfg
+> git cat-file -s 853404e23c0366b53610217d8f603a2f9dd1feeb
+> git show --textconv :Projet2_DE_venv/modelisation.py
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/modelisation.py
+> git cat-file -s b2876d5a666dbc11bf5d970ae9bb28b5386b1fd5
+> git show --textconv :Projet2_DE_venv/pyvenv.cfg
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/pyvenv.cfg
+> git cat-file -s 853404e23c0366b53610217d8f603a2f9dd1feeb
+> git show --textconv :Projet2_DE_venv/server.py
+> git ls-files --stage -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git cat-file -s f8841caf35f5a6e66fdf2e7e11a4b6942b0f4c6b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/Projet2_DE/Projet2_DE_venv/server.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Malek refs/remotes/Malek
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin

@@ -1,0 +1,3 @@
+The Docker extension will try to connect to 'unix:///var/run/docker.sock', via context 'default'.
+Error: (HTTP code 409) conflict - remove 633eb9f3edd2e8be5dbc2bcc7a2802b043071f5c89b4f1aed5b171581f900db6: volume is in use - [cf97db75c854050905244375b655eb4dc24dda97204e9a963b79dbe8f4db6f92] 
+Error: (HTTP code 409) conflict - remove docker_eval_my_volume: volume is in use - [3c9f23217b49a38d0e6b6e7e0eb66c3e7b707d66aefe899c94ecddec15c134d8] 

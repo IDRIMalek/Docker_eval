@@ -1,0 +1,37 @@
+[2021-12-22 19:40:19.866] [exthost] [info] Extension host with pid 40741 started
+[2021-12-22 19:40:19.874] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/6a15bf1dcf954cc1932757d7944e8e3c/vscode.lock': Lock acquired.
+[2021-12-22 19:40:20.254] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 19:40:20.270] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 19:40:20.275] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-22 19:40:20.540] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 19:40:20.923] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 19:40:20.949] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-22 19:40:21.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-22 19:40:21.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-22 19:40:21.090] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-22 19:40:21.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-22 19:40:21.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-22 19:40:21.970] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-22 19:40:22.380] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-22 19:40:22.714] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+[2021-12-22 19:40:23.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 19:40:23.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 19:40:23.256] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 19:40:23.450] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-22 19:40:23.571] [exthost] [info] Eager extensions activated
+[2021-12-22 19:40:24.261] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 19:40:24.270] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-22 19:40:26.919] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-12-22 19:40:38.958] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 19:40:38.958] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-22 19:42:03.816] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-22 19:42:03.816] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-22 19:42:39.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'

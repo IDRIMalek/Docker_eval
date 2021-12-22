@@ -313,3 +313,20 @@ docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' my_a
 bash setup.sh
 ls
 mkdir chrurn
+ls
+ls 
+cd CHURN/
+ls
+cd Projet2_DE/
+source Projet2_DE_venv/bin/activate
+ls
+cd Projet2_DE_venv/
+ls
+uvicorn.run(server, host="0.0.0.0", port=int(5000))
+python3 
+ls
+cd Projet2
+source bin/activate
+pip freeze > requirements.txt
+cpvirtualenv FASTAPI Projet2
+exit
