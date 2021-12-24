@@ -1,0 +1,19 @@
+[2021-12-23 23:07:21.509] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-23 23:07:21.509] [remoteagent] [info] Extension host agent started.
+[2021-12-23 23:07:21.891] [remoteagent] [info] [127.0.0.1][87fc596f][ManagementConnection] New connection established.
+[2021-12-23 23:07:21.900] [remoteagent] [info] [127.0.0.1][7f4857bc][ExtensionHostConnection] New connection established.
+[2021-12-23 23:07:21.911] [remoteagent] [info] [127.0.0.1][7f4857bc][ExtensionHostConnection] <23400> Launched Extension Host Process.
+[2021-12-23 23:07:22.494] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[2021-12-23 23:07:22.494] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.

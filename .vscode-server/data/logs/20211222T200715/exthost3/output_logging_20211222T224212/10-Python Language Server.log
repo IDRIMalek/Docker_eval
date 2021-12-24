@@ -18,3 +18,32 @@
 [Info  - 10:42:24 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (2879ms)
 [Info  - 10:42:24 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (3216ms)
 [Info  - 10:42:27 PM] [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/Projet2/modelisation.py (2856ms)
+[Info  - 10:46:56 PM] Searching for source files
+[Info  - 10:46:56 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:46:57 PM] Found 12446 source files
+[Info  - 10:47:00 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (2852ms)
+[Info  - 10:47:00 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (3183ms)
+[Info  - 10:47:02 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (2005ms)
+[Info  - 10:47:06 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/modelisation.py (4402ms)
+[Info  - 10:47:06 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (4406ms)
+[Info  - 10:47:11 PM] Searching for source files
+[Info  - 10:47:12 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:47:12 PM] Found 12446 source files
+[Info  - 10:47:15 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (2533ms)
+[Info  - 10:47:15 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (2743ms)
+[Info  - 10:47:17 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/modelisation.py (2276ms)
+[Info  - 10:47:17 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (2286ms)
+[Info  - 10:52:27 PM] Searching for source files
+[Info  - 10:52:28 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:52:28 PM] Found 12446 source files
+[Info  - 10:52:32 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (3338ms)
+[Info  - 10:52:32 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (3841ms)
+[Info  - 10:52:34 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/modelisation.py (2319ms)
+[Info  - 10:52:34 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (2342ms)
+[Info  - 10:58:16 PM] Searching for source files
+[Info  - 10:58:16 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:58:16 PM] Found 12446 source files
+[Info  - 10:58:20 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/api.py (3530ms)
+[Info  - 10:58:20 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/api.py (3833ms)
+[Info  - 10:58:22 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/modelisation.py (2237ms)
+[Info  - 10:58:22 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/modelisation.py (2251ms)

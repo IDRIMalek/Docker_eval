@@ -7,3 +7,62 @@ Info 22:42:14: ZMQ install verified.
 Info 22:42:16: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
 Info 22:42:18: Process Execution: > /bin/python3 -m pip list
 > /bin/python3 -m pip list
+Info 22:47:01: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 22:47:01: Setting setActiveController for ~/Projet2/test.ipynb
+Info 22:47:01: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 22:47:01: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 22:47:01: Creating raw notebook for ~/Projet2/test.ipynb
+Info 22:47:01: Getting preferred kernel for ~/Projet2/test.ipynb
+Info 22:47:01: Computing working directory ~/Projet2/test.ipynb
+Info 22:47:02: Starting raw kernel Python 3.8.10 64-bit
+Info 22:47:02: installMissingDependencies /bin/python3
+Info 22:47:02: IPykernel found previously in this enviornment /bin/python3
+Info 22:47:02: Kernel launching with ports 9005,9006,9007,9008,9009. Start port is 9000
+Info 22:47:02: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 22:47:02: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 22:47:02: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 22:47:02: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/Projet2/test.ipynb
+Info 22:47:02: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/Projet2/test.ipynb
+Info 22:47:02: Setting controller affinity for ~/Projet2/test.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 22:47:02: Creating daemon process for /bin/python3 with env variables count 0
+Info 22:47:02: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 22:47:02: Starting kernel from scratch
+Info 22:47:03: Registering dummy command feature
+Warn 22:47:05: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 22:47:05: StdErr from Kernel Process   warn(
+
+Warn 22:47:05: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '451b34cf-69df-43c7-bfc4-dafc28b799f6' instead of 'b"451b34cf-69df-43c7-bfc4-dafc28b799f6"'.
+
+Warn 22:47:05: StdErr from Kernel Process   warn(
+
+Info 22:47:05: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 22:47:05: Finished connecting 6040669e-618a-438e-bee1-0359fd4366d2
+Info 22:47:05: UpdateWorkingDirectoryAndPath in Kernel
+Info 22:47:06: changeDirectoryIfPossible
+Info 22:47:06: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/Projet2"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 22:47:06: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/Projet2"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 22:47:06: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 22:47:06: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 22:47:06: Initialize matplotlib for file:///home/ubuntu/Projet2/test.ipynb
+Info 22:47:06: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 22:47:06: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 22:47:06: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 22:47:06: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 22:47:06: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 22:47:06: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 22:47:06: Waiting for idle on (kernel): 79ee8a1e-cd8e-4042-9171-638d0187c669 -> idle
+Info 22:47:06: Finished waiting for idle on (kernel): 79ee8a1e-cd8e-4042-9171-638d0187c669 -> idle
+Info 22:47:06: IPyWidgetScriptSource.initialize
+Info 23:16:34: Shutting down notebooks for 6040669e-618a-438e-bee1-0359fd4366d2
+Info 23:16:34: Disposing HostJupyterExecution 306f319a-8d95-4054-806e-4f7129a64cf3
+Info 23:16:34: Disposing super HostJupyterExecution 306f319a-8d95-4054-806e-4f7129a64cf3
+Info 23:16:34: Dispose kernel file:///home/ubuntu/Projet2/test.ipynb
+Info 23:16:34: Dispose Kernel process
+Info 23:16:34: kill daemon
+Info 23:16:34: Disposing HostJupyterExecution 306f319a-8d95-4054-806e-4f7129a64cf3
+Info 23:16:34: Finished disposing HostJupyterExecution  306f319a-8d95-4054-806e-4f7129a64cf3
+Info 23:16:34: Cleaning up server cache 306f319a-8d95-4054-806e-4f7129a64cf3
+Info 23:16:34: Finished disposing HostJupyterExecution  306f319a-8d95-4054-806e-4f7129a64cf3

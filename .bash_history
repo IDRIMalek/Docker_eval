@@ -330,3 +330,24 @@ source bin/activate
 pip freeze > requirements.txt
 cpvirtualenv FASTAPI Projet2
 exit
+cd Projet2
+python3 -m venv Projet2
+ls
+cd ..
+ls
+cd Projet2
+ls
+source bin/activate
+ls
+cd /$
+cd /
+cd home/ubuntu/
+ls
+deactivate
+cd Projet2/
+source bin/activate
+clear
+uvicorn api:api --reload
+cd ls
+ls
+uvicorn api:app --reload

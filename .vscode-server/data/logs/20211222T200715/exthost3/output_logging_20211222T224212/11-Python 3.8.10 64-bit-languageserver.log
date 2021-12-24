@@ -1,0 +1,33 @@
+[Info  - 10:47:03 PM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 10:47:03 PM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:47:03 PM] No configuration file found.
+[Info  - 10:47:03 PM] No pyproject.toml file found.
+[Info  - 10:47:03 PM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 10:47:03 PM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 10:47:03 PM] Assuming Python version 3.8
+[Info  - 10:47:03 PM] Assuming Python platform Linux
+[Warn  - 10:47:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:47:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:47:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:47:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 10:47:05 PM] Searching for source files
+[Info  - 10:47:06 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:47:07 PM] Found 12367 source files
+[Info  - 10:47:07 PM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 10:47:07 PM] Background analysis(1) started
+[Info  - 10:47:09 PM] [BG(1)] Long operation: getSemanticTokens range 82:0 - 98:32 at /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (2223ms)
+[Info  - 10:47:11 PM] Searching for source files
+[Info  - 10:47:12 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:47:12 PM] Found 12446 source files
+[Info  - 10:47:15 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (2730ms)
+[Info  - 10:47:15 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (2913ms)
+[Info  - 10:52:27 PM] Searching for source files
+[Info  - 10:52:28 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:52:28 PM] Found 12446 source files
+[Info  - 10:52:31 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (3352ms)
+[Info  - 10:52:31 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (3739ms)
+[Info  - 10:58:16 PM] Searching for source files
+[Info  - 10:58:16 PM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 10:58:16 PM] Found 12446 source files
+[Info  - 10:58:20 PM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (3393ms)
+[Info  - 10:58:20 PM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (3761ms)

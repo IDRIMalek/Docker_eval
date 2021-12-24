@@ -61,7 +61,7 @@ knn_predictions = knn.predict(X_test)
 knn_score = knn.score(X_test, y_test)
 knn_classification_report = classification_report(y_test, knn_predictions)
 #knn_output = output.format(model = knn ,model_name = model_name,score = knn_score,classification_report=knn_classification_report)
-models['knn']={"model": knn, "score":knn_score,"classification_report": knn_classification_report}
+models['knn']={"model": knn, "balanced":False, "score":knn_score,"classification_report": knn_classification_report}
 
 # SVM Model:
 model_name = "SVM Model"
@@ -71,7 +71,7 @@ svm_clf_predictions = svm_clf.predict(X_test)
 svm_clf_score = svm_clf.score(X_test, y_test)
 svm_clf_classification_report = classification_report(y_test, svm_clf_predictions)
 #svm_output = output.format(model=svm_clf, model_name = model_name,score = svm_clf_score,classification_report=svm_clf_classification_report)
-models['svm_clf']={"model": svm_clf, "score":svm_clf_score,"classification_report": svm_clf_classification_report}
+models['svm_clf']={"model": svm_clf, "balanced":False, "score":svm_clf_score,"classification_report": svm_clf_classification_report}
 
 # BalancedRandomForestClassifier Model
 model_name = "BalancedRandomForestClassifier Model"
@@ -81,7 +81,7 @@ predictions = brf.predict(X_test)
 brf_accuracy = balanced_accuracy_score(y_test, predictions)
 brf_class_report = classification_report(y_test, predictions)
 #brf_output = output.format(model = brf, model_name = model_name,score = brf_accuracy,classification_report=brf_class_report)
-models['brf']={"model": brf, "score":brf_accuracy,"classification_report": brf_class_report}
+models['brf']={"model": brf, "balanced":False,"score":brf_accuracy,"classification_report": brf_class_report}
 
 
 #SMOTE & ADASYN
@@ -96,7 +96,7 @@ smote_score = balanced_accuracy_score(y_test, predictions)
 ##pd.crosstab(y_test, predictions, rownames=['True'], colnames=['Predicted'])
 smote_class_report = classification_report(y_test, predictions)
 #smote_output = output.format(model= brfsa , model_name = model_name,score = smote_score,classification_report=smote_class_report)
-models['brfsa']={"model": brfsa, "score":smote_score,"classification_report": smote_class_report}
+models['brfsa']={"model": brfsa, "balanced":True ,"score":smote_score,"classification_report": smote_class_report}
 
 
 #Sous-échantillonnage aléatoire
@@ -111,7 +111,7 @@ RUS_score = balanced_accuracy_score(y_test, predictions)
 #pd.crosstab(y_test, predictions, rownames=['True'], colnames=['Predicted'])
 RUS_class_report = classification_report(y_test, predictions)
 #RUS_output = output.format(model=brfrus, model_name = model_name,score = RUS_score,classification_report=RUS_class_report)
-models['brfrus']={"model": brfrus, "score":RUS_score,"classification_report": RUS_class_report}
+models['brfrus']={"model": brfrus, "balanced":True , "score":RUS_score,"classification_report": RUS_class_report}
 
 
 #Suréchantillonnage suivi d'un sous-échantillonnage
@@ -126,7 +126,7 @@ smoteenn_score = balanced_accuracy_score(y_test, predictions)
 #pd.crosstab(y_test, predictions, rownames=['True'], colnames=['Predicted'])
 smoteenn_class_report = classification_report(y_test, predictions)
 #smoteenn_output = output.format(model=brfsm,model_name = model_name,score = smoteenn_score,classification_report=smoteenn_class_report)
-models['brfsm']={"model": brfsm, "score":smoteenn_score,"classification_report": smoteenn_class_report}
+models['brfsm']={"model": brfsm, "balanced":True ,"score":smoteenn_score,"classification_report": smoteenn_class_report}
 
 with open("models.bin", 'wb') as fichier:
     joblib.dump(models, fichier)

@@ -709,3 +709,6 @@
 	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
 	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
 	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-22 22:47:09.746] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-22 22:47:09.747] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/610fdc76025fc3c9a8a9c8cb00441721/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-22 22:47:10.810] [exthost] [info] Extension host with pid 1452 exiting with code 0
