@@ -7,14 +7,16 @@
 * as described in the license https://aka.ms/vscode-remote/license
 *
 
-Extension host agent listening on 42077
+Extension host agent listening on 33373
 
-[23:07:21] Extension host agent started.
-[23:07:21] [127.0.0.1][87fc596f][ManagementConnection] New connection established.
-[23:07:21] [127.0.0.1][7f4857bc][ExtensionHostConnection] New connection established.
-[23:07:21] [127.0.0.1][7f4857bc][ExtensionHostConnection] <23400> Launched Extension Host Process.
-[23:07:22] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
-[23:07:22] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
-[23:07:22] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
-[23:07:22] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
-[23:07:22] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[06:19:58] Extension host agent started.
+[06:19:58] [127.0.0.1][5cb7e40f][ManagementConnection] New connection established.
+[06:19:58] [127.0.0.1][0a80ecde][ExtensionHostConnection] New connection established.
+[06:19:58] [127.0.0.1][0a80ecde][ExtensionHostConnection] <32494> Launched Extension Host Process.
+[06:19:59] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.prompt.
+[06:19:59] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.seeTerms.
+[06:19:59] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
+[06:19:59] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
+[06:19:59] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[06:29:26] [127.0.0.1][0a80ecde][ExtensionHostConnection] <32494> Starting WebSocket: RAW/api/kernels/99c7fef4-febb-4b84-b874-c2fafdde3004
+

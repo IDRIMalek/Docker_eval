@@ -348,3 +348,7 @@
 	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
 	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
 [2021-12-24 00:12:00.974] [exthost] [error] No tree item with id '1/gitlens:repository(/home/ubuntu)' found.
+[2021-12-24 03:13:51.481] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-12-24 03:13:51.482] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/610fdc76025fc3c9a8a9c8cb00441721/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-24 03:13:51.533] [exthost] [warning] {"name":"Canceled"}
+[2021-12-24 03:13:51.535] [exthost] [info] Extension host with pid 23400 exiting with code 0

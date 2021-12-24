@@ -1,0 +1,89 @@
+Jupyter Extension Version: 2021.11.1001550889.
+Python Extension Verison: 2021.12.1559732655.
+Info 06:20:04: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 06:20:04: ZMQ install verified.
+Info 06:20:05: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 06:20:06: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 06:29:24: Creating controller for jupyter-notebook with interpreter /bin/python3
+Info 06:29:24: Setting setActiveController for ~/Projet2/test.ipynb
+Info 06:29:24: KernelProvider switched kernel to id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 06:29:24: Starting Notebook in kernel.ts id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 06:29:24: Creating raw notebook for ~/Projet2/test.ipynb
+Info 06:29:24: Getting preferred kernel for ~/Projet2/test.ipynb
+Info 06:29:24: Computing working directory ~/Projet2/test.ipynb
+Info 06:29:24: Starting raw kernel Python 3.8.10 64-bit
+Info 06:29:24: installMissingDependencies /bin/python3
+Info 06:29:24: IPykernel found previously in this enviornment /bin/python3
+Info 06:29:24: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 06:29:24: Launching kernel daemon for Python 3.8.10 64-bit # /bin/python3
+Info 06:29:24: No custom variables for Kernel as interpreter is not conda, but is Global
+Info 06:29:24: Freferred kernel connection found in cache .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 06:29:24: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: ~/Projet2/test.ipynb
+Info 06:29:24: TargetController found ID: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for document ~/Projet2/test.ipynb
+Info 06:29:24: Setting controller affinity for ~/Projet2/test.ipynb .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+Info 06:29:24: Creating daemon process for /bin/python3 with env variables count 0
+Info 06:29:24: Process Execution: > /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /bin/python3 -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 06:29:24: Registering dummy command feature
+Info 06:29:24: Starting kernel from scratch
+Warn 06:29:26: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 06:29:26: StdErr from Kernel Process   warn(
+
+Warn 06:29:26: StdErr from Kernel Process /home/ubuntu/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '57d087dd-a33a-4239-b75d-c0d46e04d301' instead of 'b"57d087dd-a33a-4239-b75d-c0d46e04d301"'.
+
+Warn 06:29:26: StdErr from Kernel Process   warn(
+
+Info 06:29:26: Raw session started and connected
+Started kernel Python 3.8.10 64-bit
+Info 06:29:26: Finished connecting ee143510-0133-41ef-9bb8-68a90de9cd83
+Info 06:29:26: UpdateWorkingDirectoryAndPath in Kernel
+Info 06:29:26: changeDirectoryIfPossible
+Info 06:29:26: Executing (status idle) silently Code = import os\nimport sys\n%cd "/home/ubuntu/Projet2"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 06:29:26: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/ubuntu/Projet2"\nif os.getcwd() not in sys.path:\nsys.path.insert(
+Info 06:29:26: Executing (status idle) silently Code = %config Completer.use_jedi = False
+Info 06:29:26: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 06:29:26: Initialize matplotlib for file:///home/ubuntu/Projet2/test.ipynb
+Info 06:29:26: Executing (status idle) silently Code = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 06:29:26: Executing silently Code (completed) = import matplotlib\n%matplotlib inline\n_VSCode_defaultMatplotlib_Params = dict(matplotlib.rcParams)\n%c
+Info 06:29:26: Executing (status idle) silently Code = matplotlib.style.use('dark_background')
+Info 06:29:27: Executing silently Code (completed) = matplotlib.style.use('dark_background')
+Info 06:29:27: Executing (status idle) silently Code = import sys\nprint(sys.executable)
+Info 06:29:27: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 06:29:27: Waiting for idle on (kernel): 99c7fef4-febb-4b84-b874-c2fafdde3004 -> idle
+Info 06:29:27: Finished waiting for idle on (kernel): 99c7fef4-febb-4b84-b874-c2fafdde3004 -> idle
+Info 06:29:27: IPyWidgetScriptSource.initialize
+Info 06:29:27: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 06:30:46: Execute Cells request 0
+Info 06:30:46: Execute Cell 0 ~/Projet2/test.ipynb
+Info 06:30:46: Cell 0 executed with state Success
+Info 06:31:31: Execute Cells request 1
+Info 06:31:31: Execute Cell 1 ~/Projet2/test.ipynb
+Info 06:31:31: Cell 1 executed with state Success
+Info 06:31:43: Execute Cells request 2
+Info 06:31:43: Execute Cell 2 ~/Projet2/test.ipynb
+Info 06:31:43: Cell 2 executed with state Success
+Info 06:31:56: Execute Cells request 3
+Info 06:31:56: Execute Cell 3 ~/Projet2/test.ipynb
+Info 06:31:57: Cell 3 executed with state Success
+Info 06:32:16: Execute Cells request 0
+Info 06:32:16: Execute Cell 0 ~/Projet2/test.ipynb
+Info 06:32:16: Cell 0 executed with state Success
+Info 06:32:18: Execute Cells request 1
+Info 06:32:18: Execute Cell 1 ~/Projet2/test.ipynb
+Info 06:32:18: Cell 1 executed with state Success
+Info 06:32:22: Execute Cells request 2
+Info 06:32:22: Execute Cell 2 ~/Projet2/test.ipynb
+Info 06:32:22: Cell 2 executed with state Success
+Info 06:32:25: Execute Cells request 3
+Info 06:32:25: Execute Cell 3 ~/Projet2/test.ipynb
+Info 06:32:25: Cell 3 executed with state Success
+Info 06:33:56: Execute Cells request 5
+Info 06:33:56: Execute Cell 5 ~/Projet2/test.ipynb
+Info 06:33:57: Cancel all remaining cells true || Error
+Info 06:33:57: Cancel pending cells
+Info 06:33:57: Cell 5 executed with state Error

@@ -1,0 +1,19 @@
+[Info  - 6:29:24 AM] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 6:29:24 AM] Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 6:29:24 AM] No configuration file found.
+[Info  - 6:29:24 AM] No pyproject.toml file found.
+[Info  - 6:29:24 AM] Setting pythonPath for service "ubuntu": "/bin/python3"
+[Warn  - 6:29:24 AM] stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 6:29:24 AM] Assuming Python version 3.8
+[Info  - 6:29:24 AM] Assuming Python platform Linux
+[Warn  - 6:29:25 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:29:25 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:29:25 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:29:25 AM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 6:29:25 AM] Searching for source files
+[Info  - 6:29:26 AM] Auto-excluding /home/ubuntu/Projet2
+[Info  - 6:29:27 AM] Found 12367 source files
+[Info  - 6:29:27 AM] Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 6:29:27 AM] Background analysis(1) started
+[Info  - 6:29:30 AM] [BG(1)] Long operation: checking: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (2405ms)
+[Info  - 6:29:30 AM] [BG(1)] Long operation: analyzing: /home/ubuntu/Projet2/_NotebookConcat_40b4fd44777a.py (2406ms)

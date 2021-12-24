@@ -17,3 +17,8 @@
 [2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.terms.
 [2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.accept.
 [2021-12-23 23:07:22.495] [remoteagent] [warning] /home/ubuntu/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.15 Couldn't find message for key license.decline.
+[2021-12-24 00:13:41.318] [remoteagent] [info] [127.0.0.1][87fc596f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-24 03:13:49.299] [remoteagent] [info] [127.0.0.1][87fc596f][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-12-24 03:13:51.547] [remoteagent] [info] [127.0.0.1][7f4857bc][ExtensionHostConnection] <23400> Extension Host Process exited with code: 0, signal: null.
+[2021-12-24 03:13:51.548] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-24 03:18:51.548] [remoteagent] [info] Last EH closed, shutting down

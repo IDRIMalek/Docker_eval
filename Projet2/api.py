@@ -11,16 +11,14 @@ from pydantic import BaseModel
 import joblib
 from sklearn.preprocessing import StandardScaler
 import numpy  as np
-from imblearn.over_sampling import SMOTE
-from imblearn.under_sampling import RandomUnderSampler
-from imblearn.combine import SMOTEENN
+#from imblearn.over_sampling import SMOTE
+#from imblearn.under_sampling import RandomUnderSampler
+#from imblearn.combine import SMOTEENN
 
 
 app = FastAPI()
 
 security = HTTPBasic()
-
-df = pd.read_csv("questions.csv")
 
 
 class Feature(BaseModel):
@@ -183,8 +181,7 @@ def post_(feature:Feature, model: str, username: str = Depends(get_current_usern
         "PaymentMethod": feature.PaymentMethod,
         "MonthlyCharges": feature.MonthlyCharges,
         "TotalCharges": feature.TotalCharges
-    }
-       
+    } 
  
     df = pd.read_csv('datasets/churn.csv')
     
@@ -200,15 +197,10 @@ def post_(feature:Feature, model: str, username: str = Depends(get_current_usern
 
     # Data separation for modelisation:
     X = df_clean.drop("Churn", axis = 1)
-    y = df_clean.Churn
 
     # Data standardisation:
     scaler=StandardScaler()
-    X_scaled_=scaler.fit(X).transform(X)
     X_scaled=pd.DataFrame(scaler.fit(X).transform(X))
-    X_scaled_unbalaleced, y_unbalaleced = X_scaled, y 
-
-
 
     #Chargement des models
     with open('models.bin', 'rb') as fichier:
@@ -216,20 +208,7 @@ def post_(feature:Feature, model: str, username: str = Depends(get_current_usern
          
     #Vérification de la présence du model souhaité
     if model in models.keys(): 
-        #Si le model fait partie des models rééquilibrés
-        if models[model]["balanced"]: 
-            if model== 'brfsa':
-                X_resampled, y_resampled = SMOTE(random_state=42).fit_resample(X_scaled_unbalaleced, y_unbalaleced)
-            if model== 'brfrus':
-                X_resampled, y_resampled = RandomUnderSampler(random_state=42).fit_resample(X_scaled_unbalaleced, y_unbalaleced)
-            if model== 'brfsm':
-                X_resampled, y_resampled = SMOTEENN(random_state=42).fit_resample(X_scaled_unbalaleced, y_unbalaleced)               
-            #retrouver notre éléments dans les données standardisés à l'aide de l'index
-            X_new_feature=X_resampled.iloc[indexfeature-1] 
-        else: 
-            #retrouver notre éléments dans les données standardisés à l'aide de l'index
-            X_new_feature=X_scaled.iloc[indexfeature-1]  
-                 
+        X_new_feature=X_scaled.iloc[indexfeature-1]        
         X_new_feature=X_new_feature.values.reshape(1,-1)
         if models[model]["model"].predict(X_new_feature).tolist()[0]==1: 
             result='Churn = Yes '

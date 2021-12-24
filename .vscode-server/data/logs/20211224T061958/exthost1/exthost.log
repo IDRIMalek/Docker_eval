@@ -1,0 +1,244 @@
+[2021-12-24 06:20:02.271] [exthost] [info] Extension host with pid 32494 started
+[2021-12-24 06:20:02.291] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/610fdc76025fc3c9a8a9c8cb00441721/vscode.lock': Lock acquired.
+[2021-12-24 06:20:02.495] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-24 06:20:02.503] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2021-12-24 06:20:02.507] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-24 06:20:02.514] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-24 06:20:02.516] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-24 06:20:02.750] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-24 06:20:03.107] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-24 06:20:03.124] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-24 06:20:03.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-24 06:20:03.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-24 06:20:03.269] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-24 06:20:03.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 06:20:03.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 06:20:03.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 06:20:03.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-24 06:20:03.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-24 06:20:04.311] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-24 06:20:04.610] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+[2021-12-24 06:20:05.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 06:20:05.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 06:20:05.057] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 06:20:05.197] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 06:20:05.286] [exthost] [info] Eager extensions activated
+[2021-12-24 06:20:09.720] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:20:09.720] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:20:09.721] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:20:09.721] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:20:10.312] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:20:10.312] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:20:16.134] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:20:16.134] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:20:20.688] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:20:20.688] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:21:23.677] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-24 06:22:16.042] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:22:16.042] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:22:59.098] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:22:59.098] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:25:19.348] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:25:19.348] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:25:44.520] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:25:44.521] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:27:13.103] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:27:13.103] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+	at p (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+	at async z.provideCompletionItems (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:101516)
+[2021-12-24 06:27:14.304] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:27:14.304] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:27:29.426] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:27:29.426] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:127536
+	at async A.provideCodeActions (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:93216)
+[2021-12-24 06:27:29.832] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:27:29.832] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:121005
+	at async j.provideSignatureHelp (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:105464)
+[2021-12-24 06:29:05.620] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:29:05.620] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:29:09.186] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:29:09.186] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:29:23.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-24 06:29:23.889] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-24 06:29:27.554] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:27.554] [exthost] [error] Error: request cancelled
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697077
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697371
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697734)
+	at processImmediate (internal/timers.js:461:21)
+[2021-12-24 06:29:28.048] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:28.048] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:1394555
+	at async U.provideDocumentRangeSemanticTokens (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:100817)
+[2021-12-24 06:29:30.479] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:30.479] [exthost] [error] Error: request cancelled
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697077
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697371
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697734)
+	at processImmediate (internal/timers.js:461:21)
+[2021-12-24 06:29:30.488] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:30.488] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:1394555
+	at async U.provideDocumentRangeSemanticTokens (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:100817)
+[2021-12-24 06:29:30.489] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:30.490] [exthost] [error] Error: request cancelled
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697077
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697371
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:697734)
+	at processImmediate (internal/timers.js:461:21)
+[2021-12-24 06:29:30.491] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:30.491] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:66:1394555
+	at async U.provideDocumentRangeSemanticTokens (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:100817)
+[2021-12-24 06:29:45.844] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:45.844] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:29:48.912] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:48.913] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:29:53.659] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:53.659] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:29:56.854] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:29:56.854] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:30:05.956] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:30:05.956] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:30:37.181] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:30:37.181] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:32:10.028] [exthost] [warning] TextEditor is closed/disposed
+[2021-12-24 06:32:30.334] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:32:30.335] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:32:32.261] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:32:32.261] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:32:32.964] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:32:32.964] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:32:46.713] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:32:46.713] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:33:29.990] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:33:29.990] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:33:31.202] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-24 06:33:31.202] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176654)
+	at w.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:176505)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.11.1001550889/out/client/extension.js:16:136847
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:43:08.545] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:43:08.545] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:43:18.966] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:43:18.966] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
+[2021-12-24 06:44:01.211] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-24 06:44:01.211] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+	at S.handleFailedRequest (/home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+	at async o.provideHover (/home/ubuntu/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:95:90908)
