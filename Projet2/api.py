@@ -220,3 +220,31 @@ def post_(feature:Feature, model: str, username: str = Depends(get_current_usern
 
 if __name__ == "__main__":
     uvicorn.run("api:app", host="0.0.0.0", port=8000, reload=True, log_level="info")
+
+
+@app.post('/infosmodel/{model:str}')
+def post_(feature:Feature, model: str, username: str = Depends(get_current_username)):
+    """
+    Models \n
+    **knn**: KNeighborsClassifier </br>
+    **svm_clf**: SVM Model </br>
+    **brf** : BalancedRandomForestClassifier </br>
+    **brfsa** : BalancedRandomForestClassifier + réquilibrage (SMOTE & ADASYN) </br>
+    **brfrus**: BalancedRandomForestClassifier + réquilibrage (RandomUnderSampler) </br>
+    **brfsm** : BalancedRandomForestClassifier + réquilibrage (SMOTEENN) </br>
+    """
+
+    #Chargement des models
+    with open('models.bin', 'rb') as fichier:
+         models= joblib.load(fichier)
+         
+    #Vérification de la présence du model souhaité
+    if model in models.keys(): 
+        classification_report=json.loads(models[model]["classification_report"])
+        info={"score": round(models[model]["score"], 3),"classification_report": classification_report }
+        return info
+    else: 
+        return 'model introuvable'
+
+if __name__ == "__main__":
+    uvicorn.run("api:app", host="0.0.0.0", port=8000, reload=True, log_level="info")
